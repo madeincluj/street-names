@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+	<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta charset="utf-8"/>
+  
+		<title>Adding street names</title>
+    <link rel="stylesheet" href="" /> 
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <style type="text/css">
+     #map { height: 400px; }
+    </style>
+		<script type="text/javascript" src="js/lib/leaflet.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    
+function load(data) {
+  streetList = data.features;
+}
+    </script>
+	</head>
+	<body>
+    <header>
+      Add street names
+    </header>
+		<div id="map"></div>
+		<script type="text/javascript" src="streets.geojson"></script>
+		<script type="text/javascript" src="js/map-init.js"></script>
+	</body>
+</html>
