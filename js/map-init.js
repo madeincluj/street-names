@@ -14,9 +14,19 @@ L.tileLayer(StamenTiles).addTo(map);
 //Keep track of the currently selected street
 var selectedStreet;
 
+_.templateSettings = {
+  interpolate: /\{\{(.+?)\}\}/g
+};
 
 console.log(streetList.length);
 var len = streetList.length;
+var editBox = {
+  elem: $("#edit"),
+
+  update: function(street) {
+    this.elem.html(_.template($("#edit-box-template").html(), street, {'variable':'data'}));
+  }
+};
 
 for (var i = 0; i < len; i++) {
 
@@ -49,8 +59,9 @@ for (var i = 0; i < len; i++) {
         })
         .on('click',function(e) {
             //Update the infobox with the street info
+           if (selectedStreet) selectedStreet.setStyle({opacity: 0.3, color:'blue'});
             selectedStreet = this;
-            infoBox.update(street);
+            editBox.update(street);
         });                
 
     //add the polyline to the map

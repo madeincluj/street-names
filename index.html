@@ -9,6 +9,16 @@
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
     <style type="text/css">
      #map { height: 400px; }
+     #edit {
+       position: absolute;
+       z-index: 1000;
+       top: 10px;
+       right: 0px;
+
+       width: 100px;
+       height:200px;
+       background: #ddd;
+     }
     </style>
 		<script type="text/javascript" src="js/lib/leaflet.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -25,6 +35,18 @@ function load(data) {
     </header>
 		<div id="map"></div>
 		<script type="text/javascript" src="streets.geojson"></script>
+		<script type="text/javascript" src="js/lib/underscore-min.js"></script>
 		<script type="text/javascript" src="js/map-init.js"></script>
+    <div id="edit"></div>
+
+    <script type="text/template" id="edit-box-template">
+Name: 
+{{ data.properties.name}} 
+    
+    <h1>Description</h1>
+    <p>blabla</p>
+    <button>Add Name</button>
+
+    </script>
 	</body>
 </html>
