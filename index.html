@@ -16,7 +16,12 @@
     
 function load(data) {
   streetList = data.features.filter(function(i) {
-    return !i.properties.name;
+    return i.properties.name && (!i.properties.operator || i.properties.operator !== 'RATUC');
+  }).map(function(i) {
+    i.properties.id = i.id.split('/')[1];
+    delete i.properties['@id'];
+    delete i.id;
+    return i;
   });
 }
     </script>
