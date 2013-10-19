@@ -15,7 +15,9 @@
     <script type="text/javascript">
     
 function load(data) {
-  streetList = data.features;
+  streetList = data.features.filter(function(i) {
+    return !i.properties.name;
+  });
 }
     </script>
 	</head>
