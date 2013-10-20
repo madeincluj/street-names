@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340344",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Muzicii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5854685,
+        46.7476904
+      ],
+      [
+        23.5823716,
+        46.7476973
+      ]
+    ]
+  },
+  "id": "way/169340344"
+}

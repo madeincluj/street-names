@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623607",
+    "highway": "living_street",
+    "maxspeed": "RO:urban",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6150864,
+        46.7696853
+      ],
+      [
+        23.6157114,
+        46.7696559
+      ]
+    ]
+  },
+  "id": "way/31623607"
+}

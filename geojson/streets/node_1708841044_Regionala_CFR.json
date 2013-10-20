@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1708841044",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lines": "4,6,7,8,24,24b,30",
+    "name": "Regionala CFR",
+    "name:hu": "Területi CFR Igazgatóság",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5973517,
+      46.7732939
+    ]
+  },
+  "id": "node/1708841044"
+}

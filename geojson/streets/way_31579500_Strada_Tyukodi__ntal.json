@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579500",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tyukodi Ántal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.573845,
+        46.778908
+      ],
+      [
+        23.573892,
+        46.7787428
+      ],
+      [
+        23.5739195,
+        46.7786125
+      ],
+      [
+        23.574074,
+        46.7780188
+      ],
+      [
+        23.5740826,
+        46.777866
+      ],
+      [
+        23.5740911,
+        46.7775368
+      ]
+    ]
+  },
+  "id": "way/31579500"
+}

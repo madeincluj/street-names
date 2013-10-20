@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283574",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ștefan Ludwig Roth",
+    "name:hu": "Stephan Ludwig Roth utca",
+    "old_name:hu": "Kőmálalja utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.586301,
+        46.7747017
+      ],
+      [
+        23.5862152,
+        46.774627
+      ],
+      [
+        23.5861293,
+        46.7744727
+      ]
+    ]
+  },
+  "id": "way/24283574"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616529",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Trandafirilor",
+    "name:hu": "Rózsa utca",
+    "old_name:hu": "Kürt utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5744004,
+        46.7852599
+      ],
+      [
+        23.5738557,
+        46.7866368
+      ]
+    ]
+  },
+  "id": "way/31616529"
+}

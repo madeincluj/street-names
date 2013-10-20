@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/171984088",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Harghita"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6388419,
+        46.7789201
+      ],
+      [
+        23.6393216,
+        46.7779969
+      ]
+    ]
+  },
+  "id": "way/171984088"
+}

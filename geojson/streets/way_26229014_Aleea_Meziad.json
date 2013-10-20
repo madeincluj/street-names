@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229014",
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "motor_vehicle": "yes",
+    "name": "Aleea Meziad",
+    "name:hu": "Mézged utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5475239,
+        46.750742
+      ],
+      [
+        23.5480389,
+        46.7508361
+      ],
+      [
+        23.5486569,
+        46.7508596
+      ]
+    ]
+  },
+  "id": "way/26229014"
+}

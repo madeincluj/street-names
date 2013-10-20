@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31665892",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sarmisegeduza",
+    "name:hu": "Sarmisegethusa utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6212539,
+        46.7752694
+      ],
+      [
+        23.6251377,
+        46.7757994
+      ]
+    ]
+  },
+  "id": "way/31665892"
+}

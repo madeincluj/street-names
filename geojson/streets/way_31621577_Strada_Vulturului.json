@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31621577",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vulturului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6150741,
+        46.7877861
+      ],
+      [
+        23.613821,
+        46.7880035
+      ]
+    ]
+  },
+  "id": "way/31621577"
+}

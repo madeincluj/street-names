@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615186",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Plopilor",
+    "name:hu": "Nyárfasor utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5699015,
+        46.7635683
+      ],
+      [
+        23.5689657,
+        46.7631556
+      ],
+      [
+        23.5681744,
+        46.7632238
+      ],
+      [
+        23.5658487,
+        46.7634664
+      ],
+      [
+        23.5646047,
+        46.7636007
+      ],
+      [
+        23.5640446,
+        46.7642459
+      ]
+    ]
+  },
+  "id": "way/26615186"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223812810",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jupiter",
+    "name:ro": "Strada Jupiter"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5395115,
+        46.7855117
+      ],
+      [
+        23.5397949,
+        46.785483
+      ],
+      [
+        23.541026,
+        46.7850916
+      ],
+      [
+        23.5425232,
+        46.7846581
+      ],
+      [
+        23.5429357,
+        46.7846405
+      ],
+      [
+        23.5436487,
+        46.7847884
+      ],
+      [
+        23.5437628,
+        46.7847355
+      ]
+    ]
+  },
+  "id": "way/223812810"
+}

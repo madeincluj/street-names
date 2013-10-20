@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267671",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada George Călinescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5802706,
+        46.7465988
+      ],
+      [
+        23.5792568,
+        46.7471244
+      ],
+      [
+        23.5789832,
+        46.7473156
+      ]
+    ]
+  },
+  "id": "way/169267671"
+}

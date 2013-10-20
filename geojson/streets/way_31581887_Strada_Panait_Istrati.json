@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31581887",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Panait Istrati",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5833179,
+        46.7504369
+      ],
+      [
+        23.5807234,
+        46.7497736
+      ]
+    ]
+  },
+  "id": "way/31581887"
+}

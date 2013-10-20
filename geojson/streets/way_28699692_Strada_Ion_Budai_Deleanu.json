@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28699692",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Budai Deleanu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6062835,
+        46.7630657
+      ],
+      [
+        23.6070584,
+        46.7626123
+      ],
+      [
+        23.6081788,
+        46.7619693
+      ],
+      [
+        23.6105208,
+        46.760607
+      ],
+      [
+        23.6118631,
+        46.7598229
+      ],
+      [
+        23.6137527,
+        46.7587064
+      ]
+    ]
+  },
+  "id": "way/28699692"
+}

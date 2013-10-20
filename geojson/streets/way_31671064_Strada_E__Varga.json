@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31671064",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada E. Varga"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5985278,
+        46.7844286
+      ],
+      [
+        23.5986309,
+        46.7856513
+      ]
+    ]
+  },
+  "id": "way/31671064"
+}

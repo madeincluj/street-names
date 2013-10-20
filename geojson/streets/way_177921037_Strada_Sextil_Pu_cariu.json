@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921037",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sextil Pușcariu",
+    "name:hu": "Sextil Pușcariu utca",
+    "old_name:hu": "Bocskai utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5878651,
+        46.7710659
+      ],
+      [
+        23.5885918,
+        46.7713339
+      ],
+      [
+        23.5883872,
+        46.7718434
+      ]
+    ]
+  },
+  "id": "way/177921037"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149954",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Costache Negri"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6044311,
+        46.7479255
+      ],
+      [
+        23.6036181,
+        46.7495452
+      ]
+    ]
+  },
+  "id": "way/169149954"
+}

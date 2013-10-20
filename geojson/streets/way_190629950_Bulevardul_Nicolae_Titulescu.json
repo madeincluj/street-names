@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/190629950",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Bulevardul Nicolae Titulescu",
+    "name:hu": "Nicolae Titulescu sugárút",
+    "old_name:hu": "Pata utca",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6011676,
+        46.7677037
+      ],
+      [
+        23.6002662,
+        46.767489
+      ],
+      [
+        23.6000749,
+        46.7674989
+      ]
+    ]
+  },
+  "id": "way/190629950"
+}

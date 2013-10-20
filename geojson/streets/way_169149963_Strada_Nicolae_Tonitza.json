@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149963",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Tonitza"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6013987,
+        46.7527889
+      ],
+      [
+        23.60184,
+        46.7510903
+      ],
+      [
+        23.6023022,
+        46.7492181
+      ]
+    ]
+  },
+  "id": "way/169149963"
+}

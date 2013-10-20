@@ -1,0 +1,65 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/61185447",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "2",
+    "name": "Strada Borhanciului",
+    "name:hu": "Borháncs utca",
+    "ref": "DJ103G",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "surface_survey": "13JUN2012 - DJ107P@online - 2 benzi pe sens, asfalt bun, viteza de confort 120 pentru enduro-touring si standard, se termina brusc la intrarea in Cluj"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6324115,
+        46.7528624
+      ],
+      [
+        23.6320526,
+        46.7530094
+      ],
+      [
+        23.6313844,
+        46.7533527
+      ],
+      [
+        23.6293686,
+        46.7541745
+      ],
+      [
+        23.6291787,
+        46.7542605
+      ],
+      [
+        23.6279529,
+        46.7547975
+      ],
+      [
+        23.6270928,
+        46.7552345
+      ],
+      [
+        23.6267369,
+        46.7554738
+      ],
+      [
+        23.6256938,
+        46.7561754
+      ],
+      [
+        23.6253989,
+        46.7563583
+      ],
+      [
+        23.6249805,
+        46.7565164
+      ]
+    ]
+  },
+  "id": "way/61185447"
+}

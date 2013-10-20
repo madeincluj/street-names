@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31650166",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bisericii Ortodoxe",
+    "name:hu": "Görögtemplom utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5923618,
+        46.7613757
+      ],
+      [
+        23.5916439,
+        46.7612532
+      ],
+      [
+        23.5912405,
+        46.7618353
+      ],
+      [
+        23.5911259,
+        46.7620813
+      ],
+      [
+        23.5903401,
+        46.7636722
+      ],
+      [
+        23.5901609,
+        46.7639622
+      ],
+      [
+        23.5899792,
+        46.7642061
+      ]
+    ]
+  },
+  "id": "way/31650166"
+}

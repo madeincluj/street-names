@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/32010926",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Anton Pann",
+    "name:hu": "Anton Pann utca",
+    "old_name:hu": "Kriza János utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5967828,
+        46.778413
+      ],
+      [
+        23.596353,
+        46.7797557
+      ]
+    ]
+  },
+  "id": "way/32010926"
+}

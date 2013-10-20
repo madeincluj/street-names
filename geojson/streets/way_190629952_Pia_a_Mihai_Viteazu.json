@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/190629952",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Piața Mihai Viteazu",
+    "name:hu": "Vitéz Mihály tér",
+    "old_name:hu": "Széchenyi tér",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5900406,
+        46.774619
+      ],
+      [
+        23.5902595,
+        46.7742854
+      ],
+      [
+        23.5903011,
+        46.7741562
+      ]
+    ]
+  },
+  "id": "way/190629952"
+}

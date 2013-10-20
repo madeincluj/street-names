@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225750",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dâmbul Rotund"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5750346,
+        46.7893989
+      ],
+      [
+        23.575079,
+        46.7897674
+      ],
+      [
+        23.5775585,
+        46.7906934
+      ]
+    ]
+  },
+  "id": "way/227225750"
+}

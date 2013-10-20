@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28464100",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Mărășești",
+    "name:hu": "Mărășești utca",
+    "old_name:hu": "Krizbai utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5995181,
+        46.7821485
+      ],
+      [
+        23.6015516,
+        46.7817184
+      ],
+      [
+        23.6029362,
+        46.7815263
+      ],
+      [
+        23.6039007,
+        46.781339
+      ]
+    ]
+  },
+  "id": "way/28464100"
+}

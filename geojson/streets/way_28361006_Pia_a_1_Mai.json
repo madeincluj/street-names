@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28361006",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Piața 1 Mai",
+    "name:hu": "Május 1. tér",
+    "old_name:hu": "Korvin tér",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6049667,
+        46.7862451
+      ],
+      [
+        23.6058694,
+        46.7861584
+      ],
+      [
+        23.6058173,
+        46.7856666
+      ]
+    ]
+  },
+  "id": "way/28361006"
+}

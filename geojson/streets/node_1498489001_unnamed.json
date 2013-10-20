@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1498489001",
+    "crossing": "uncontrolled",
+    "highway": "crossing"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6364956,
+      46.7831062
+    ]
+  },
+  "id": "node/1498489001"
+}

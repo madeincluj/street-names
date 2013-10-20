@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584357",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pintenului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5673622,
+        46.7878202
+      ],
+      [
+        23.565898,
+        46.7899679
+      ]
+    ]
+  },
+  "id": "way/31584357"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267669",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Báthory István"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5897171,
+        46.7396914
+      ],
+      [
+        23.5883574,
+        46.7399595
+      ]
+    ]
+  },
+  "id": "way/169267669"
+}

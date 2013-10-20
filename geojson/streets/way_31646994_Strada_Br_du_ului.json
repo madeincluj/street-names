@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646994",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Brăduțului",
+    "name:hu": "Fenyő utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5993893,
+        46.7558066
+      ],
+      [
+        23.5997584,
+        46.7561653
+      ],
+      [
+        23.600857,
+        46.7561476
+      ],
+      [
+        23.6028483,
+        46.7560183
+      ]
+    ]
+  },
+  "id": "way/31646994"
+}

@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26614991",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Moldoveanu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5608905,
+        46.7533613
+      ],
+      [
+        23.5618338,
+        46.75292
+      ],
+      [
+        23.5620953,
+        46.7527523
+      ],
+      [
+        23.5620959,
+        46.7523934
+      ],
+      [
+        23.5618349,
+        46.7521125
+      ],
+      [
+        23.5616064,
+        46.7519304
+      ],
+      [
+        23.5613003,
+        46.7516621
+      ]
+    ]
+  },
+  "id": "way/26614991"
+}

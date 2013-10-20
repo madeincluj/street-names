@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676345",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Târnavelor",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6223483,
+        46.7779978
+      ],
+      [
+        23.622232,
+        46.7784523
+      ],
+      [
+        23.6235499,
+        46.7786443
+      ],
+      [
+        23.6270689,
+        46.779191
+      ]
+    ]
+  },
+  "id": "way/24676345"
+}

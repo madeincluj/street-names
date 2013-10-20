@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676483",
+    "bridge": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Beiușului",
+    "name:hu": "Belényesi utca",
+    "old_name:hu": "Bodzaszoros utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.638514,
+        46.7897484
+      ],
+      [
+        23.6390548,
+        46.7891019
+      ]
+    ]
+  },
+  "id": "way/24676483"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37153661",
+    "highway": "primary",
+    "int_ref": "E60;E68",
+    "maxspeed": "RO:urban",
+    "name": "Piața Unirii",
+    "name:hu": "Főtér",
+    "oneway": "yes",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5900197,
+        46.7710038
+      ],
+      [
+        23.5898316,
+        46.770861
+      ],
+      [
+        23.5896159,
+        46.7707492
+      ],
+      [
+        23.5884844,
+        46.7702499
+      ]
+    ]
+  },
+  "id": "way/37153661"
+}

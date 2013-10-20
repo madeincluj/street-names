@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/116595550",
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "no",
+    "maxspeed": "RO:urban",
+    "motor_vehicle": "yes",
+    "name": "Strada Răzoare",
+    "oneway": "no",
+    "surface": "unpaved"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5256552,
+        46.7488889
+      ],
+      [
+        23.524577,
+        46.7510648
+      ],
+      [
+        23.5244482,
+        46.7513883
+      ],
+      [
+        23.5249096,
+        46.7518661
+      ],
+      [
+        23.5249018,
+        46.7522321
+      ]
+    ]
+  },
+  "id": "way/116595550"
+}

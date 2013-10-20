@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/266116965",
+    "highway": "bus_stop",
+    "name": "Hotel Napoca"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5763291,
+      46.7718389
+    ]
+  },
+  "id": "node/266116965"
+}

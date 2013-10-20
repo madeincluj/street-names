@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584310",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Munteniei",
+    "name:hu": "Munténia utca",
+    "old_name:hu": "Révai utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5763005,
+        46.7870999
+      ],
+      [
+        23.5754296,
+        46.7893455
+      ]
+    ]
+  },
+  "id": "way/31584310"
+}

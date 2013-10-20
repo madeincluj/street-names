@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615254",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Remetea",
+    "name:hu": "Remetea utca",
+    "old_name:hu": "Zöldkert utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5783282,
+        46.7596159
+      ],
+      [
+        23.5781651,
+        46.7596512
+      ],
+      [
+        23.5758391,
+        46.7616033
+      ],
+      [
+        23.5748864,
+        46.7621559
+      ]
+    ]
+  },
+  "id": "way/26615254"
+}

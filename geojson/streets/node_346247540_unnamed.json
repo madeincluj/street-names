@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/346247540",
+    "highway": "traffic_signals"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.532717,
+      46.754116
+    ]
+  },
+  "id": "node/346247540"
+}

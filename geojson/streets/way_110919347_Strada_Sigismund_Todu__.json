@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/110919347",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sigismund Toduță",
+    "name:hu": "Sigismund Toduţă utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5673377,
+        46.7704964
+      ],
+      [
+        23.5673586,
+        46.7704748
+      ],
+      [
+        23.5676981,
+        46.7701163
+      ],
+      [
+        23.5684986,
+        46.7693846
+      ],
+      [
+        23.5689426,
+        46.7691352
+      ],
+      [
+        23.5697408,
+        46.7686891
+      ],
+      [
+        23.5698391,
+        46.7686421
+      ]
+    ]
+  },
+  "id": "way/110919347"
+}

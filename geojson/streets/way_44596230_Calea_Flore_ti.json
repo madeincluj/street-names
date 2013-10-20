@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/44596230",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Calea Florești",
+    "name:hu": "Fenesi út",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5442064,
+        46.7573632
+      ],
+      [
+        23.5439131,
+        46.7573003
+      ]
+    ]
+  },
+  "id": "way/44596230"
+}

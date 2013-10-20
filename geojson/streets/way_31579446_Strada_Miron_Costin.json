@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579446",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Miron Costin",
+    "name:hu": "Miron Costin utca",
+    "old_name:hu": "Barabás Miklós utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5817026,
+        46.7787595
+      ],
+      [
+        23.5796641,
+        46.7789052
+      ],
+      [
+        23.5793999,
+        46.7789423
+      ],
+      [
+        23.5793307,
+        46.7790084
+      ]
+    ]
+  },
+  "id": "way/31579446"
+}

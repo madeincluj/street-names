@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/238900587",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Gurghiu",
+    "name:hu": "Görgény sétány"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5489602,
+        46.7520281
+      ],
+      [
+        23.5488302,
+        46.752246
+      ]
+    ]
+  },
+  "id": "way/238900587"
+}

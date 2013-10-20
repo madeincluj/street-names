@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267666",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iulian Matiș"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5855423,
+        46.7413454
+      ],
+      [
+        23.5851362,
+        46.7423015
+      ],
+      [
+        23.5850809,
+        46.7424813
+      ],
+      [
+        23.5857667,
+        46.74253
+      ]
+    ]
+  },
+  "id": "way/169267666"
+}

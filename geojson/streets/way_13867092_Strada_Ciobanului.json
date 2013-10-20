@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13867092",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ciobanului",
+    "name:hu": "Juhász utca",
+    "smoothness": "excellent"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5475982,
+        46.7580045
+      ],
+      [
+        23.5477971,
+        46.7575261
+      ],
+      [
+        23.5478766,
+        46.7573349
+      ],
+      [
+        23.54804,
+        46.7569418
+      ],
+      [
+        23.5484474,
+        46.756017
+      ],
+      [
+        23.5485722,
+        46.7558896
+      ]
+    ]
+  },
+  "id": "way/13867092"
+}

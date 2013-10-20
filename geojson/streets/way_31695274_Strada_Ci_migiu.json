@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31695274",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cișmigiu",
+    "name:hu": "Cișmigiu utca",
+    "old_name:hu": "Schütz János utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.580141,
+        46.7687831
+      ],
+      [
+        23.5800325,
+        46.7689322
+      ],
+      [
+        23.5794715,
+        46.7697178
+      ]
+    ]
+  },
+  "id": "way/31695274"
+}

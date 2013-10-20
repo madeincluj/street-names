@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/158390314",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "junction": "roundabout",
+    "maxspeed": "RO:urban",
+    "name": "Bulevardul 1 Decembrie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5441091,
+        46.7611598
+      ],
+      [
+        23.5440453,
+        46.7611453
+      ],
+      [
+        23.5440115,
+        46.7611319
+      ]
+    ]
+  },
+  "id": "way/158390314"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55488266",
+    "highway": "primary",
+    "int_ref": "E60",
+    "maxspeed": "RO:urban",
+    "name": "Strada Observatorului",
+    "name:hu": "Csillagvizsgáló utca",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5947461,
+        46.7558722
+      ],
+      [
+        23.5950469,
+        46.7559248
+      ]
+    ]
+  },
+  "id": "way/55488266"
+}

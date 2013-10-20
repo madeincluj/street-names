@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55493605",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Teodor Mihali",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6239368,
+        46.7721734
+      ],
+      [
+        23.6238522,
+        46.7722221
+      ],
+      [
+        23.6236132,
+        46.7723543
+      ]
+    ]
+  },
+  "id": "way/55493605"
+}

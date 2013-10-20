@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623441",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Aleea Borsec",
+    "oneway": "no",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.623034,
+        46.7683143
+      ],
+      [
+        23.6230275,
+        46.7685443
+      ],
+      [
+        23.6230165,
+        46.7689341
+      ],
+      [
+        23.6230041,
+        46.7693399
+      ],
+      [
+        23.6229963,
+        46.7695936
+      ],
+      [
+        23.6229934,
+        46.7696865
+      ],
+      [
+        23.6229772,
+        46.7702154
+      ]
+    ]
+  },
+  "id": "way/31623441"
+}

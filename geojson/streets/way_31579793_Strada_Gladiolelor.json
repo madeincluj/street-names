@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579793",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gladiolelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5942013,
+        46.7901965
+      ],
+      [
+        23.594026,
+        46.7905953
+      ],
+      [
+        23.5936434,
+        46.7914658
+      ]
+    ]
+  },
+  "id": "way/31579793"
+}

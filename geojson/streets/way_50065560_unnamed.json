@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50065560",
+    "handrail": "no",
+    "highway": "steps",
+    "is_in:city": "Cluj-Napoca",
+    "step_count": "6"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5836241,
+        46.7716701
+      ],
+      [
+        23.5835447,
+        46.7717065
+      ]
+    ]
+  },
+  "id": "way/50065560"
+}

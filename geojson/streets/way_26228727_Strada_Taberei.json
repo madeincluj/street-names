@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26228727",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Taberei",
+    "name:en": "Taberei Street",
+    "name:hu": "Táborhely utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5534633,
+        46.7593857
+      ],
+      [
+        23.5531548,
+        46.760198
+      ],
+      [
+        23.553026,
+        46.7609683
+      ],
+      [
+        23.552932,
+        46.7614999
+      ],
+      [
+        23.5528811,
+        46.7618297
+      ],
+      [
+        23.5527342,
+        46.7627028
+      ],
+      [
+        23.5526556,
+        46.7632158
+      ],
+      [
+        23.5526339,
+        46.7633575
+      ]
+    ]
+  },
+  "id": "way/26228727"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186822213",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Milton Lehrer",
+    "name:hu": "Milton Lehrer utca",
+    "old_name:hu": "Cimbalom utca",
+    "oneway": "yes",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5995358,
+        46.7674266
+      ],
+      [
+        23.6000749,
+        46.7674989
+      ]
+    ]
+  },
+  "id": "way/186822213"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/111724010",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Frunzișului",
+    "name:hu": "Lomb utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5662887,
+        46.7569558
+      ],
+      [
+        23.5667721,
+        46.7555807
+      ],
+      [
+        23.5667741,
+        46.7555751
+      ],
+      [
+        23.5669421,
+        46.7551753
+      ]
+    ]
+  },
+  "id": "way/111724010"
+}

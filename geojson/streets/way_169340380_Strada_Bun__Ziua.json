@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340380",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bună Ziua",
+    "name:hu": "Jó napot utca",
+    "old_name:hu": "Békási út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5927767,
+        46.7465163
+      ],
+      [
+        23.5929975,
+        46.7468613
+      ],
+      [
+        23.5930721,
+        46.7469511
+      ],
+      [
+        23.5931456,
+        46.746998
+      ],
+      [
+        23.5933566,
+        46.7471063
+      ]
+    ]
+  },
+  "id": "way/169340380"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24663551",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ponorului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.605758,
+        46.7574766
+      ],
+      [
+        23.607981,
+        46.7577764
+      ]
+    ]
+  },
+  "id": "way/24663551"
+}

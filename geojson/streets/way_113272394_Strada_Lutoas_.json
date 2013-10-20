@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/113272394",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lutoasă",
+    "name:hu": "Agyagdomb utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6003669,
+        46.7671608
+      ],
+      [
+        23.5998398,
+        46.7669973
+      ],
+      [
+        23.5996364,
+        46.7669869
+      ],
+      [
+        23.5995433,
+        46.7670091
+      ],
+      [
+        23.5994183,
+        46.7671046
+      ],
+      [
+        23.5993175,
+        46.7671177
+      ],
+      [
+        23.5991493,
+        46.767099
+      ],
+      [
+        23.5982189,
+        46.7668736
+      ]
+    ]
+  },
+  "id": "way/113272394"
+}

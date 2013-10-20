@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31695050",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Berăriei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5693625,
+        46.7640542
+      ],
+      [
+        23.5693941,
+        46.7639778
+      ],
+      [
+        23.5699015,
+        46.7635683
+      ],
+      [
+        23.5703707,
+        46.7632418
+      ],
+      [
+        23.5709045,
+        46.762526
+      ]
+    ]
+  },
+  "id": "way/31695050"
+}

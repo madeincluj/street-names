@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225745",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Odobescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.575079,
+        46.7897674
+      ],
+      [
+        23.5748408,
+        46.7899822
+      ],
+      [
+        23.5745447,
+        46.7903047
+      ],
+      [
+        23.574363,
+        46.7905396
+      ],
+      [
+        23.5741679,
+        46.7910418
+      ],
+      [
+        23.5731008,
+        46.7921689
+      ]
+    ]
+  },
+  "id": "way/227225745"
+}

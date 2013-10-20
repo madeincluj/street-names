@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647810",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Scărișoara",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6210428,
+        46.7647544
+      ],
+      [
+        23.6210513,
+        46.764484
+      ]
+    ]
+  },
+  "id": "way/31647810"
+}

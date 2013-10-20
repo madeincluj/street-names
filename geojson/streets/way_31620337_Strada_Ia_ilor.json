@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620337",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iașilor",
+    "name:hu": "Jászvásár utca",
+    "old_name:hu": "Nagyszamos utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5904847,
+        46.7756868
+      ],
+      [
+        23.5908089,
+        46.7759581
+      ],
+      [
+        23.5909482,
+        46.7760747
+      ],
+      [
+        23.5919267,
+        46.7766919
+      ],
+      [
+        23.5923301,
+        46.7768977
+      ],
+      [
+        23.5933573,
+        46.7772809
+      ]
+    ]
+  },
+  "id": "way/31620337"
+}

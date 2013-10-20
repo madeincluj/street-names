@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/119056808",
+    "fixme": "Refine way",
+    "highway": "steps",
+    "incline": "up"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6026038,
+        46.7669079
+      ],
+      [
+        23.6031099,
+        46.7673623
+      ]
+    ]
+  },
+  "id": "way/119056808"
+}

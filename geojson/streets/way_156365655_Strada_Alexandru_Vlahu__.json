@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/156365655",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Alexandru Vlahuță",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5553395,
+        46.7696627
+      ],
+      [
+        23.5556112,
+        46.7696958
+      ],
+      [
+        23.5562283,
+        46.7697709
+      ],
+      [
+        23.5577149,
+        46.7699217
+      ],
+      [
+        23.5577702,
+        46.7699273
+      ]
+    ]
+  },
+  "id": "way/156365655"
+}

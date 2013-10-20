@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31650416",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Prunilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5759506,
+        46.7587842
+      ],
+      [
+        23.5773755,
+        46.7592219
+      ],
+      [
+        23.5776673,
+        46.759316
+      ],
+      [
+        23.5779763,
+        46.7589985
+      ]
+    ]
+  },
+  "id": "way/31650416"
+}

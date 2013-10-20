@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647482",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Axente Sever",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6083729,
+        46.7635857
+      ],
+      [
+        23.6070584,
+        46.7626123
+      ]
+    ]
+  },
+  "id": "way/31647482"
+}

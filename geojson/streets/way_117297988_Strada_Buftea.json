@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297988",
+    "bridge": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Buftea"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6062452,
+        46.7780305
+      ],
+      [
+        23.6063265,
+        46.7779078
+      ]
+    ]
+  },
+  "id": "way/117297988"
+}

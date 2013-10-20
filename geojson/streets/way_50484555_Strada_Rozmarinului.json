@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50484555",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Rozmarinului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6375837,
+        46.7528745
+      ],
+      [
+        23.6374287,
+        46.7529747
+      ],
+      [
+        23.6373552,
+        46.753068
+      ],
+      [
+        23.6373445,
+        46.7531452
+      ],
+      [
+        23.6374786,
+        46.7533253
+      ]
+    ]
+  },
+  "id": "way/50484555"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584385",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Stănescu Popa",
+    "name:hu": "Stănescu Papa utca",
+    "old_name:hu": "Temesvári utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5600128,
+        46.7860521
+      ],
+      [
+        23.5607766,
+        46.7842441
+      ]
+    ]
+  },
+  "id": "way/31584385"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620132",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ovidiu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.607196,
+        46.7910207
+      ],
+      [
+        23.6060802,
+        46.793383
+      ],
+      [
+        23.6058828,
+        46.7937826
+      ],
+      [
+        23.605857,
+        46.7938884
+      ],
+      [
+        23.6059225,
+        46.7940165
+      ]
+    ]
+  },
+  "id": "way/31620132"
+}

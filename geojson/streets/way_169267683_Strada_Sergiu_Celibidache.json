@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267683",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sergiu Celibidache"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5791079,
+        46.7502184
+      ],
+      [
+        23.5784843,
+        46.7498665
+      ],
+      [
+        23.5782735,
+        46.7497926
+      ],
+      [
+        23.5779248,
+        46.749686
+      ],
+      [
+        23.5772489,
+        46.7494875
+      ],
+      [
+        23.5769967,
+        46.7494397
+      ]
+    ]
+  },
+  "id": "way/169267683"
+}

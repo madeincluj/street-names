@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/768092799",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piața Timotei Cipariu",
+    "name:hu": "Timotei Cipariu tér",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5992371,
+      46.7684713
+    ]
+  },
+  "id": "node/768092799"
+}

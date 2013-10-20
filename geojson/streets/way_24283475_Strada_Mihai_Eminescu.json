@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283475",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mihai Eminescu",
+    "name:hu": "Mihai Eminescu utca",
+    "old_name:hu": "Fadrusz János utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5793805,
+        46.76844
+      ],
+      [
+        23.5811477,
+        46.7668177
+      ]
+    ]
+  },
+  "id": "way/24283475"
+}

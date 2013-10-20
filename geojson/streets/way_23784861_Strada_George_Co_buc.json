@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23784861",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada George Coșbuc",
+    "name:hu": "George Coșbuc utca",
+    "old_name:hu": "Bem utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5764228,
+        46.7651348
+      ],
+      [
+        23.575449,
+        46.7670061
+      ],
+      [
+        23.5752851,
+        46.7674354
+      ]
+    ]
+  },
+  "id": "way/23784861"
+}

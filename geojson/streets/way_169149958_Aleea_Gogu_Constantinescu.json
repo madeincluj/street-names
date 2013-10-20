@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149958",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Gogu Constantinescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6046027,
+        46.7512777
+      ],
+      [
+        23.605005,
+        46.7498627
+      ]
+    ]
+  },
+  "id": "way/169149958"
+}

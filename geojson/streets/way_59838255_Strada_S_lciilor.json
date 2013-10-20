@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838255",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sălciilor",
+    "source": "EEA, Directorate-General Entreprise and Industry"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.568351,
+        46.766598
+      ],
+      [
+        23.5693722,
+        46.7653486
+      ],
+      [
+        23.5694557,
+        46.7651027
+      ]
+    ]
+  },
+  "id": "way/59838255"
+}

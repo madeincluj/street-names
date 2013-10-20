@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26640934",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5589907,
+        46.7580524
+      ],
+      [
+        23.5589308,
+        46.7586394
+      ],
+      [
+        23.5603708,
+        46.7587089
+      ],
+      [
+        23.5619594,
+        46.7587912
+      ],
+      [
+        23.5620687,
+        46.7579413
+      ]
+    ]
+  },
+  "id": "way/26640934"
+}

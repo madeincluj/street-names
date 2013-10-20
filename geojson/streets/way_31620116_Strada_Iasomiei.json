@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620116",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iasomiei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6081713,
+        46.7946521
+      ],
+      [
+        23.6057533,
+        46.7978656
+      ]
+    ]
+  },
+  "id": "way/31620116"
+}

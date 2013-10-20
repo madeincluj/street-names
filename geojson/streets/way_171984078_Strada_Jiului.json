@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/171984078",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jiului",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6420253,
+        46.7794311
+      ],
+      [
+        23.6433273,
+        46.7796778
+      ],
+      [
+        23.6434561,
+        46.7791782
+      ]
+    ]
+  },
+  "id": "way/171984078"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149948",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Matyas Matyas"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5974313,
+        46.7525349
+      ],
+      [
+        23.5989714,
+        46.7522168
+      ]
+    ]
+  },
+  "id": "way/169149948"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7927518",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lunii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5845423,
+        46.7534181
+      ],
+      [
+        23.584464,
+        46.7532114
+      ],
+      [
+        23.5831525,
+        46.7518764
+      ]
+    ]
+  },
+  "id": "way/7927518"
+}

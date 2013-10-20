@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/61185449",
+    "bridge": "yes",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Borhanciului",
+    "name:hu": "Borháncs utca",
+    "ref": "DJ103G"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6326524,
+        46.7527856
+      ],
+      [
+        23.6324115,
+        46.7528624
+      ]
+    ]
+  },
+  "id": "way/61185449"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31666941",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ostașilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6568221,
+        46.7870044
+      ],
+      [
+        23.6554403,
+        46.7869104
+      ],
+      [
+        23.6539726,
+        46.7867282
+      ]
+    ]
+  },
+  "id": "way/31666941"
+}

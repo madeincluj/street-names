@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31580076",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Călugăreni"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5969001,
+        46.7902323
+      ],
+      [
+        23.5968019,
+        46.7907841
+      ],
+      [
+        23.5965788,
+        46.7918066
+      ],
+      [
+        23.5961754,
+        46.7929114
+      ]
+    ]
+  },
+  "id": "way/31580076"
+}

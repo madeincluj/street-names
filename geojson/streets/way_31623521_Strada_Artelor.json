@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623521",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Artelor",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6095961,
+        46.7723655
+      ],
+      [
+        23.6112831,
+        46.7724222
+      ],
+      [
+        23.6128238,
+        46.772474
+      ],
+      [
+        23.6156715,
+        46.7725998
+      ],
+      [
+        23.6168265,
+        46.7726508
+      ]
+    ]
+  },
+  "id": "way/31623521"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620032",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Olănești"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6022603,
+        46.7842487
+      ],
+      [
+        23.6022808,
+        46.7844565
+      ],
+      [
+        23.6023317,
+        46.7854553
+      ]
+    ]
+  },
+  "id": "way/31620032"
+}

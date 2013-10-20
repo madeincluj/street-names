@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25308543",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "2",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jupiter",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5907886,
+        46.7531928
+      ],
+      [
+        23.5906376,
+        46.7543674
+      ]
+    ]
+  },
+  "id": "way/25308543"
+}

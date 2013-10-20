@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623470",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Herculane",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6229772,
+        46.7702154
+      ],
+      [
+        23.6218193,
+        46.7701814
+      ],
+      [
+        23.6216377,
+        46.7701761
+      ],
+      [
+        23.6215781,
+        46.7701743
+      ],
+      [
+        23.6214151,
+        46.7702742
+      ],
+      [
+        23.6213035,
+        46.7703742
+      ]
+    ]
+  },
+  "id": "way/31623470"
+}

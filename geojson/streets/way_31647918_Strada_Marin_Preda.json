@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647918",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Marin Preda",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5982909,
+        46.7470819
+      ],
+      [
+        23.5974908,
+        46.7468547
+      ]
+    ]
+  },
+  "id": "way/31647918"
+}

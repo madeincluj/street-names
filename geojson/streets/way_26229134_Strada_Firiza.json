@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229134",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Firiza"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5649322,
+        46.7614766
+      ],
+      [
+        23.5632828,
+        46.7610094
+      ],
+      [
+        23.5628365,
+        46.7609741
+      ],
+      [
+        23.561927,
+        46.7609569
+      ],
+      [
+        23.5597294,
+        46.7609095
+      ],
+      [
+        23.5597156,
+        46.7604601
+      ]
+    ]
+  },
+  "id": "way/26229134"
+}

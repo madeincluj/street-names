@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31648744",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lăcrimioarelor",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6137527,
+        46.7587064
+      ],
+      [
+        23.6132415,
+        46.7582791
+      ],
+      [
+        23.6128048,
+        46.757914
+      ],
+      [
+        23.6126546,
+        46.757745
+      ]
+    ]
+  },
+  "id": "way/31648744"
+}

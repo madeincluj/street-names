@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/154212918",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cojocnei",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6277295,
+        46.7830399
+      ],
+      [
+        23.6279915,
+        46.7830982
+      ],
+      [
+        23.6288503,
+        46.7831575
+      ],
+      [
+        23.6292702,
+        46.7831689
+      ],
+      [
+        23.6299317,
+        46.7831869
+      ],
+      [
+        23.6314337,
+        46.7832651
+      ],
+      [
+        23.6315355,
+        46.7832704
+      ]
+    ]
+  },
+  "id": "way/154212918"
+}

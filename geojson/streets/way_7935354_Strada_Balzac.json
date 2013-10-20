@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7935354",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Balzac",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5589102,
+        46.7700393
+      ],
+      [
+        23.5587342,
+        46.7709248
+      ]
+    ]
+  },
+  "id": "way/7935354"
+}

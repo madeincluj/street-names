@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122821200",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Emil Cioran",
+    "name:hu": "Emil Cioran utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5604329,
+        46.7578339
+      ],
+      [
+        23.5609381,
+        46.7578671
+      ],
+      [
+        23.5620687,
+        46.7579413
+      ],
+      [
+        23.5626958,
+        46.7579767
+      ]
+    ]
+  },
+  "id": "way/122821200"
+}

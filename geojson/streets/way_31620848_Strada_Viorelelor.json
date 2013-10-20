@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620848",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Viorelelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6293895,
+        46.7852061
+      ],
+      [
+        23.6293468,
+        46.7845204
+      ]
+    ]
+  },
+  "id": "way/31620848"
+}

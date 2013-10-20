@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229080",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bâlea"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5651482,
+        46.7516346
+      ],
+      [
+        23.5644004,
+        46.7505513
+      ],
+      [
+        23.5640067,
+        46.7503191
+      ]
+    ]
+  },
+  "id": "way/26229080"
+}

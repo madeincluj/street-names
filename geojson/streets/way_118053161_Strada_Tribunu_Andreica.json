@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118053161",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tribunu Andreica",
+    "name:hu": "Tribunu Andreica utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5505344,
+        46.783703
+      ],
+      [
+        23.5501014,
+        46.7811677
+      ],
+      [
+        23.5500844,
+        46.7810679
+      ]
+    ]
+  },
+  "id": "way/118053161"
+}

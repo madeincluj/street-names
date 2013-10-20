@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647218",
+    "highway": "living_street",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.618624,
+        46.7672779
+      ],
+      [
+        23.6185896,
+        46.7674601
+      ],
+      [
+        23.6181433,
+        46.7674366
+      ],
+      [
+        23.6175865,
+        46.7673354
+      ]
+    ]
+  },
+  "id": "way/31647218"
+}

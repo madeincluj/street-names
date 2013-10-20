@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229340",
+    "bicycle": "yes",
+    "cycleway": "lane",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada General Eremia Grigorescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5615277,
+        46.7729706
+      ],
+      [
+        23.5645279,
+        46.7732213
+      ],
+      [
+        23.5652064,
+        46.7732698
+      ],
+      [
+        23.5656005,
+        46.7732699
+      ],
+      [
+        23.5661924,
+        46.7732262
+      ]
+    ]
+  },
+  "id": "way/26229340"
+}

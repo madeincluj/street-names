@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619958",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ioan Bologa",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5528319,
+        46.7684224
+      ],
+      [
+        23.5508116,
+        46.7703427
+      ]
+    ]
+  },
+  "id": "way/31619958"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25199500",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zrínyi Miklós",
+    "name:hu": "Zrínyi Miklós utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5992829,
+        46.7656042
+      ],
+      [
+        23.6009957,
+        46.766274
+      ],
+      [
+        23.6021746,
+        46.7667321
+      ],
+      [
+        23.6026038,
+        46.7669079
+      ]
+    ]
+  },
+  "id": "way/25199500"
+}

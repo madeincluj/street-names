@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/210311566",
+    "highway": "pedestrian"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6207039,
+        46.7682785
+      ],
+      [
+        23.6215815,
+        46.7678555
+      ],
+      [
+        23.6217913,
+        46.7676493
+      ]
+    ]
+  },
+  "id": "way/210311566"
+}

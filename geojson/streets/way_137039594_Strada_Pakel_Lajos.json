@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/137039594",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pakel Lajos"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5962825,
+        46.7447753
+      ],
+      [
+        23.5942279,
+        46.7448966
+      ],
+      [
+        23.5942523,
+        46.7451392
+      ],
+      [
+        23.5925151,
+        46.7452109
+      ]
+    ]
+  },
+  "id": "way/137039594"
+}

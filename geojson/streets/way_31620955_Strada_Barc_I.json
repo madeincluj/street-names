@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620955",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Barc I"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6474848,
+        46.7907823
+      ],
+      [
+        23.6498355,
+        46.7909242
+      ],
+      [
+        23.6563072,
+        46.7915001
+      ],
+      [
+        23.6567706,
+        46.7914459
+      ]
+    ]
+  },
+  "id": "way/31620955"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/111513699",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "highway": "service",
+    "oneway": "yes",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.560348,
+        46.7719089
+      ],
+      [
+        23.5586473,
+        46.7717515
+      ]
+    ]
+  },
+  "id": "way/111513699"
+}

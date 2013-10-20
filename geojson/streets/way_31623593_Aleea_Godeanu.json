@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623593",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Godeanu",
+    "name:hu": "Godeanu sétány",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6157124,
+        46.7700968
+      ],
+      [
+        23.6169135,
+        46.7700813
+      ],
+      [
+        23.6174027,
+        46.7700673
+      ]
+    ]
+  },
+  "id": "way/31623593"
+}

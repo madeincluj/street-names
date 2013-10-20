@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13342765",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Calea Moților",
+    "name:hu": "Mócok útja",
+    "old_name:hu": "Monostori út",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5709045,
+        46.762526
+      ],
+      [
+        23.5718483,
+        46.7628332
+      ],
+      [
+        23.5728372,
+        46.7631551
+      ]
+    ]
+  },
+  "id": "way/13342765"
+}

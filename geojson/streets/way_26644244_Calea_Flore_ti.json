@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26644244",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Calea Florești",
+    "name:hu": "Fenesi út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5542291,
+        46.7595831
+      ],
+      [
+        23.5546662,
+        46.7596486
+      ],
+      [
+        23.5550656,
+        46.7597223
+      ],
+      [
+        23.5563328,
+        46.7599188
+      ],
+      [
+        23.5568229,
+        46.7599219
+      ],
+      [
+        23.5570141,
+        46.7598604
+      ]
+    ]
+  },
+  "id": "way/26644244"
+}

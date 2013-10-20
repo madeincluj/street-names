@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622757",
+    "highway": "living_street",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cepei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6124381,
+        46.7826268
+      ],
+      [
+        23.6124443,
+        46.7832926
+      ],
+      [
+        23.6118435,
+        46.783322
+      ],
+      [
+        23.6119039,
+        46.7837953
+      ]
+    ]
+  },
+  "id": "way/31622757"
+}

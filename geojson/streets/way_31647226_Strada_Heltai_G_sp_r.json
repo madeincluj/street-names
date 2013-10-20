@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647226",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Heltai Gáspár"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6196579,
+        46.7662666
+      ],
+      [
+        23.6187012,
+        46.7661197
+      ],
+      [
+        23.61727,
+        46.7658596
+      ],
+      [
+        23.613649,
+        46.7652792
+      ],
+      [
+        23.6129833,
+        46.765166
+      ],
+      [
+        23.6115675,
+        46.7649189
+      ]
+    ]
+  },
+  "id": "way/31647226"
+}

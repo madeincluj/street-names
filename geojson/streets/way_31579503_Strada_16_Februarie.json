@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579503",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada 16 Februarie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5748739,
+        46.7794938
+      ],
+      [
+        23.5751985,
+        46.7785012
+      ],
+      [
+        23.5753443,
+        46.7775309
+      ]
+    ]
+  },
+  "id": "way/31579503"
+}

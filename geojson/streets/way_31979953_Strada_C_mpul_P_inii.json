@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31979953",
+    "bridge": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Strada Câmpul Pâinii",
+    "name:hu": "Kenyérmezei utca",
+    "old_name:hu": "Kenyérmezei út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.613246,
+        46.7852699
+      ],
+      [
+        23.6140577,
+        46.7852357
+      ]
+    ]
+  },
+  "id": "way/31979953"
+}

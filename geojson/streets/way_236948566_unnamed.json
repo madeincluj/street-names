@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/236948566",
+    "highway": "secondary_link",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6077204,
+        46.7995089
+      ],
+      [
+        23.607553,
+        46.7991802
+      ],
+      [
+        23.6073715,
+        46.798957
+      ]
+    ]
+  },
+  "id": "way/236948566"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340357",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nichita Stănescu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5841241,
+        46.7491949
+      ],
+      [
+        23.5838301,
+        46.7497363
+      ],
+      [
+        23.5837421,
+        46.7498374
+      ],
+      [
+        23.583409,
+        46.7504077
+      ],
+      [
+        23.5833179,
+        46.7504369
+      ],
+      [
+        23.5832236,
+        46.75053
+      ],
+      [
+        23.5829154,
+        46.7511336
+      ]
+    ]
+  },
+  "id": "way/169340357"
+}

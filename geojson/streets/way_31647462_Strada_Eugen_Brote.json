@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647462",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Eugen Brote",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6069952,
+        46.7597164
+      ],
+      [
+        23.6047611,
+        46.7593393
+      ]
+    ]
+  },
+  "id": "way/31647462"
+}

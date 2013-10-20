@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23909024",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Bâlea",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5629692,
+        46.7497783
+      ],
+      [
+        23.5630333,
+        46.7495808
+      ],
+      [
+        23.5632138,
+        46.7495423
+      ],
+      [
+        23.5639965,
+        46.7492581
+      ]
+    ]
+  },
+  "id": "way/23909024"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/199251888",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Piața 14 Iulie",
+    "name:hu": "Július 14. tér",
+    "old_name:hu": "Hétvezér tér",
+    "oneway": "no",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5663252,
+        46.7699152
+      ],
+      [
+        23.5663647,
+        46.769911
+      ]
+    ]
+  },
+  "id": "way/199251888"
+}

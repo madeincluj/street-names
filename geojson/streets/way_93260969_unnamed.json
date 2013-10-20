@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/93260969",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "oneway": "yes",
+    "service": "parking_aisle"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6668941,
+        46.780018
+      ],
+      [
+        23.6667658,
+        46.7800312
+      ],
+      [
+        23.6661257,
+        46.7801877
+      ],
+      [
+        23.6659937,
+        46.7802008
+      ]
+    ]
+  },
+  "id": "way/93260969"
+}

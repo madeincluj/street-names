@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893843",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Matei Corvin",
+    "name:hu": "Hunyadi Mátyás utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5877247,
+        46.7709721
+      ],
+      [
+        23.5878902,
+        46.7707379
+      ],
+      [
+        23.5883608,
+        46.7701997
+      ]
+    ]
+  },
+  "id": "way/23893843"
+}

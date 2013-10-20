@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/27019923",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Septimiu Mureșan",
+    "name:hu": "Septimiu Mureșan utca",
+    "old_name": "Strada Maiacovski",
+    "old_name:hu": "Nádasmenti utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5812237,
+        46.786565
+      ],
+      [
+        23.5758047,
+        46.785529
+      ],
+      [
+        23.5744004,
+        46.7852599
+      ],
+      [
+        23.5707662,
+        46.7845633
+      ]
+    ]
+  },
+  "id": "way/27019923"
+}

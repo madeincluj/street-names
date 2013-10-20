@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1270586141",
+    "amenity": "bus_station",
+    "name": "Calea Florești",
+    "name:hu": "Fenesi út"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.54599,
+      46.7577033
+    ]
+  },
+  "id": "node/1270586141"
+}

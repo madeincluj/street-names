@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177922838",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Baba Novac",
+    "name:hu": "Baba Novac utca",
+    "old_name:hu": "Bethlen utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5959619,
+        46.770451
+      ],
+      [
+        23.5959002,
+        46.7705489
+      ],
+      [
+        23.5958352,
+        46.770664
+      ],
+      [
+        23.5954976,
+        46.7714434
+      ],
+      [
+        23.5949767,
+        46.7723433
+      ],
+      [
+        23.5949352,
+        46.7724284
+      ]
+    ]
+  },
+  "id": "way/177922838"
+}

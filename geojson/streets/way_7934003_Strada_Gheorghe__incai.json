@@ -1,0 +1,51 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7934003",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gheorghe Șincai",
+    "name:hu": "Şincai György utca",
+    "old_name:hu": "Hegedüs Sándor utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.585365,
+        46.7689424
+      ],
+      [
+        23.5855378,
+        46.7688429
+      ],
+      [
+        23.5858871,
+        46.7684982
+      ],
+      [
+        23.5862452,
+        46.7680534
+      ],
+      [
+        23.5865945,
+        46.7676219
+      ],
+      [
+        23.5866015,
+        46.7676003
+      ],
+      [
+        23.5866492,
+        46.767511
+      ],
+      [
+        23.5866962,
+        46.7674185
+      ]
+    ]
+  },
+  "id": "way/7934003"
+}

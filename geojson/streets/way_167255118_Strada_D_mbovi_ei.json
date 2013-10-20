@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/167255118",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Dâmboviței",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6168274,
+        46.7800517
+      ],
+      [
+        23.6173946,
+        46.7798091
+      ],
+      [
+        23.6175728,
+        46.7797329
+      ],
+      [
+        23.6177188,
+        46.7797388
+      ],
+      [
+        23.6200075,
+        46.7803168
+      ]
+    ]
+  },
+  "id": "way/167255118"
+}

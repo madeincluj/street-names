@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623581",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zaharia Carcalechi",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6157129,
+        46.7711415
+      ],
+      [
+        23.6156715,
+        46.7725998
+      ]
+    ]
+  },
+  "id": "way/31623581"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/215041117",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Melodiei",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5766063,
+        46.7510441
+      ],
+      [
+        23.5757278,
+        46.750765
+      ],
+      [
+        23.5761103,
+        46.7502588
+      ]
+    ]
+  },
+  "id": "way/215041117"
+}

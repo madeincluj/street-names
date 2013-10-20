@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615540",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ceahlăului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5913573,
+        46.7603215
+      ],
+      [
+        23.5899411,
+        46.7595336
+      ],
+      [
+        23.5897694,
+        46.7594865
+      ],
+      [
+        23.5895205,
+        46.7595042
+      ]
+    ]
+  },
+  "id": "way/26615540"
+}

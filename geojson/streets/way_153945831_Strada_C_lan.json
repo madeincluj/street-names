@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/153945831",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Călan"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6119039,
+        46.7837953
+      ],
+      [
+        23.6107398,
+        46.7838501
+      ],
+      [
+        23.6095208,
+        46.7839074
+      ]
+    ]
+  },
+  "id": "way/153945831"
+}

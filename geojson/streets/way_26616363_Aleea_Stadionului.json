@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616363",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Stadionului",
+    "name:hu": "Stadion utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5701159,
+        46.7662433
+      ],
+      [
+        23.5716881,
+        46.7669532
+      ],
+      [
+        23.5748768,
+        46.7683021
+      ]
+    ]
+  },
+  "id": "way/26616363"
+}

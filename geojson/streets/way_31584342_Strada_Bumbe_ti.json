@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584342",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bumbești",
+    "name:hu": "Bumbești utca",
+    "old_name:hu": "Pécsi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5652323,
+        46.7872836
+      ],
+      [
+        23.5655387,
+        46.7865627
+      ],
+      [
+        23.566111,
+        46.7852147
+      ]
+    ]
+  },
+  "id": "way/31584342"
+}

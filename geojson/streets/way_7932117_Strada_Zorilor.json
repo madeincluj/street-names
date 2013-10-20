@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7932117",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zorilor",
+    "name:hu": "Hajnal utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5792736,
+        46.7531029
+      ],
+      [
+        23.5790688,
+        46.753685
+      ],
+      [
+        23.5788567,
+        46.7542593
+      ],
+      [
+        23.5787328,
+        46.7545778
+      ],
+      [
+        23.5786082,
+        46.7551145
+      ],
+      [
+        23.5785943,
+        46.7551814
+      ]
+    ]
+  },
+  "id": "way/7932117"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147432",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Adrian Marino"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5961277,
+        46.7518954
+      ],
+      [
+        23.596058,
+        46.7517484
+      ],
+      [
+        23.5969473,
+        46.7479671
+      ]
+    ]
+  },
+  "id": "way/169147432"
+}

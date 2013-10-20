@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616643",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Craiova",
+    "name:hu": "Craiova utca",
+    "old_name:hu": "Munkácsy Mihály utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5879234,
+        46.7841886
+      ],
+      [
+        23.5892753,
+        46.7818262
+      ]
+    ]
+  },
+  "id": "way/31616643"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/108445057",
+    "BEARING": "156° 04' 35.9'",
+    "LENGTH": "237.42 m",
+    "access": "yes",
+    "highway": "steps",
+    "surface": "paved"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5797439,
+        46.7637363
+      ],
+      [
+        23.5802103,
+        46.763045
+      ],
+      [
+        23.5804699,
+        46.762674
+      ],
+      [
+        23.5807798,
+        46.7623002
+      ]
+    ]
+  },
+  "id": "way/108445057"
+}

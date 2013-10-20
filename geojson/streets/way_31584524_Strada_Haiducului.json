@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584524",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Haiducului",
+    "name:hu": "Hajdúk utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5918287,
+        46.7811928
+      ],
+      [
+        23.590254,
+        46.7817915
+      ]
+    ]
+  },
+  "id": "way/31584524"
+}

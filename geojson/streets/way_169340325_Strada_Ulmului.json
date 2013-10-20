@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340325",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ulmului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5860143,
+        46.7347883
+      ],
+      [
+        23.5881612,
+        46.7347511
+      ]
+    ]
+  },
+  "id": "way/169340325"
+}

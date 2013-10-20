@@ -1,0 +1,51 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59539506",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Profesor Gheorghe Marinescu",
+    "name:hu": "Gheorghe Marinescu professzor utca",
+    "old_name:hu": "Holdvilág utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.584814,
+        46.7634369
+      ],
+      [
+        23.5842577,
+        46.7633557
+      ],
+      [
+        23.5840445,
+        46.7632201
+      ],
+      [
+        23.582491,
+        46.7625205
+      ],
+      [
+        23.5818472,
+        46.7620795
+      ],
+      [
+        23.5817997,
+        46.7620244
+      ],
+      [
+        23.5814267,
+        46.7615915
+      ],
+      [
+        23.5810318,
+        46.7609036
+      ]
+    ]
+  },
+  "id": "way/59539506"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579627",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Rădăuți"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5712139,
+        46.7813752
+      ],
+      [
+        23.5714046,
+        46.7802818
+      ]
+    ]
+  },
+  "id": "way/31579627"
+}

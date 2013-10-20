@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/188142392",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Câmpul Pâinii",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6132079,
+        46.7857252
+      ],
+      [
+        23.61353,
+        46.7857325
+      ],
+      [
+        23.6138459,
+        46.7856501
+      ]
+    ]
+  },
+  "id": "way/188142392"
+}

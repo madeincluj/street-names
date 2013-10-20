@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31694620",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bartók Béla",
+    "name:hu": "Bartók Béla utca",
+    "old_name:hu": "Ond vezér utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5621492,
+        46.7694756
+      ],
+      [
+        23.5637841,
+        46.7696333
+      ],
+      [
+        23.5663252,
+        46.7699152
+      ]
+    ]
+  },
+  "id": "way/31694620"
+}

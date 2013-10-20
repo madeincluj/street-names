@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/30413158",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Piața Ion Agârbiceanu",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6068535,
+        46.7618057
+      ],
+      [
+        23.6060778,
+        46.7622731
+      ]
+    ]
+  },
+  "id": "way/30413158"
+}

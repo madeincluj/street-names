@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579370",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Dornei",
+    "name:hu": "Dorna utca",
+    "old_name:hu": "Kőrösi Csoma utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5802425,
+        46.7765115
+      ],
+      [
+        23.575639,
+        46.7768254
+      ]
+    ]
+  },
+  "id": "way/31579370"
+}

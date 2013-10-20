@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23894004",
+    "highway": "primary",
+    "int_ref": "E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5875567,
+        46.7843482
+      ],
+      [
+        23.5875739,
+        46.7841307
+      ]
+    ]
+  },
+  "id": "way/23894004"
+}

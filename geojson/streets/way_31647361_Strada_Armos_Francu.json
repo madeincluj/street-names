@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647361",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Armos Francu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6031601,
+        46.7608337
+      ],
+      [
+        23.6038039,
+        46.7611277
+      ]
+    ]
+  },
+  "id": "way/31647361"
+}

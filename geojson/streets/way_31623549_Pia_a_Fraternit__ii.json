@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623549",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Piața Fraternității",
+    "name:hu": "Fraternității tér",
+    "old_name:hu": "Szuomi tér",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6114669,
+        46.7735599
+      ],
+      [
+        23.6124755,
+        46.7735938
+      ],
+      [
+        23.6128322,
+        46.7736057
+      ]
+    ]
+  },
+  "id": "way/31623549"
+}

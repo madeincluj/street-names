@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620429",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Albert Einstein",
+    "name:hu": "Albert Einstein utca",
+    "old_name:hu": "Teleki utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5879441,
+        46.7772974
+      ],
+      [
+        23.5882446,
+        46.7766684
+      ],
+      [
+        23.5884076,
+        46.7762805
+      ],
+      [
+        23.5884591,
+        46.7758102
+      ],
+      [
+        23.5884162,
+        46.7751225
+      ]
+    ]
+  },
+  "id": "way/31620429"
+}

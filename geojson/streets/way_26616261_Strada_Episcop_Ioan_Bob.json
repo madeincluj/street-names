@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616261",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Episcop Ioan Bob",
+    "name:hu": "Ioan Bob püspök utca",
+    "old_name:hu": "Kismester utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5866405,
+        46.7683089
+      ],
+      [
+        23.5873465,
+        46.7685652
+      ],
+      [
+        23.5880697,
+        46.7687798
+      ],
+      [
+        23.5889157,
+        46.7691473
+      ]
+    ]
+  },
+  "id": "way/26616261"
+}

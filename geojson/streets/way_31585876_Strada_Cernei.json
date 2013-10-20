@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585876",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cernei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6234808,
+        46.782696
+      ],
+      [
+        23.6243992,
+        46.7828782
+      ],
+      [
+        23.6246309,
+        46.7823669
+      ]
+    ]
+  },
+  "id": "way/31585876"
+}

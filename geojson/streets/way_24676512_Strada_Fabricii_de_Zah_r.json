@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676512",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fabricii de Zahăr"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6280856,
+        46.7916289
+      ],
+      [
+        23.6280784,
+        46.7923811
+      ],
+      [
+        23.6280736,
+        46.7929682
+      ],
+      [
+        23.6281199,
+        46.7955396
+      ]
+    ]
+  },
+  "id": "way/24676512"
+}

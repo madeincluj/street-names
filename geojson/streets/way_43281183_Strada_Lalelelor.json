@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43281183",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lalelelor",
+    "name:hu": "Tulipán utca",
+    "old_name:hu": "Mészáros utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.594424,
+        46.7798673
+      ],
+      [
+        23.5945331,
+        46.7782684
+      ]
+    ]
+  },
+  "id": "way/43281183"
+}

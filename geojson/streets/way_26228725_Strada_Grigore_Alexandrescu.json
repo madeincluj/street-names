@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26228725",
+    "highway": "residential",
+    "maxspeed": "40",
+    "name": "Strada Grigore Alexandrescu",
+    "name:hu": "Grigore Alexandrescu utca",
+    "old_name:hu": "Virág utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5566463,
+        46.7579619
+      ],
+      [
+        23.555891,
+        46.7578011
+      ],
+      [
+        23.5548482,
+        46.7575786
+      ],
+      [
+        23.5544476,
+        46.7574901
+      ],
+      [
+        23.5540519,
+        46.7574058
+      ],
+      [
+        23.5536233,
+        46.7573036
+      ],
+      [
+        23.5530955,
+        46.7571988
+      ]
+    ]
+  },
+  "id": "way/26228725"
+}

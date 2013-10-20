@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283865",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Semenicului",
+    "name:hu": "Szemenik utca",
+    "old_name:hu": "Kalevala utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6090255,
+        46.7716383
+      ],
+      [
+        23.60918,
+        46.7719617
+      ],
+      [
+        23.6094975,
+        46.7722967
+      ],
+      [
+        23.6095961,
+        46.7723655
+      ],
+      [
+        23.6108279,
+        46.7732255
+      ],
+      [
+        23.611247,
+        46.7734874
+      ],
+      [
+        23.6114669,
+        46.7735599
+      ]
+    ]
+  },
+  "id": "way/24283865"
+}

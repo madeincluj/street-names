@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229089",
+    "highway": "footway",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Negoiu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5634831,
+        46.7500779
+      ],
+      [
+        23.5614028,
+        46.7499755
+      ],
+      [
+        23.5573717,
+        46.7498199
+      ],
+      [
+        23.5573763,
+        46.7501985
+      ]
+    ]
+  },
+  "id": "way/26229089"
+}

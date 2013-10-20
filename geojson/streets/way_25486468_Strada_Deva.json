@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25486468",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Deva",
+    "name:hu": "Déva utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5738485,
+        46.7655675
+      ],
+      [
+        23.5744902,
+        46.765868
+      ],
+      [
+        23.5739409,
+        46.7665853
+      ],
+      [
+        23.575449,
+        46.7670061
+      ]
+    ]
+  },
+  "id": "way/25486468"
+}

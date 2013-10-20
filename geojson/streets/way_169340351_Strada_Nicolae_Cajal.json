@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340351",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Cajal"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5919219,
+        46.7497158
+      ],
+      [
+        23.5939325,
+        46.7496253
+      ]
+    ]
+  },
+  "id": "way/169340351"
+}

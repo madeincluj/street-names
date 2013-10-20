@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/45763754",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constanța",
+    "name:hu": "Konstanca utca",
+    "old_name:hu": "Eötvös utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5956626,
+        46.7740549
+      ],
+      [
+        23.5951037,
+        46.7747003
+      ],
+      [
+        23.5943557,
+        46.7755869
+      ],
+      [
+        23.5939181,
+        46.7761351
+      ],
+      [
+        23.593549,
+        46.7766935
+      ],
+      [
+        23.5934031,
+        46.777058
+      ],
+      [
+        23.5933573,
+        46.7772809
+      ]
+    ]
+  },
+  "id": "way/45763754"
+}

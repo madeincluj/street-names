@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31722419",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Luncii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6219964,
+        46.7903239
+      ],
+      [
+        23.6215542,
+        46.7901505
+      ],
+      [
+        23.6193913,
+        46.7894042
+      ],
+      [
+        23.61637,
+        46.7895979
+      ],
+      [
+        23.6157951,
+        46.789649
+      ]
+    ]
+  },
+  "id": "way/31722419"
+}

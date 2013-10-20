@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620956",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada IPintea Viteazu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6500021,
+        46.7900868
+      ],
+      [
+        23.6498355,
+        46.7909242
+      ],
+      [
+        23.6495437,
+        46.7922758
+      ],
+      [
+        23.6493634,
+        46.7929692
+      ]
+    ]
+  },
+  "id": "way/31620956"
+}

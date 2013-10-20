@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/158424312",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Uzinei Electrice"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5701159,
+        46.7662433
+      ],
+      [
+        23.5710467,
+        46.7652007
+      ]
+    ]
+  },
+  "id": "way/158424312"
+}

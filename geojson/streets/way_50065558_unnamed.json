@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50065558",
+    "highway": "footway",
+    "is_in:city": "Cluj-Napoca",
+    "surface": "paved"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5836241,
+        46.7716701
+      ],
+      [
+        23.5838882,
+        46.771554
+      ],
+      [
+        23.584203,
+        46.7714156
+      ],
+      [
+        23.5841147,
+        46.7716134
+      ],
+      [
+        23.5841089,
+        46.7716285
+      ]
+    ]
+  },
+  "id": "way/50065558"
+}

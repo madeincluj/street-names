@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/190653268",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Brâncuși",
+    "name:hu": "Constantin Brâncuși utca",
+    "old_name": "Gheorgheni",
+    "old_name:hu": "Györgyfalvi út",
+    "ref": "DJ103G"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.616937,
+        46.7585572
+      ],
+      [
+        23.6172698,
+        46.7583659
+      ]
+    ]
+  },
+  "id": "way/190653268"
+}

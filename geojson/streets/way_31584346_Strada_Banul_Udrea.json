@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584346",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Banul Udrea",
+    "name:hu": "Banul Udrea utca",
+    "old_name:hu": "Kassai utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5715169,
+        46.7862073
+      ],
+      [
+        23.5710258,
+        46.7875275
+      ],
+      [
+        23.5705657,
+        46.7887668
+      ]
+    ]
+  },
+  "id": "way/31584346"
+}

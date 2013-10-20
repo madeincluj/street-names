@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/52699569",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fabricii",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6144695,
+        46.7788145
+      ],
+      [
+        23.6144222,
+        46.7785538
+      ]
+    ]
+  },
+  "id": "way/52699569"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229123",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tarnița"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5652108,
+        46.7610533
+      ],
+      [
+        23.5649322,
+        46.7614766
+      ],
+      [
+        23.5642098,
+        46.7624793
+      ],
+      [
+        23.5653771,
+        46.7627968
+      ]
+    ]
+  },
+  "id": "way/26229123"
+}

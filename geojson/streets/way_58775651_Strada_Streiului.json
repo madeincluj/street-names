@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/58775651",
+    "highway": "track",
+    "name": "Strada Streiului",
+    "surface": "dirt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6328714,
+        46.7785741
+      ],
+      [
+        23.6325367,
+        46.78002
+      ]
+    ]
+  },
+  "id": "way/58775651"
+}

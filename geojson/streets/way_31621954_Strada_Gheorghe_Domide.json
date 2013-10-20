@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31621954",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gheorghe Domide"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6067787,
+        46.7852566
+      ],
+      [
+        23.6066244,
+        46.7840944
+      ]
+    ]
+  },
+  "id": "way/31621954"
+}

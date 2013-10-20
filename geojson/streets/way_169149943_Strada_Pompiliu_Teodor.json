@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149943",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pompiliu Teodor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6033314,
+        46.7469073
+      ],
+      [
+        23.6031353,
+        46.7468583
+      ],
+      [
+        23.6018688,
+        46.7491161
+      ]
+    ]
+  },
+  "id": "way/169149943"
+}

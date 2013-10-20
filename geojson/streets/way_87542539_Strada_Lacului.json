@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/87542539",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lacului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5570724,
+        46.7690502
+      ],
+      [
+        23.5575321,
+        46.76907
+      ],
+      [
+        23.5575978,
+        46.7688659
+      ]
+    ]
+  },
+  "id": "way/87542539"
+}

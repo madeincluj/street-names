@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623510",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Actorului",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6128708,
+        46.7711507
+      ],
+      [
+        23.6157129,
+        46.7711415
+      ],
+      [
+        23.6171642,
+        46.7711368
+      ]
+    ]
+  },
+  "id": "way/31623510"
+}

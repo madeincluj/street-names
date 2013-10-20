@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24659321",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Strada Predeal",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6038039,
+        46.7611277
+      ],
+      [
+        23.6042091,
+        46.7603706
+      ],
+      [
+        23.6045004,
+        46.7598297
+      ],
+      [
+        23.6047611,
+        46.7593393
+      ],
+      [
+        23.6052841,
+        46.7583714
+      ],
+      [
+        23.605758,
+        46.7574766
+      ],
+      [
+        23.6061642,
+        46.7567177
+      ]
+    ]
+  },
+  "id": "way/24659321"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619902",
+    "highway": "service"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5619265,
+        46.7622335
+      ],
+      [
+        23.5619009,
+        46.7623618
+      ],
+      [
+        23.5622614,
+        46.762397
+      ]
+    ]
+  },
+  "id": "way/31619902"
+}

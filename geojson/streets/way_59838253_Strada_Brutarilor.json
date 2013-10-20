@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838253",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Brutarilor",
+    "source": "EEA, Directorate-General Entreprise and Industry"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5691776,
+        46.7672685
+      ],
+      [
+        23.5679256,
+        46.7669688
+      ],
+      [
+        23.5678773,
+        46.7669301
+      ],
+      [
+        23.5678362,
+        46.7666316
+      ],
+      [
+        23.5676676,
+        46.7665753
+      ],
+      [
+        23.5676101,
+        46.7665133
+      ],
+      [
+        23.5683125,
+        46.7656829
+      ],
+      [
+        23.5685758,
+        46.7653266
+      ],
+      [
+        23.5685951,
+        46.7650586
+      ]
+    ]
+  },
+  "id": "way/59838253"
+}

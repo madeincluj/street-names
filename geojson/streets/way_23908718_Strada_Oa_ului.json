@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23908718",
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "name": "Strada Oașului",
+    "name:hu": "Avas utca",
+    "old_name:hu": "Kajántói út",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5978958,
+        46.7899489
+      ],
+      [
+        23.5975353,
+        46.7895669
+      ]
+    ]
+  },
+  "id": "way/23908718"
+}

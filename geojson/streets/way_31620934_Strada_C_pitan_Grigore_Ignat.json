@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620934",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Căpitan Grigore Ignat"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6568221,
+        46.7870044
+      ],
+      [
+        23.6569783,
+        46.7866083
+      ],
+      [
+        23.6570616,
+        46.7864597
+      ],
+      [
+        23.6571483,
+        46.7863051
+      ],
+      [
+        23.6571569,
+        46.78607
+      ],
+      [
+        23.6569595,
+        46.7855058
+      ],
+      [
+        23.6566829,
+        46.7846729
+      ]
+    ]
+  },
+  "id": "way/31620934"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623524",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cărbunarilor",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6112831,
+        46.7724222
+      ],
+      [
+        23.6112654,
+        46.7712188
+      ]
+    ]
+  },
+  "id": "way/31623524"
+}

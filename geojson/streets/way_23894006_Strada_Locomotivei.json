@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23894006",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Locomotivei",
+    "name:hu": "Mozdony utca",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5828218,
+        46.7835528
+      ],
+      [
+        23.5840686,
+        46.7837443
+      ],
+      [
+        23.5850628,
+        46.7839209
+      ],
+      [
+        23.5856285,
+        46.7839231
+      ]
+    ]
+  },
+  "id": "way/23894006"
+}

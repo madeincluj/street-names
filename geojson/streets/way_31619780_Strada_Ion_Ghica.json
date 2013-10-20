@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619780",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Ghica",
+    "name:hu": "Ion Ghica utca",
+    "old_name:hu": "Sándor László utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5724066,
+        46.7728617
+      ],
+      [
+        23.5724233,
+        46.7714295
+      ],
+      [
+        23.5724838,
+        46.7702458
+      ]
+    ]
+  },
+  "id": "way/31619780"
+}

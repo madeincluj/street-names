@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616877",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dimitrie Gusti"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5622954,
+        46.7482367
+      ],
+      [
+        23.5624241,
+        46.7484249
+      ],
+      [
+        23.5626387,
+        46.7486307
+      ],
+      [
+        23.5628104,
+        46.7487307
+      ],
+      [
+        23.5630078,
+        46.7487895
+      ],
+      [
+        23.5639965,
+        46.7492581
+      ]
+    ]
+  },
+  "id": "way/31616877"
+}

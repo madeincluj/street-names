@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/27173072",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Potaissa",
+    "name:hu": "Potaissa utca",
+    "old_name:hu": "Fogoly utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.587186,
+        46.7675916
+      ],
+      [
+        23.5873988,
+        46.7671379
+      ],
+      [
+        23.5875857,
+        46.7667113
+      ],
+      [
+        23.5887945,
+        46.7667173
+      ],
+      [
+        23.5888468,
+        46.7667253
+      ],
+      [
+        23.590213,
+        46.7667164
+      ]
+    ]
+  },
+  "id": "way/27173072"
+}

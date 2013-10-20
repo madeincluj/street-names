@@ -1,0 +1,51 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25444583",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mihai Veliciu",
+    "name:hu": "Alkony utca",
+    "old_name": "Strada Amurg",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6092102,
+        46.767939
+      ],
+      [
+        23.6083509,
+        46.7677177
+      ],
+      [
+        23.6078179,
+        46.7675954
+      ],
+      [
+        23.6061013,
+        46.7672191
+      ],
+      [
+        23.6057989,
+        46.7671465
+      ],
+      [
+        23.6047795,
+        46.7669016
+      ],
+      [
+        23.6040413,
+        46.7667135
+      ],
+      [
+        23.6034437,
+        46.7664383
+      ]
+    ]
+  },
+  "id": "way/25444583"
+}

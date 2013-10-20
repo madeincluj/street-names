@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7933774",
+    "highway": "tertiary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Piața Lucian Blaga",
+    "name:hu": "Lucian Blaga tér",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5857651,
+        46.7674044
+      ],
+      [
+        23.5857549,
+        46.7673581
+      ],
+      [
+        23.5857487,
+        46.767308
+      ],
+      [
+        23.5856957,
+        46.7672321
+      ],
+      [
+        23.5856156,
+        46.7671385
+      ],
+      [
+        23.5855431,
+        46.7670459
+      ],
+      [
+        23.5855292,
+        46.7670345
+      ],
+      [
+        23.5855138,
+        46.7670287
+      ]
+    ]
+  },
+  "id": "way/7933774"
+}

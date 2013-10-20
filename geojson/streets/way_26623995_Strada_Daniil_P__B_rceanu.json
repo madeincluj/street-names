@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26623995",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Daniil P. Bărceanu",
+    "name:hu": "Daniil P. Bărceanu utca",
+    "old_name:hu": "Szeszgyár utca",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5915667,
+        46.7796344
+      ],
+      [
+        23.5933182,
+        46.7797772
+      ]
+    ]
+  },
+  "id": "way/26623995"
+}

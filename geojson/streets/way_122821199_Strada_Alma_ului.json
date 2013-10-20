@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122821199",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Almașului",
+    "name:hu": "Almás utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5626265,
+        46.7592512
+      ],
+      [
+        23.5618147,
+        46.7592039
+      ],
+      [
+        23.5602115,
+        46.7591405
+      ]
+    ]
+  },
+  "id": "way/122821199"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23908774",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Branului",
+    "name:hu": "Törcsvár utca",
+    "old_name:hu": "Törcsvári út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6459449,
+        46.7864942
+      ],
+      [
+        23.6461635,
+        46.7841263
+      ]
+    ]
+  },
+  "id": "way/23908774"
+}

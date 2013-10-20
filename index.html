@@ -16,7 +16,10 @@
     
 function load(data) {
   streetList = data.features.filter(function(i) {
-    return i.properties.name && (!i.properties.operator || i.properties.operator !== 'RATUC');
+    return i.properties.name 
+      // && (!i.properties.operator || i.properties.operator !== 'RATUC')
+      // && (!i.properties.highway || i.properties.highway !== 'bus_stop')
+      // && (!i.properties.railway || i.properties.railway !== 'tram_stop');
   }).map(function(i) {
     i.properties.id = i.id.split('/')[1];
     delete i.properties['@id'];

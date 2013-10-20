@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622452",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lacul Roșu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6131942,
+        46.780951
+      ],
+      [
+        23.6116792,
+        46.7807207
+      ]
+    ]
+  },
+  "id": "way/31622452"
+}

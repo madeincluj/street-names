@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616204",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Georges Clemenceau",
+    "name:hu": "Georges Clemenceau utca",
+    "old_name:hu": "Izabella utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5869862,
+        46.7711513
+      ],
+      [
+        23.5858578,
+        46.7707586
+      ]
+    ]
+  },
+  "id": "way/26616204"
+}

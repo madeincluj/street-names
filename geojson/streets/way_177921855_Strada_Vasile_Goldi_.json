@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921855",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Vasile Goldiș",
+    "name:hu": "Vasile Goldiș utca",
+    "old_name:hu": "Klastrom utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5877814,
+        46.7710766
+      ],
+      [
+        23.5876081,
+        46.7717064
+      ]
+    ]
+  },
+  "id": "way/177921855"
+}

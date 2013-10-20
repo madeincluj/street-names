@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31648043",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tăbăcarilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6070953,
+        46.789872
+      ],
+      [
+        23.6074729,
+        46.7898603
+      ],
+      [
+        23.6075588,
+        46.7898368
+      ],
+      [
+        23.6076274,
+        46.7898074
+      ],
+      [
+        23.6080737,
+        46.789443
+      ],
+      [
+        23.6082263,
+        46.7893722
+      ]
+    ]
+  },
+  "id": "way/31648043"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24659338",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alverna"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6126546,
+        46.757745
+      ],
+      [
+        23.6106812,
+        46.7589245
+      ],
+      [
+        23.6100394,
+        46.7593081
+      ],
+      [
+        23.6093509,
+        46.7597196
+      ]
+    ]
+  },
+  "id": "way/24659338"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584348",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Spinoasă"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5668267,
+        46.7903117
+      ],
+      [
+        23.5681158,
+        46.787913
+      ]
+    ]
+  },
+  "id": "way/31584348"
+}

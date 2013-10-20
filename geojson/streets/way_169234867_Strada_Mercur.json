@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234867",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mercur"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6314983,
+        46.747188
+      ],
+      [
+        23.6338482,
+        46.7461821
+      ]
+    ]
+  },
+  "id": "way/169234867"
+}

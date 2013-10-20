@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/239042982",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Donath"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5609667,
+        46.7728784
+      ],
+      [
+        23.5608732,
+        46.7731649
+      ],
+      [
+        23.5609104,
+        46.7734084
+      ]
+    ]
+  },
+  "id": "way/239042982"
+}

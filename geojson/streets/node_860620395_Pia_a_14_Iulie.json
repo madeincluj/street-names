@@ -1,0 +1,18 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/860620395",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piața 14 Iulie",
+    "public_transport": "stop_position"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5660104,
+      46.770118
+    ]
+  },
+  "id": "node/860620395"
+}

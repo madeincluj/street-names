@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/89839552",
+    "access": "permissive",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "20",
+    "name": "Strada Colinei",
+    "oneway": "no",
+    "service": "parking_aisle",
+    "surface": "concrete"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5365882,
+        46.7498615
+      ],
+      [
+        23.5376577,
+        46.7501489
+      ]
+    ]
+  },
+  "id": "way/89839552"
+}

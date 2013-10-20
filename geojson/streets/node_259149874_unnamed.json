@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/259149874",
+    "junction": "roundabout"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5643796,
+      46.7532329
+    ]
+  },
+  "id": "node/259149874"
+}

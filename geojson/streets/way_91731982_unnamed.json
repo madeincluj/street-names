@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/91731982",
+    "highway": "service",
+    "service": "parking_aisle",
+    "source": "Bing"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5317018,
+        46.7502427
+      ],
+      [
+        23.5304504,
+        46.7498417
+      ],
+      [
+        23.5291599,
+        46.7494203
+      ]
+    ]
+  },
+  "id": "way/91731982"
+}

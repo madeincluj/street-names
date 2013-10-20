@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23894010",
+    "bridge": "yes",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Strada Locomotivei",
+    "name:hu": "Mozdony utca",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.581875,
+        46.7849489
+      ],
+      [
+        23.5821901,
+        46.7840597
+      ],
+      [
+        23.5822606,
+        46.7838944
+      ],
+      [
+        23.5822908,
+        46.7838122
+      ],
+      [
+        23.582384,
+        46.7837012
+      ],
+      [
+        23.5825529,
+        46.7835795
+      ],
+      [
+        23.5828218,
+        46.7835528
+      ]
+    ]
+  },
+  "id": "way/23894010"
+}

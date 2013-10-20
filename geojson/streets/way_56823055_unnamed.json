@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/56823055",
+    "bicycle": "yes",
+    "designation": "Mănăstirea Tăuți",
+    "foot": "yes",
+    "highway": "footway",
+    "layer": "5",
+    "source": "Primaria Floresti"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5112466,
+        46.7216859
+      ],
+      [
+        23.5094941,
+        46.7231035
+      ],
+      [
+        23.5080365,
+        46.7249327
+      ],
+      [
+        23.5079368,
+        46.726117
+      ]
+    ]
+  },
+  "id": "way/56823055"
+}

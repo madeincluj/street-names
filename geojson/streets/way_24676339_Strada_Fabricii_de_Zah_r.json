@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676339",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fabricii de Zahăr",
+    "name:hu": "Cukorgyár utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6171179,
+        46.7815608
+      ],
+      [
+        23.6161051,
+        46.7809731
+      ],
+      [
+        23.6156605,
+        46.7805509
+      ]
+    ]
+  },
+  "id": "way/24676339"
+}

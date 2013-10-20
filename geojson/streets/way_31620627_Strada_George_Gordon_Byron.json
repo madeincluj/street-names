@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620627",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada George Gordon Byron"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6100609,
+        46.795049
+      ],
+      [
+        23.6076118,
+        46.7990393
+      ]
+    ]
+  },
+  "id": "way/31620627"
+}

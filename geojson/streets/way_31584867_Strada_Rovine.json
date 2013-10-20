@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584867",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "designated",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Rovine",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6106378,
+        46.7823577
+      ],
+      [
+        23.6081475,
+        46.7819855
+      ]
+    ]
+  },
+  "id": "way/31584867"
+}

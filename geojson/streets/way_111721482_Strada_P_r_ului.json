@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/111721482",
+    "highway": "living_street",
+    "name": "Strada Pârâului",
+    "name:hu": "Patak utca",
+    "old_name:hu": "Apostol utca",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.562546,
+        46.7582607
+      ],
+      [
+        23.5649368,
+        46.7587998
+      ]
+    ]
+  },
+  "id": "way/111721482"
+}

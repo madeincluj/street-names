@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13347875",
+    "highway": "primary",
+    "int_ref": "E60",
+    "maxspeed": "RO:urban",
+    "name": "Strada Memorandumului",
+    "name:hu": "Memorandum utca",
+    "old_name:hu": "Unió utca",
+    "oneway": "yes",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5884844,
+        46.7702499
+      ],
+      [
+        23.5883608,
+        46.7701997
+      ],
+      [
+        23.5873428,
+        46.7697676
+      ],
+      [
+        23.5859728,
+        46.7691835
+      ],
+      [
+        23.585365,
+        46.7689424
+      ],
+      [
+        23.5849391,
+        46.7687435
+      ]
+    ]
+  },
+  "id": "way/13347875"
+}

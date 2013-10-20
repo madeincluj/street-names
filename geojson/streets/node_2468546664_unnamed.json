@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2468546664",
+    "access": "private",
+    "barrier": "gate"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5609104,
+      46.7734084
+    ]
+  },
+  "id": "node/2468546664"
+}

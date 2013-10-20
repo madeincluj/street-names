@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31137537",
+    "highway": "trunk",
+    "int_ref": "E 60; ",
+    "maxspeed": "RO:trunk",
+    "name": "Strada Avram Iancu",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5231189,
+        46.7518872
+      ],
+      [
+        23.5181515,
+        46.7507036
+      ],
+      [
+        23.5172762,
+        46.7504993
+      ],
+      [
+        23.5165471,
+        46.7503292
+      ],
+      [
+        23.5113564,
+        46.7491179
+      ]
+    ]
+  },
+  "id": "way/31137537"
+}

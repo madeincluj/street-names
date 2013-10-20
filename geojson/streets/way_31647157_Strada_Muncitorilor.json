@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647157",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Muncitorilor",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6129761,
+        46.7689541
+      ],
+      [
+        23.6095891,
+        46.7687892
+      ],
+      [
+        23.6090974,
+        46.7687653
+      ]
+    ]
+  },
+  "id": "way/31647157"
+}

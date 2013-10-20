@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283501",
+    "bridge": "yes",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Podul Napoca",
+    "name:de": "Napoca-Brücke",
+    "name:en": "Napoca Bridge",
+    "name:hu": "Napoca híd",
+    "old_name:hu": "Rákóczi híd"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5778536,
+        46.7712712
+      ],
+      [
+        23.577883,
+        46.7712129
+      ],
+      [
+        23.5780016,
+        46.7710013
+      ],
+      [
+        23.5780679,
+        46.7708961
+      ],
+      [
+        23.5781142,
+        46.7708032
+      ]
+    ]
+  },
+  "id": "way/24283501"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646732",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iosif Vulcan",
+    "name:hu": "Iosif Vulcan utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6040222,
+        46.7630446
+      ],
+      [
+        23.6020121,
+        46.7614779
+      ],
+      [
+        23.6011508,
+        46.7608016
+      ],
+      [
+        23.5999974,
+        46.7599155
+      ],
+      [
+        23.5985833,
+        46.7588054
+      ]
+    ]
+  },
+  "id": "way/31646732"
+}

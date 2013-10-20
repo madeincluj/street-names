@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893887",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Calea Dorobanților",
+    "name:hu": "Honvéd utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6154869,
+        46.7769237
+      ],
+      [
+        23.6173318,
+        46.7772265
+      ],
+      [
+        23.6183426,
+        46.7774176
+      ],
+      [
+        23.6194084,
+        46.7776139
+      ],
+      [
+        23.6201622,
+        46.7777527
+      ]
+    ]
+  },
+  "id": "way/23893887"
+}

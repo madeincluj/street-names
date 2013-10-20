@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225752",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Smaraldului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5737392,
+        46.7945974
+      ],
+      [
+        23.5733767,
+        46.7945693
+      ],
+      [
+        23.5729763,
+        46.7945647
+      ],
+      [
+        23.5728349,
+        46.7945349
+      ]
+    ]
+  },
+  "id": "way/227225752"
+}

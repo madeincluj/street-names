@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118146068",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Poienarilor",
+    "name:hu": "Poienari utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.569084,
+        46.7842409
+      ],
+      [
+        23.5689381,
+        46.7846111
+      ],
+      [
+        23.5685525,
+        46.785663
+      ]
+    ]
+  },
+  "id": "way/118146068"
+}

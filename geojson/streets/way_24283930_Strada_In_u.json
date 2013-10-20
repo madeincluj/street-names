@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283930",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Inău",
+    "name:hu": "Inău utca",
+    "old_name:hu": "Észt utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6139411,
+        46.7754218
+      ],
+      [
+        23.6180232,
+        46.775832
+      ],
+      [
+        23.6182936,
+        46.7758065
+      ]
+    ]
+  },
+  "id": "way/24283930"
+}

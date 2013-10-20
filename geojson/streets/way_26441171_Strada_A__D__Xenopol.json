@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26441171",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada A. D. Xenopol"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6100394,
+        46.7593081
+      ],
+      [
+        23.6090377,
+        46.7585359
+      ],
+      [
+        23.607981,
+        46.7577764
+      ]
+    ]
+  },
+  "id": "way/26441171"
+}

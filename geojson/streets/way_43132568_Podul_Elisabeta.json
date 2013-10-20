@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43132568",
+    "bridge": "yes",
+    "highway": "footway",
+    "name": "Podul Elisabeta",
+    "name:de": "Elisabethbrücke",
+    "name:en": "Elisabeth Bridge",
+    "name:hu": "Erzsébet híd",
+    "surface": "wood"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5821188,
+        46.7725329
+      ],
+      [
+        23.5822442,
+        46.7724118
+      ],
+      [
+        23.5824977,
+        46.7721835
+      ],
+      [
+        23.5825893,
+        46.7720941
+      ]
+    ]
+  },
+  "id": "way/43132568"
+}

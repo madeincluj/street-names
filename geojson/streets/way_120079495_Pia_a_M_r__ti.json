@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/120079495",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Piața Mărăști",
+    "ref": "DN1C",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6150221,
+        46.778072
+      ],
+      [
+        23.6150937,
+        46.7781732
+      ],
+      [
+        23.6151206,
+        46.7782687
+      ],
+      [
+        23.6151187,
+        46.778363
+      ]
+    ]
+  },
+  "id": "way/120079495"
+}

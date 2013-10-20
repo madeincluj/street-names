@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/141134530",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Moise Nicoară"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6068535,
+        46.7618057
+      ],
+      [
+        23.6074513,
+        46.7614667
+      ],
+      [
+        23.6098273,
+        46.760081
+      ]
+    ]
+  },
+  "id": "way/141134530"
+}

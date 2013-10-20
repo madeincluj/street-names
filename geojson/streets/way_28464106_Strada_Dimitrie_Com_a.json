@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28464106",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Dimitrie Comșa"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6029362,
+        46.7815263
+      ],
+      [
+        23.6024242,
+        46.7805406
+      ]
+    ]
+  },
+  "id": "way/28464106"
+}

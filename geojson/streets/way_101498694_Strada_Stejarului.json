@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101498694",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Stejarului",
+    "name:ro": "Strada Stejarului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5124072,
+        46.7999823
+      ],
+      [
+        23.5141309,
+        46.7999132
+      ]
+    ]
+  },
+  "id": "way/101498694"
+}

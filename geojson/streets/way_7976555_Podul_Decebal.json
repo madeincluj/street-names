@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7976555",
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Podul Decebal",
+    "name:de": "Decebal-Brücke",
+    "name:en": "Decebal Bridge",
+    "name:hu": "Decebal híd",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5904847,
+        46.7756868
+      ],
+      [
+        23.5899965,
+        46.7760861
+      ]
+    ]
+  },
+  "id": "way/7976555"
+}

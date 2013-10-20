@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149945",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Graur"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6069201,
+        46.7485798
+      ],
+      [
+        23.606416,
+        46.7501858
+      ]
+    ]
+  },
+  "id": "way/169149945"
+}

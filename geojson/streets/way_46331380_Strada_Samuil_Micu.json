@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/46331380",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Samuil Micu",
+    "name:hu": "Samuil Micu utca",
+    "old_name:hu": "Rózsa utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5859728,
+        46.7691835
+      ],
+      [
+        23.586007,
+        46.7691432
+      ],
+      [
+        23.5866405,
+        46.7683089
+      ],
+      [
+        23.587186,
+        46.7675916
+      ]
+    ]
+  },
+  "id": "way/46331380"
+}

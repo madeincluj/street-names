@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/187495160",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Decebal",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5908083,
+        46.7831028
+      ],
+      [
+        23.5905876,
+        46.7829153
+      ],
+      [
+        23.5904002,
+        46.7828359
+      ]
+    ]
+  },
+  "id": "way/187495160"
+}

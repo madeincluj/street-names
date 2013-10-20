@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714231",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gheorghe Asachi",
+    "name:hu": "Gheorghe Asachi utca",
+    "old_name:hu": "Bánk Bán utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6027156,
+        46.7923312
+      ],
+      [
+        23.6012651,
+        46.7919492
+      ],
+      [
+        23.5997802,
+        46.7915578
+      ],
+      [
+        23.5994369,
+        46.7914673
+      ],
+      [
+        23.5992691,
+        46.7914768
+      ]
+    ]
+  },
+  "id": "way/31714231"
+}

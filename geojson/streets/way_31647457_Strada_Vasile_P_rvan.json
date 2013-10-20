@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647457",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Pârvan",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6064282,
+        46.7606868
+      ],
+      [
+        23.6042091,
+        46.7603706
+      ]
+    ]
+  },
+  "id": "way/31647457"
+}

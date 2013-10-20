@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267684",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Radu Stanca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5842186,
+        46.7434145
+      ],
+      [
+        23.5820393,
+        46.7446796
+      ]
+    ]
+  },
+  "id": "way/169267684"
+}

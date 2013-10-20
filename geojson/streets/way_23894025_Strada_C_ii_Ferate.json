@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23894025",
+    "highway": "secondary",
+    "name": "Strada Căii Ferate",
+    "name:hu": "Vasút utca",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5888024,
+        46.7844418
+      ],
+      [
+        23.5945021,
+        46.7853759
+      ]
+    ]
+  },
+  "id": "way/23894025"
+}

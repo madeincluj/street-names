@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/242180593",
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "bridleway",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "surface": "fine_gravel"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5831784,
+        46.7883432
+      ],
+      [
+        23.5832212,
+        46.7883516
+      ],
+      [
+        23.583216,
+        46.7883837
+      ],
+      [
+        23.5833647,
+        46.7884052
+      ],
+      [
+        23.5833789,
+        46.7883575
+      ]
+    ]
+  },
+  "id": "way/242180593"
+}

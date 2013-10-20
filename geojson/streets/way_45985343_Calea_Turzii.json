@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/45985343",
+    "highway": "residential",
+    "layer": "-1",
+    "maxspeed": "RO:urban",
+    "name": "Calea Turzii",
+    "name:hu": "Tordai út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5982729,
+        46.7633823
+      ],
+      [
+        23.5978356,
+        46.7634547
+      ]
+    ]
+  },
+  "id": "way/45985343"
+}

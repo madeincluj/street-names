@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615444",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alba Iulia",
+    "name:hu": "Gyulafehérvár utca",
+    "old_name:hu": "Tinódi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5958032,
+        46.7648867
+      ],
+      [
+        23.59726,
+        46.764271
+      ],
+      [
+        23.598077,
+        46.764039
+      ]
+    ]
+  },
+  "id": "way/26615444"
+}

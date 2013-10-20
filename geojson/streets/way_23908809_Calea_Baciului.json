@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23908809",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Calea Baciului",
+    "name:hu": "Bácsi út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5579555,
+        46.7834052
+      ],
+      [
+        23.557918,
+        46.7834913
+      ],
+      [
+        23.5579261,
+        46.7835985
+      ],
+      [
+        23.557959,
+        46.7836685
+      ],
+      [
+        23.5580103,
+        46.783756
+      ]
+    ]
+  },
+  "id": "way/23908809"
+}

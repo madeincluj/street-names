@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647681",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Argeș",
+    "name:hu": "Argeș utca",
+    "old_name:hu": "Apáczai Csere János utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5956626,
+        46.7740549
+      ],
+      [
+        23.5969587,
+        46.7746955
+      ],
+      [
+        23.5970702,
+        46.7747426
+      ],
+      [
+        23.5980573,
+        46.7750482
+      ],
+      [
+        23.5986341,
+        46.7753839
+      ]
+    ]
+  },
+  "id": "way/31647681"
+}

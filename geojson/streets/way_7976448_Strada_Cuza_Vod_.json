@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7976448",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cuza Vodă",
+    "name:hu": "Cuza Vodă utca",
+    "old_name:hu": "Postakert utca",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5953651,
+        46.7725867
+      ],
+      [
+        23.5951248,
+        46.7728101
+      ],
+      [
+        23.5949789,
+        46.7729276
+      ],
+      [
+        23.5947903,
+        46.7730498
+      ],
+      [
+        23.5945795,
+        46.773148
+      ],
+      [
+        23.5944053,
+        46.7732077
+      ]
+    ]
+  },
+  "id": "way/7976448"
+}

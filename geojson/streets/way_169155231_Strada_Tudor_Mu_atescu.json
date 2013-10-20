@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169155231",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tudor Mușatescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6031221,
+        46.7432057
+      ],
+      [
+        23.6022036,
+        46.7409288
+      ]
+    ]
+  },
+  "id": "way/169155231"
+}

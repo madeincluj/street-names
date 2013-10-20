@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647449",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Iorga",
+    "name:hu": "Nicolea Iorga utca",
+    "old_name:hu": "Jósika utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6031601,
+        46.7608337
+      ],
+      [
+        23.6020121,
+        46.7614779
+      ],
+      [
+        23.6002899,
+        46.762497
+      ],
+      [
+        23.5990117,
+        46.7630859
+      ],
+      [
+        23.5982729,
+        46.7633823
+      ]
+    ]
+  },
+  "id": "way/31647449"
+}

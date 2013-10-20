@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/30417137",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Timișului",
+    "name:hu": "Tömösi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6408748,
+        46.7831784
+      ],
+      [
+        23.6408993,
+        46.7868506
+      ],
+      [
+        23.6410293,
+        46.7891083
+      ]
+    ]
+  },
+  "id": "way/30417137"
+}

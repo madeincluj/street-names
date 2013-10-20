@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1977177179",
+    "barrier": "lift_gate"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.599099,
+      46.768324
+    ]
+  },
+  "id": "node/1977177179"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149947",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Erkel Ferenc"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5978658,
+        46.7509986
+      ],
+      [
+        23.5984685,
+        46.7483391
+      ]
+    ]
+  },
+  "id": "way/169149947"
+}

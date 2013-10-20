@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55493466",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Teodor Mihali",
+    "name:hu": "Teodor Mihali utca",
+    "old_name:hu": "Szopori út",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6201622,
+        46.7777527
+      ],
+      [
+        23.61993,
+        46.7782733
+      ],
+      [
+        23.619803,
+        46.7785581
+      ]
+    ]
+  },
+  "id": "way/55493466"
+}

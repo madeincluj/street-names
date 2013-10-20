@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/44356586",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pitești",
+    "name:hu": "Pitești utca",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.59951,
+        46.7740656
+      ],
+      [
+        23.6002889,
+        46.7729967
+      ],
+      [
+        23.6004288,
+        46.7728549
+      ],
+      [
+        23.6015068,
+        46.771761
+      ]
+    ]
+  },
+  "id": "way/44356586"
+}

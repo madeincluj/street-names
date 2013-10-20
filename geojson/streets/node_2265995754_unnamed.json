@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2265995754",
+    "barrier": "entrance",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5942209,
+      46.7799176
+    ]
+  },
+  "id": "node/2265995754"
+}

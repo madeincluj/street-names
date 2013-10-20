@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222352725",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bradului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5653503,
+        46.7774071
+      ],
+      [
+        23.5653922,
+        46.7769806
+      ]
+    ]
+  },
+  "id": "way/222352725"
+}

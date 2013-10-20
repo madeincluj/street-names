@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/179937142",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bistriței",
+    "name:hu": "Beszterce utca",
+    "old_name:hu": "Gyárfás Jenő utca",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6174841,
+        46.7697022
+      ],
+      [
+        23.6174475,
+        46.7698593
+      ],
+      [
+        23.6174027,
+        46.7700673
+      ]
+    ]
+  },
+  "id": "way/179937142"
+}

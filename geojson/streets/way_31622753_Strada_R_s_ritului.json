@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622753",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Răsăritului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6130362,
+        46.7849188
+      ],
+      [
+        23.6125302,
+        46.7849676
+      ],
+      [
+        23.6120581,
+        46.784997
+      ],
+      [
+        23.6116718,
+        46.7850147
+      ]
+    ]
+  },
+  "id": "way/31622753"
+}

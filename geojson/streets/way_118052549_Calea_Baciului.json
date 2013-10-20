@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118052549",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Calea Baciului",
+    "name:hu": "Bácsi út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5602409,
+        46.7824817
+      ],
+      [
+        23.5598057,
+        46.7826783
+      ],
+      [
+        23.5595237,
+        46.7827671
+      ],
+      [
+        23.5579555,
+        46.7834052
+      ]
+    ]
+  },
+  "id": "way/118052549"
+}

@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31580075",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Maramureșului",
+    "name:hu": "Máramaros utca",
+    "old_name:hu": "Zsigmond király út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.591283,
+        46.7917831
+      ],
+      [
+        23.5938634,
+        46.7922216
+      ],
+      [
+        23.5943612,
+        46.7923508
+      ],
+      [
+        23.5961754,
+        46.7929114
+      ],
+      [
+        23.5975058,
+        46.7933521
+      ],
+      [
+        23.5987932,
+        46.7937635
+      ],
+      [
+        23.6002234,
+        46.7944898
+      ],
+      [
+        23.6010372,
+        46.7947499
+      ]
+    ]
+  },
+  "id": "way/31580075"
+}

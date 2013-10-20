@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623227",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Inului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6171351,
+        46.7835826
+      ],
+      [
+        23.6171008,
+        46.7831654
+      ],
+      [
+        23.6160611,
+        46.7826262
+      ]
+    ]
+  },
+  "id": "way/31623227"
+}

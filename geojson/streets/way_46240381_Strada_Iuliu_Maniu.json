@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/46240381",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iuliu Maniu",
+    "name:hu": "Iuliu Maniu utca",
+    "old_name:hu": "Szentegyház utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5903906,
+        46.7700372
+      ],
+      [
+        23.591894,
+        46.770503
+      ],
+      [
+        23.5954976,
+        46.7714434
+      ],
+      [
+        23.5960732,
+        46.771532
+      ]
+    ]
+  },
+  "id": "way/46240381"
+}

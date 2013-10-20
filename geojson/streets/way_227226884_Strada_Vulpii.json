@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227226884",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vulpii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5630183,
+        46.7877955
+      ],
+      [
+        23.564336,
+        46.7882327
+      ]
+    ]
+  },
+  "id": "way/227226884"
+}

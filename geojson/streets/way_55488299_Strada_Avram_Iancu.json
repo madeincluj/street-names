@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55488299",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Avram Iancu",
+    "name:hu": "Avram Iancu utca",
+    "old_name:hu": "Petőfi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5974516,
+        46.7676667
+      ],
+      [
+        23.5975887,
+        46.7677025
+      ]
+    ]
+  },
+  "id": "way/55488299"
+}

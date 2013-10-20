@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/736608144",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dacia",
+    "name:hu": "Dacia utca",
+    "operator": "RATUC",
+    "public_transport": "stop_position"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5892474,
+      46.7756293
+    ]
+  },
+  "id": "node/736608144"
+}

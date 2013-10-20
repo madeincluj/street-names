@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/179900197",
+    "highway": "service",
+    "oneway": "yes",
+    "service": "drive-through",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6192313,
+        46.7702045
+      ],
+      [
+        23.6190045,
+        46.770126
+      ],
+      [
+        23.6188402,
+        46.7698889
+      ]
+    ]
+  },
+  "id": "way/179900197"
+}

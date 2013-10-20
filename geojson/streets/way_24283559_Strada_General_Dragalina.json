@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283559",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada General Dragalina",
+    "name:hu": "Dragalina tábornok utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5858684,
+        46.7738134
+      ],
+      [
+        23.5865033,
+        46.7742691
+      ]
+    ]
+  },
+  "id": "way/24283559"
+}

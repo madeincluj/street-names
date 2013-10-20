@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31583360",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Duiliu Zamfirescu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.587864,
+        46.7467314
+      ],
+      [
+        23.5878779,
+        46.7471062
+      ]
+    ]
+  },
+  "id": "way/31583360"
+}

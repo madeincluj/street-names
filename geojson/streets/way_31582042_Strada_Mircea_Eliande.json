@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31582042",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mircea Eliande",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5835768,
+        46.751317
+      ],
+      [
+        23.583363,
+        46.7512578
+      ],
+      [
+        23.5829154,
+        46.7511336
+      ],
+      [
+        23.581532,
+        46.7507926
+      ],
+      [
+        23.5806944,
+        46.7505923
+      ]
+    ]
+  },
+  "id": "way/31582042"
+}

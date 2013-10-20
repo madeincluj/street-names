@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584299",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Belgrad",
+    "name:hu": "Belgrád utca",
+    "old_name:hu": "Veress Ferenc utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5752139,
+        46.7868862
+      ],
+      [
+        23.57415,
+        46.7894924
+      ]
+    ]
+  },
+  "id": "way/31584299"
+}

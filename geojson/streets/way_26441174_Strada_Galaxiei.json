@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26441174",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Galaxiei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6090045,
+        46.7594569
+      ],
+      [
+        23.6062099,
+        46.7610805
+      ]
+    ]
+  },
+  "id": "way/26441174"
+}

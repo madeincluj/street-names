@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623817",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Spalatorilor",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6056139,
+        46.7695994
+      ],
+      [
+        23.6059488,
+        46.7689189
+      ]
+    ]
+  },
+  "id": "way/31623817"
+}

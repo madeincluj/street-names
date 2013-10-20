@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/88699742",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Atlas (IRA)",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6362182,
+      46.7817168
+    ]
+  },
+  "id": "node/88699742"
+}

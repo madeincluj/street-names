@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/27173012",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Frédéric Joliot-Curie",
+    "name:hu": "Frédéric Joliot-Curie utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5924861,
+        46.7736931
+      ],
+      [
+        23.592479,
+        46.7735766
+      ],
+      [
+        23.592455,
+        46.7732772
+      ],
+      [
+        23.5926634,
+        46.7726103
+      ],
+      [
+        23.5928464,
+        46.7722893
+      ],
+      [
+        23.593064,
+        46.77191
+      ]
+    ]
+  },
+  "id": "way/27173012"
+}

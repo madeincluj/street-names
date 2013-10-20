@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149967",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Marin Sorescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6022638,
+        46.7466905
+      ],
+      [
+        23.6022277,
+        46.746757
+      ],
+      [
+        23.6020591,
+        46.7470675
+      ],
+      [
+        23.6014491,
+        46.7481904
+      ],
+      [
+        23.601048,
+        46.7489289
+      ]
+    ]
+  },
+  "id": "way/169149967"
+}

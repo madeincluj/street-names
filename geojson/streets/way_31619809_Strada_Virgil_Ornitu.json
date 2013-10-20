@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619809",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Virgil Ornitu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5618151,
+        46.7717566
+      ],
+      [
+        23.5618151,
+        46.7720505
+      ],
+      [
+        23.5636347,
+        46.7722445
+      ],
+      [
+        23.5637324,
+        46.7722141
+      ]
+    ]
+  },
+  "id": "way/31619809"
+}

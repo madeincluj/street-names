@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55493604",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Vaida Voievod",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6241356,
+        46.7720666
+      ],
+      [
+        23.6239368,
+        46.7721734
+      ]
+    ]
+  },
+  "id": "way/55493604"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28360871",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Câmpina",
+    "name:hu": "Câmpina utca",
+    "old_name:hu": "Szabolcs vezér út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6273135,
+        46.7878213
+      ],
+      [
+        23.623019,
+        46.7880898
+      ],
+      [
+        23.6222951,
+        46.7881282
+      ],
+      [
+        23.6211253,
+        46.7881903
+      ],
+      [
+        23.6202662,
+        46.7882359
+      ],
+      [
+        23.619623,
+        46.78827
+      ],
+      [
+        23.6168611,
+        46.7884371
+      ],
+      [
+        23.615426,
+        46.7885148
+      ]
+    ]
+  },
+  "id": "way/28360871"
+}

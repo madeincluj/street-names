@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26433220",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Academician David Prodan",
+    "name:hu": "David Prodan akadémikus utca",
+    "old_name:hu": "Kis utca",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.587329,
+        46.7805137
+      ],
+      [
+        23.58798,
+        46.7805625
+      ],
+      [
+        23.5885521,
+        46.7806316
+      ],
+      [
+        23.5890194,
+        46.7807337
+      ],
+      [
+        23.5900542,
+        46.7809303
+      ]
+    ]
+  },
+  "id": "way/26433220"
+}

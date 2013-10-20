@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579791",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Puieților"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5975058,
+        46.7933521
+      ],
+      [
+        23.5986902,
+        46.7920299
+      ],
+      [
+        23.5992691,
+        46.7914768
+      ]
+    ]
+  },
+  "id": "way/31579791"
+}

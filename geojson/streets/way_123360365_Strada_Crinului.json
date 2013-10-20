@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/123360365",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Crinului",
+    "name:hu": "Liliom utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6093835,
+        46.7793127
+      ],
+      [
+        23.6098552,
+        46.7782451
+      ],
+      [
+        23.6098655,
+        46.7782233
+      ],
+      [
+        23.610183,
+        46.7775486
+      ]
+    ]
+  },
+  "id": "way/123360365"
+}

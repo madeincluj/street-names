@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/242183674",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "no",
+    "maxspeed": "RO:urban",
+    "motor_vehicle": "yes",
+    "name": "Strada Jean Jaures",
+    "name:hu": "Pálffy János utca",
+    "oneway": "no",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5819689,
+        46.7886986
+      ],
+      [
+        23.5822612,
+        46.7887493
+      ],
+      [
+        23.5823365,
+        46.7885819
+      ]
+    ]
+  },
+  "id": "way/242183674"
+}

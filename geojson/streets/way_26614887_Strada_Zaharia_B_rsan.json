@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26614887",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zaharia Bârsan",
+    "name:hu": "Zaharia Bârsan utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5976425,
+        46.7623082
+      ],
+      [
+        23.5953225,
+        46.7631523
+      ],
+      [
+        23.5950736,
+        46.7637402
+      ]
+    ]
+  },
+  "id": "way/26614887"
+}

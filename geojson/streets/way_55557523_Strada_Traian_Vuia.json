@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55557523",
+    "highway": "primary",
+    "history": "Retrieved from v23",
+    "int_ref": "E576",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "4",
+    "maxspeed": "RO:urban",
+    "name": "Strada Traian Vuia",
+    "name:hu": "Traian Vuia utca",
+    "old_name:hu": "Szamosfalvi út",
+    "ref": "DN1C"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6439003,
+        46.7836932
+      ],
+      [
+        23.6431838,
+        46.7833832
+      ],
+      [
+        23.6426021,
+        46.7831652
+      ],
+      [
+        23.6423684,
+        46.7830776
+      ]
+    ]
+  },
+  "id": "way/55557523"
+}

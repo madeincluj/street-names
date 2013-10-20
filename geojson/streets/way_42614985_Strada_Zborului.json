@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/42614985",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zborului",
+    "name:hu": "Repülés utca",
+    "old_name:hu": "Alecsandri Vasile utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6668712,
+        46.7812178
+      ],
+      [
+        23.6684922,
+        46.7812178
+      ]
+    ]
+  },
+  "id": "way/42614985"
+}

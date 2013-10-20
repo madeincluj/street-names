@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31667377",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Căruțașilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6138936,
+        46.784879
+      ],
+      [
+        23.6146345,
+        46.7848118
+      ],
+      [
+        23.6147079,
+        46.7846705
+      ],
+      [
+        23.6147074,
+        46.7845388
+      ]
+    ]
+  },
+  "id": "way/31667377"
+}

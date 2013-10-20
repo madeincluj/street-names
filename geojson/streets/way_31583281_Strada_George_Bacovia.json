@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31583281",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada George Bacovia",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5787096,
+        46.7506518
+      ],
+      [
+        23.5791079,
+        46.7502184
+      ],
+      [
+        23.5793581,
+        46.7499249
+      ],
+      [
+        23.5796843,
+        46.7496191
+      ],
+      [
+        23.5799989,
+        46.7492995
+      ]
+    ]
+  },
+  "id": "way/31583281"
+}

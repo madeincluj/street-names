@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620275",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Oituz"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5987931,
+        46.7824874
+      ],
+      [
+        23.5986412,
+        46.7835989
+      ],
+      [
+        23.5985278,
+        46.7844286
+      ]
+    ]
+  },
+  "id": "way/31620275"
+}

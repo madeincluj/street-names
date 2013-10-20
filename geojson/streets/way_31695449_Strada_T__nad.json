@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31695449",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tășnad",
+    "name:hu": "Tusnád utca",
+    "old_name:hu": "Páter Béla utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5549572,
+        46.7613975
+      ],
+      [
+        23.554354,
+        46.761039
+      ],
+      [
+        23.5537019,
+        46.7610178
+      ],
+      [
+        23.553026,
+        46.7609683
+      ],
+      [
+        23.5516441,
+        46.7608271
+      ]
+    ]
+  },
+  "id": "way/31695449"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/311485224",
+    "highway": "bus_stop",
+    "name": "1 Mai"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6058694,
+      46.7861584
+    ]
+  },
+  "id": "node/311485224"
+}

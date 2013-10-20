@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584341",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Metalului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5652464,
+        46.7835243
+      ],
+      [
+        23.5650803,
+        46.7839112
+      ],
+      [
+        23.5646735,
+        46.7849507
+      ]
+    ]
+  },
+  "id": "way/31584341"
+}

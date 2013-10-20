@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616610",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Teciu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5832401,
+        46.7909625
+      ],
+      [
+        23.5843379,
+        46.7913216
+      ],
+      [
+        23.5853601,
+        46.7916559
+      ],
+      [
+        23.5861969,
+        46.791979
+      ]
+    ]
+  },
+  "id": "way/31616610"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283803",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Malinului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.608506,
+        46.757208
+      ],
+      [
+        23.6106812,
+        46.7589245
+      ],
+      [
+        23.6118631,
+        46.7598229
+      ],
+      [
+        23.6131024,
+        46.7607618
+      ]
+    ]
+  },
+  "id": "way/24283803"
+}

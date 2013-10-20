@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/57898558",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nouă",
+    "name:hu": "Uj utca",
+    "name:ro": "Strada Nouă"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5247723,
+        46.7941535
+      ],
+      [
+        23.5242513,
+        46.7937972
+      ],
+      [
+        23.5237243,
+        46.7934075
+      ]
+    ]
+  },
+  "id": "way/57898558"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43707025",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Dávid Ferenc",
+    "name:hu": "Dávid Ferenc utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5913783,
+        46.7722627
+      ],
+      [
+        23.5918256,
+        46.7715619
+      ]
+    ]
+  },
+  "id": "way/43707025"
+}

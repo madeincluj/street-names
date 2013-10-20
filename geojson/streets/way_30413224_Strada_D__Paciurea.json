@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/30413224",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada D. Paciurea",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.604914,
+        46.7518149
+      ],
+      [
+        23.6044297,
+        46.7534975
+      ]
+    ]
+  },
+  "id": "way/30413224"
+}

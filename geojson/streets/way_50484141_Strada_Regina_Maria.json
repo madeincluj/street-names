@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50484141",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Regina Maria"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6273747,
+        46.7522248
+      ],
+      [
+        23.6262357,
+        46.7511947
+      ]
+    ]
+  },
+  "id": "way/50484141"
+}

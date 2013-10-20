@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/45985415",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ludwig van Beethoven",
+    "name:hu": "Ludwig van Beethoven utca",
+    "old_name:hu": "Sibelius utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6128322,
+        46.7736057
+      ],
+      [
+        23.6165591,
+        46.7738498
+      ]
+    ]
+  },
+  "id": "way/45985415"
+}

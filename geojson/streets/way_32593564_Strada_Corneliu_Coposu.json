@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/32593564",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Corneliu Coposu",
+    "name:hu": "Corneliu Coposu utca",
+    "old_name:hu": "Nagy Lajos király út",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5567954,
+        46.7839289
+      ],
+      [
+        23.5571734,
+        46.7837961
+      ],
+      [
+        23.557424,
+        46.7837431
+      ],
+      [
+        23.5577912,
+        46.7837334
+      ],
+      [
+        23.5580103,
+        46.783756
+      ]
+    ]
+  },
+  "id": "way/32593564"
+}

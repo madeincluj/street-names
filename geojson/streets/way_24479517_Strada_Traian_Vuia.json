@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24479517",
+    "bridge": "yes",
+    "highway": "primary",
+    "history": "Retrieved from v3",
+    "int_ref": "E576",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "4",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Strada Traian Vuia",
+    "ref": "DN1C"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6423684,
+        46.7830776
+      ],
+      [
+        23.6416334,
+        46.7828689
+      ],
+      [
+        23.64052,
+        46.7825915
+      ],
+      [
+        23.6385459,
+        46.7821625
+      ]
+    ]
+  },
+  "id": "way/24479517"
+}

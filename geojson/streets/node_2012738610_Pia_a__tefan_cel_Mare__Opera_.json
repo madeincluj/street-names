@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2012738610",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piața Ștefan cel Mare (Opera)",
+    "name:hu": "Nagy István tér (Opera)",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes",
+    "website": "http://www.ratuc.ro",
+    "wheelchair": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5968783,
+      46.770061
+    ]
+  },
+  "id": "node/2012738610"
+}

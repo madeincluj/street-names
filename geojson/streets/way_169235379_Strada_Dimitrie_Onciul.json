@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169235379",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dimitrie Onciul"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6393196,
+        46.7404057
+      ],
+      [
+        23.6360741,
+        46.7405123
+      ]
+    ]
+  },
+  "id": "way/169235379"
+}

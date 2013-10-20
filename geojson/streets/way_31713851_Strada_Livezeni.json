@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31713851",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Livezeni",
+    "name:hu": "Jeddi utca",
+    "old_name:hu": "Pozsony utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5646735,
+        46.7849507
+      ],
+      [
+        23.563851,
+        46.7868714
+      ]
+    ]
+  },
+  "id": "way/31713851"
+}

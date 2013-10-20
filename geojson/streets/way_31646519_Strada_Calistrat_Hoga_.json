@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646519",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Calistrat Hogaș",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6325608,
+        46.763583
+      ],
+      [
+        23.6331276,
+        46.7641258
+      ],
+      [
+        23.6339552,
+        46.7649942
+      ]
+    ]
+  },
+  "id": "way/31646519"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222352721",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zefirului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5652071,
+        46.778136
+      ],
+      [
+        23.5636675,
+        46.777967
+      ],
+      [
+        23.5623076,
+        46.7778237
+      ],
+      [
+        23.5621787,
+        46.7778186
+      ]
+    ]
+  },
+  "id": "way/222352721"
+}

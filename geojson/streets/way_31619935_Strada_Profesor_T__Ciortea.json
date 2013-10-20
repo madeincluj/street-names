@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619935",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Profesor T. Ciortea",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5550323,
+        46.7683304
+      ],
+      [
+        23.5542548,
+        46.7679494
+      ],
+      [
+        23.5531688,
+        46.7674171
+      ],
+      [
+        23.5509401,
+        46.7663247
+      ],
+      [
+        23.5504356,
+        46.7660457
+      ]
+    ]
+  },
+  "id": "way/31619935"
+}

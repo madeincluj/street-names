@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623244",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Voltaire",
+    "name:hu": "Voltaire utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6021748,
+        46.7688403
+      ],
+      [
+        23.5996666,
+        46.7680433
+      ],
+      [
+        23.5992104,
+        46.7687236
+      ]
+    ]
+  },
+  "id": "way/31623244"
+}

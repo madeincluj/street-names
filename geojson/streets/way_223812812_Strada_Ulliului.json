@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223812812",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ulliului",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5310834,
+        46.7920683
+      ],
+      [
+        23.5320994,
+        46.7910282
+      ]
+    ]
+  },
+  "id": "way/223812812"
+}

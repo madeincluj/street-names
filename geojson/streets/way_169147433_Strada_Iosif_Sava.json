@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147433",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iosif Sava"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.59919,
+        46.7313895
+      ],
+      [
+        23.5989878,
+        46.7319296
+      ]
+    ]
+  },
+  "id": "way/169147433"
+}

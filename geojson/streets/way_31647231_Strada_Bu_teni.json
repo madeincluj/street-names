@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647231",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bușteni"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6174674,
+        46.7652658
+      ],
+      [
+        23.613794,
+        46.7646628
+      ]
+    ]
+  },
+  "id": "way/31647231"
+}

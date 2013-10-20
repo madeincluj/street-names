@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55886770",
+    "highway": "primary",
+    "int_ref": "E 60; E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Calea Florești",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5404901,
+        46.7564799
+      ],
+      [
+        23.5381555,
+        46.7559303
+      ]
+    ]
+  },
+  "id": "way/55886770"
+}

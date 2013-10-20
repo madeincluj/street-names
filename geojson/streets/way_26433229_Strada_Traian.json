@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26433229",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Traian",
+    "name:hu": "Traianus utca",
+    "old_name:hu": "Árpád út",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5915078,
+        46.779109
+      ],
+      [
+        23.5913394,
+        46.7776074
+      ],
+      [
+        23.5911935,
+        46.7771489
+      ],
+      [
+        23.5909532,
+        46.776855
+      ],
+      [
+        23.5899965,
+        46.7760861
+      ]
+    ]
+  },
+  "id": "way/26433229"
+}

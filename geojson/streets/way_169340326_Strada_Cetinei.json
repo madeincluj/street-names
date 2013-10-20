@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340326",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cetinei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5901986,
+        46.7321006
+      ],
+      [
+        23.5898096,
+        46.7321563
+      ],
+      [
+        23.5890871,
+        46.7323225
+      ],
+      [
+        23.5873653,
+        46.7327591
+      ]
+    ]
+  },
+  "id": "way/169340326"
+}

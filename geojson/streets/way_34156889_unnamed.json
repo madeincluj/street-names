@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/34156889",
+    "bicycle": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "rcn_ref": "Cluj-Cheile Turzii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5425147,
+        46.7506732
+      ],
+      [
+        23.5427099,
+        46.750438
+      ],
+      [
+        23.5426999,
+        46.7500534
+      ]
+    ]
+  },
+  "id": "way/34156889"
+}

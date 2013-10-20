@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585888",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tribunul Vlăduțiu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6246565,
+        46.7839537
+      ],
+      [
+        23.6249313,
+        46.7839773
+      ],
+      [
+        23.6250515,
+        46.7839655
+      ],
+      [
+        23.6251545,
+        46.7839126
+      ],
+      [
+        23.6258411,
+        46.7826431
+      ],
+      [
+        23.6261736,
+        46.7819216
+      ],
+      [
+        23.6262864,
+        46.7816767
+      ]
+    ]
+  },
+  "id": "way/31585888"
+}

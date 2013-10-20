@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893983",
+    "bridge": "yes",
+    "highway": "primary",
+    "int_ref": "E 81",
+    "layer": "1",
+    "name": "Podul Horea",
+    "name:de": "Horea-Brücke",
+    "name:en": "Horea Bridge",
+    "name:hu": "Horea híd",
+    "old_name:hu": "Szamos híd",
+    "railway": "tram",
+    "ref": "DN1F",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5877472,
+        46.7741298
+      ],
+      [
+        23.5874744,
+        46.7744928
+      ]
+    ]
+  },
+  "id": "way/23893983"
+}

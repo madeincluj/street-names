@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616617",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Graurilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5828281,
+        46.7931192
+      ],
+      [
+        23.5833002,
+        46.7927724
+      ],
+      [
+        23.5846735,
+        46.7920085
+      ],
+      [
+        23.5853601,
+        46.7916559
+      ]
+    ]
+  },
+  "id": "way/31616617"
+}

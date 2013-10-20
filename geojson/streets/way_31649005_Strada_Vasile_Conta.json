@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31649005",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Conta"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6033699,
+        46.7515795
+      ],
+      [
+        23.6041387,
+        46.751702
+      ],
+      [
+        23.604914,
+        46.7518149
+      ],
+      [
+        23.6055792,
+        46.7519114
+      ],
+      [
+        23.6061923,
+        46.7520323
+      ],
+      [
+        23.6066673,
+        46.7520891
+      ]
+    ]
+  },
+  "id": "way/31649005"
+}

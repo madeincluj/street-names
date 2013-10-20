@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24476957",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Țebei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5689426,
+        46.7691352
+      ],
+      [
+        23.5690506,
+        46.7696226
+      ],
+      [
+        23.569073,
+        46.7702894
+      ],
+      [
+        23.5692051,
+        46.7710923
+      ],
+      [
+        23.569222,
+        46.7720933
+      ],
+      [
+        23.569274,
+        46.7730129
+      ]
+    ]
+  },
+  "id": "way/24476957"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623178",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Trotușului",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6168274,
+        46.7800517
+      ],
+      [
+        23.6163393,
+        46.7795592
+      ],
+      [
+        23.616191,
+        46.7794096
+      ],
+      [
+        23.6155955,
+        46.7793733
+      ],
+      [
+        23.6153695,
+        46.7794785
+      ],
+      [
+        23.6148715,
+        46.7798222
+      ]
+    ]
+  },
+  "id": "way/31623178"
+}

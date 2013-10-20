@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616987",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sighișoarei",
+    "name:hu": "Segesvár utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5799425,
+        46.7577382
+      ],
+      [
+        23.5800837,
+        46.757815
+      ],
+      [
+        23.5802194,
+        46.7579049
+      ],
+      [
+        23.5803767,
+        46.7580315
+      ],
+      [
+        23.5804825,
+        46.7582106
+      ],
+      [
+        23.5807511,
+        46.7588812
+      ]
+    ]
+  },
+  "id": "way/26616987"
+}

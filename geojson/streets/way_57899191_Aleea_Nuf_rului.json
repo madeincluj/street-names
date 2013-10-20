@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/57899191",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Nufărului",
+    "name:hu": "Tavirózsa utca",
+    "name:ro": "Aleea Nufărului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5270356,
+        46.7926049
+      ],
+      [
+        23.5261972,
+        46.7921712
+      ],
+      [
+        23.5253112,
+        46.7929116
+      ],
+      [
+        23.5242513,
+        46.7937972
+      ]
+    ]
+  },
+  "id": "way/57899191"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26614883",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Matei Basarab",
+    "name:hu": "Matei Basarab utca",
+    "old_name:hu": "Herbák János utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5953225,
+        46.7631523
+      ],
+      [
+        23.5953139,
+        46.7628936
+      ],
+      [
+        23.5952195,
+        46.7627524
+      ],
+      [
+        23.5944642,
+        46.7617411
+      ]
+    ]
+  },
+  "id": "way/26614883"
+}

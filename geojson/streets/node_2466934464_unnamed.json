@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2466934464",
+    "highway": "crossing"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6379485,
+      46.7802717
+    ]
+  },
+  "id": "node/2466934464"
+}

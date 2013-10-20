@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267676",
+    "highway": "trunk",
+    "int_ref": "E 60;E 81",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Calea Turzii",
+    "name:hu": "Tordai út",
+    "oneway": "yes",
+    "ref": "DN1",
+    "smoothness": "good",
+    "surface": "asphalt",
+    "surface_survey": "25JAN2010_nordic@motociclism.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5912818,
+        46.7381144
+      ],
+      [
+        23.591662,
+        46.7378492
+      ]
+    ]
+  },
+  "id": "way/169267676"
+}

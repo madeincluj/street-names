@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/107938787",
+    "BEARING": "339° 11' 55.2'",
+    "LENGTH": "24.919 m",
+    "highway": "living_street"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5792805,
+        46.7642972
+      ],
+      [
+        23.5791552,
+        46.7644764
+      ]
+    ]
+  },
+  "id": "way/107938787"
+}

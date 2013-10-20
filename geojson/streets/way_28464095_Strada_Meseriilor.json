@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28464095",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Meseriilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6015516,
+        46.7817184
+      ],
+      [
+        23.6019059,
+        46.7829241
+      ],
+      [
+        23.602238,
+        46.7840038
+      ],
+      [
+        23.6022603,
+        46.7842487
+      ]
+    ]
+  },
+  "id": "way/28464095"
+}

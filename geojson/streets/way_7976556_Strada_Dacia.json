@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7976556",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dacia",
+    "name:hu": "Dacia utca",
+    "old_name:hu": "Radák utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5899965,
+        46.7760861
+      ],
+      [
+        23.5892474,
+        46.7756293
+      ],
+      [
+        23.5884162,
+        46.7751225
+      ],
+      [
+        23.5873082,
+        46.7747489
+      ]
+    ]
+  },
+  "id": "way/7976556"
+}

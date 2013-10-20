@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579346",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Făgărașului",
+    "name:hu": "Fogaras utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5725086,
+        46.7863894
+      ],
+      [
+        23.5714959,
+        46.7889777
+      ]
+    ]
+  },
+  "id": "way/31579346"
+}

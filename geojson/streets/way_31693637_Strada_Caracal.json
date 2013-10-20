@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31693637",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Caracal",
+    "name:hu": "Caracal utca",
+    "old_name:hu": "Hidelvi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5904788,
+        46.7823743
+      ],
+      [
+        23.5899971,
+        46.7821168
+      ],
+      [
+        23.5896202,
+        46.7819153
+      ]
+    ]
+  },
+  "id": "way/31693637"
+}

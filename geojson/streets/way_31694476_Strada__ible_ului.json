@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31694476",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Țibleșului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5560951,
+        46.7719942
+      ],
+      [
+        23.5561686,
+        46.7716563
+      ],
+      [
+        23.5562391,
+        46.7712669
+      ],
+      [
+        23.5562439,
+        46.7712401
+      ],
+      [
+        23.5563906,
+        46.7706573
+      ]
+    ]
+  },
+  "id": "way/31694476"
+}

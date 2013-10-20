@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55488424",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Calea Someșului",
+    "ref": "DJ105S"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6413532,
+        46.7819113
+      ],
+      [
+        23.6404704,
+        46.7822665
+      ]
+    ]
+  },
+  "id": "way/55488424"
+}

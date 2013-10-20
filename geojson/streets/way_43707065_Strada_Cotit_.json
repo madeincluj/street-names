@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43707065",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cotită",
+    "name:hu": "Forduló utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5899674,
+        46.7733485
+      ],
+      [
+        23.590445,
+        46.7725806
+      ],
+      [
+        23.5905791,
+        46.772324
+      ],
+      [
+        23.5907238,
+        46.7720727
+      ],
+      [
+        23.5913783,
+        46.7722627
+      ]
+    ]
+  },
+  "id": "way/43707065"
+}

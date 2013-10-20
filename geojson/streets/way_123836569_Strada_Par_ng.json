@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/123836569",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Parâng",
+    "name:hu": "Parâng utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5527943,
+        46.7538558
+      ],
+      [
+        23.5531319,
+        46.7539987
+      ],
+      [
+        23.5533697,
+        46.7541043
+      ],
+      [
+        23.5535149,
+        46.7542469
+      ]
+    ]
+  },
+  "id": "way/123836569"
+}

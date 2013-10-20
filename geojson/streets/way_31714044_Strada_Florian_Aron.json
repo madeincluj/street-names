@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714044",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Florian Aron"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5915657,
+        46.7931133
+      ],
+      [
+        23.590703,
+        46.7944235
+      ]
+    ]
+  },
+  "id": "way/31714044"
+}

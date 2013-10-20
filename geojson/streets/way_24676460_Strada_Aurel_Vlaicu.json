@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676460",
+    "bridge": "yes",
+    "highway": "primary",
+    "history": "Retrieved from v6",
+    "int_ref": "E576",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "4",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Strada Aurel Vlaicu",
+    "ref": "DN1C",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6218774,
+        46.7796169
+      ],
+      [
+        23.6184145,
+        46.7789843
+      ]
+    ]
+  },
+  "id": "way/24676460"
+}

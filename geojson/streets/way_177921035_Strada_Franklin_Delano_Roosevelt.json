@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921035",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Franklin Delano Roosevelt",
+    "name:hu": "Franklin Delano Roosevelt utca",
+    "old_name:hu": "Víz utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5866844,
+        46.7714608
+      ],
+      [
+        23.5867097,
+        46.7714304
+      ],
+      [
+        23.5869862,
+        46.7711513
+      ],
+      [
+        23.5872694,
+        46.7708812
+      ],
+      [
+        23.5873297,
+        46.7708335
+      ]
+    ]
+  },
+  "id": "way/177921035"
+}

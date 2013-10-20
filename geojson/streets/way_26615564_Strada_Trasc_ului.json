@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615564",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Trascăului",
+    "name:hu": "Torockói utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5806977,
+        46.7561178
+      ],
+      [
+        23.5807906,
+        46.7557147
+      ]
+    ]
+  },
+  "id": "way/26615564"
+}

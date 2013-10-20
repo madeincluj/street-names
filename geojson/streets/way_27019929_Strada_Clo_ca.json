@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/27019929",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cloșca",
+    "name:hu": "Cloşca utca",
+    "old_name:hu": "Bánffy utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5871877,
+        46.7776301
+      ],
+      [
+        23.5876094,
+        46.7774796
+      ],
+      [
+        23.5879441,
+        46.7772974
+      ]
+    ]
+  },
+  "id": "way/27019929"
+}

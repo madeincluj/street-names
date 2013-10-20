@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/154008642",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Arieșului",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6128708,
+        46.7711507
+      ],
+      [
+        23.6128999,
+        46.7703318
+      ],
+      [
+        23.6129308,
+        46.7694632
+      ]
+    ]
+  },
+  "id": "way/154008642"
+}

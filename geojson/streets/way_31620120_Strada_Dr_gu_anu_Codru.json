@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620120",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Drăgușanu Codru"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6072309,
+        46.7943927
+      ],
+      [
+        23.6050225,
+        46.7973326
+      ]
+    ]
+  },
+  "id": "way/31620120"
+}

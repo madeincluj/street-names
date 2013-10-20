@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26598953",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Argeș",
+    "name:hu": "Argeș utca",
+    "old_name:hu": "Apáczai Csere János utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5956626,
+        46.7740549
+      ],
+      [
+        23.5951359,
+        46.773891
+      ],
+      [
+        23.5945817,
+        46.773832
+      ],
+      [
+        23.5928537,
+        46.7739586
+      ],
+      [
+        23.5924188,
+        46.7740296
+      ]
+    ]
+  },
+  "id": "way/26598953"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622052",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Bălcescu",
+    "name:hu": "Nicolae Bălcescu utca",
+    "old_name:hu": "Eszterházy utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5980612,
+        46.7760744
+      ],
+      [
+        23.5971663,
+        46.7759416
+      ],
+      [
+        23.5968316,
+        46.7758181
+      ],
+      [
+        23.5963939,
+        46.7755477
+      ],
+      [
+        23.595733,
+        46.7750246
+      ],
+      [
+        23.5951037,
+        46.7747003
+      ]
+    ]
+  },
+  "id": "way/31622052"
+}

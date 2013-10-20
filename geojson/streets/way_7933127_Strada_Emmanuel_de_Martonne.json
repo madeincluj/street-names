@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7933127",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Emmanuel de Martonne",
+    "name:hu": "Emmanuel de Martonne utca",
+    "old_name:hu": "Színház utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5923257,
+        46.7674936
+      ],
+      [
+        23.591924,
+        46.7682797
+      ]
+    ]
+  },
+  "id": "way/7933127"
+}

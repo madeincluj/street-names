@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1320674328",
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6060831,
+      46.7730655
+    ]
+  },
+  "id": "node/1320674328"
+}

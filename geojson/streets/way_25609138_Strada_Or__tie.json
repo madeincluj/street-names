@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25609138",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Orăștie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6624385,
+        46.7798279
+      ],
+      [
+        23.6624893,
+        46.7811741
+      ],
+      [
+        23.6623804,
+        46.781343
+      ],
+      [
+        23.6633529,
+        46.7821561
+      ]
+    ]
+  },
+  "id": "way/25609138"
+}

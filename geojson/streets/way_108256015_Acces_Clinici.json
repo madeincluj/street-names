@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/108256015",
+    "BEARING": "270° 52' 54.2'",
+    "LENGTH": "34.752 m",
+    "highway": "service",
+    "name": "Acces Clinici"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5843932,
+        46.7656094
+      ],
+      [
+        23.5839765,
+        46.7656616
+      ]
+    ]
+  },
+  "id": "way/108256015"
+}

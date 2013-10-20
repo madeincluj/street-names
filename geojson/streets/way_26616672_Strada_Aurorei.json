@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616672",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Aurorei",
+    "name:hu": "Aurora utca",
+    "old_name:hu": "Reviczky utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5968869,
+        46.7653553
+      ],
+      [
+        23.5962838,
+        46.7654864
+      ]
+    ]
+  },
+  "id": "way/26616672"
+}

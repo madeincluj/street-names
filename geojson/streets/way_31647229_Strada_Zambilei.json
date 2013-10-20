@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647229",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zambilei",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6190424,
+        46.7649799
+      ],
+      [
+        23.6187012,
+        46.7661197
+      ],
+      [
+        23.6184403,
+        46.7669949
+      ]
+    ]
+  },
+  "id": "way/31647229"
+}

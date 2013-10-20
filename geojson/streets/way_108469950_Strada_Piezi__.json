@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/108469950",
+    "highway": "living_street",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Piezișă",
+    "name:hu": "Hegyvölgy utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5774814,
+        46.7634018
+      ],
+      [
+        23.5776113,
+        46.763265
+      ],
+      [
+        23.5776882,
+        46.7631709
+      ],
+      [
+        23.5777853,
+        46.7628826
+      ]
+    ]
+  },
+  "id": "way/108469950"
+}

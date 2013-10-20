@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297992",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Scorțarilor",
+    "name:hu": "Scorțarilor utca",
+    "old_name:hu": "Csertörő utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6090749,
+        46.7792753
+      ],
+      [
+        23.6088891,
+        46.7792535
+      ],
+      [
+        23.6082496,
+        46.779169
+      ],
+      [
+        23.6062174,
+        46.7789087
+      ]
+    ]
+  },
+  "id": "way/117297992"
+}

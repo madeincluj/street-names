@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147437",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ovidiu Iuliu Moldovan"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5956978,
+        46.7452863
+      ],
+      [
+        23.5942768,
+        46.7453411
+      ],
+      [
+        23.5942523,
+        46.7451392
+      ]
+    ]
+  },
+  "id": "way/169147437"
+}

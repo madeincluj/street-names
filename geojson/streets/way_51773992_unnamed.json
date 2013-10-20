@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/51773992",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.595241,
+        46.755942
+      ],
+      [
+        23.5956389,
+        46.7559496
+      ],
+      [
+        23.5957563,
+        46.7559488
+      ],
+      [
+        23.5958458,
+        46.7559254
+      ],
+      [
+        23.5960547,
+        46.7558334
+      ]
+    ]
+  },
+  "id": "way/51773992"
+}

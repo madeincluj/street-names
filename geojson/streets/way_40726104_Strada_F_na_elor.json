@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/40726104",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fânațelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6085617,
+        46.7993167
+      ],
+      [
+        23.6081117,
+        46.7992633
+      ],
+      [
+        23.6080283,
+        46.799205
+      ],
+      [
+        23.6080368,
+        46.7990664
+      ]
+    ]
+  },
+  "id": "way/40726104"
+}

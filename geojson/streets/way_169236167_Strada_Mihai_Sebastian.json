@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169236167",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mihai Sebastian"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6474252,
+        46.7447288
+      ],
+      [
+        23.6482921,
+        46.7463911
+      ]
+    ]
+  },
+  "id": "way/169236167"
+}

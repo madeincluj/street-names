@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/230525145",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fadrusz Janos",
+    "surface": "gravel"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6033699,
+        46.7515795
+      ],
+      [
+        23.6031296,
+        46.7525071
+      ],
+      [
+        23.6029458,
+        46.7532169
+      ]
+    ]
+  },
+  "id": "way/230525145"
+}

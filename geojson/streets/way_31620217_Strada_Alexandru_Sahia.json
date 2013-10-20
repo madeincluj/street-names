@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620217",
+    "alt_name": "Al. Sahia",
+    "bicycle": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Sahia",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6048758,
+        46.7928484
+      ],
+      [
+        23.6049043,
+        46.7924252
+      ],
+      [
+        23.604973,
+        46.7921137
+      ],
+      [
+        23.6054794,
+        46.7910677
+      ]
+    ]
+  },
+  "id": "way/31620217"
+}

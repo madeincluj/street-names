@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623568",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "noname": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6157102,
+        46.769162
+      ],
+      [
+        23.6157178,
+        46.7694725
+      ],
+      [
+        23.6157114,
+        46.7696559
+      ],
+      [
+        23.6157124,
+        46.7700968
+      ],
+      [
+        23.6157129,
+        46.7703143
+      ]
+    ]
+  },
+  "id": "way/31623568"
+}

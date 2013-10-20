@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622859",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fluturilor",
+    "name:hu": "Pillangó utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6088009,
+        46.7722383
+      ],
+      [
+        23.60811,
+        46.7718161
+      ]
+    ]
+  },
+  "id": "way/31622859"
+}

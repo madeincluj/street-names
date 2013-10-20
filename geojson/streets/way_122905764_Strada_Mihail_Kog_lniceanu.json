@@ -1,0 +1,55 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122905764",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mihail Kogălniceanu",
+    "name:hu": "Mihail Kogălniceanu utca",
+    "old_name:hu": "Farkas utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5923257,
+        46.7674936
+      ],
+      [
+        23.5936588,
+        46.7677735
+      ],
+      [
+        23.5941084,
+        46.7678626
+      ],
+      [
+        23.5941862,
+        46.7679122
+      ],
+      [
+        23.5952564,
+        46.7681198
+      ],
+      [
+        23.5953307,
+        46.7681033
+      ],
+      [
+        23.5953478,
+        46.7682248
+      ],
+      [
+        23.5956412,
+        46.7682653
+      ],
+      [
+        23.597159,
+        46.7684928
+      ]
+    ]
+  },
+  "id": "way/122905764"
+}

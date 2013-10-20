@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579402",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Costache Negruzzi",
+    "name:hu": "Costache Negruzzi utca",
+    "old_name:hu": "Kopjás utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5753601,
+        46.7748778
+      ],
+      [
+        23.5755298,
+        46.7760628
+      ],
+      [
+        23.575639,
+        46.7768254
+      ],
+      [
+        23.5756722,
+        46.7770959
+      ]
+    ]
+  },
+  "id": "way/31579402"
+}

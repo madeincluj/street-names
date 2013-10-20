@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23784852",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Andrei Mureșanu",
+    "name:hu": "Andrei Mureșanu utca",
+    "old_name:hu": "Attila út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6000749,
+        46.7674989
+      ],
+      [
+        23.6003669,
+        46.7671608
+      ],
+      [
+        23.6009957,
+        46.766274
+      ]
+    ]
+  },
+  "id": "way/23784852"
+}

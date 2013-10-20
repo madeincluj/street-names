@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/123839736",
+    "highway": "steps",
+    "surface": "concrete"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5570304,
+        46.7674131
+      ],
+      [
+        23.5570869,
+        46.7673722
+      ]
+    ]
+  },
+  "id": "way/123839736"
+}

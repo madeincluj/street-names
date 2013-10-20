@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/62208640",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tulghesului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6447529,
+        46.7808748
+      ],
+      [
+        23.644789,
+        46.7817077
+      ],
+      [
+        23.642756,
+        46.7829899
+      ],
+      [
+        23.6426021,
+        46.7831652
+      ]
+    ]
+  },
+  "id": "way/62208640"
+}

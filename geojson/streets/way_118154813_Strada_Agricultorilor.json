@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118154813",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Agricultorilor",
+    "name:hu": "Földműves utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5462694,
+        46.7552931
+      ],
+      [
+        23.5457468,
+        46.7567582
+      ]
+    ]
+  },
+  "id": "way/118154813"
+}

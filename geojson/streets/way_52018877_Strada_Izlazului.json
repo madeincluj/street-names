@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/52018877",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Izlazului",
+    "name:hu": "Bazsarózsa utca",
+    "old_name:hu": "Déli utca",
+    "oneway": "yes",
+    "smoothness": "excellent"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5567992,
+        46.7552006
+      ],
+      [
+        23.5576204,
+        46.7552882
+      ]
+    ]
+  },
+  "id": "way/52018877"
+}

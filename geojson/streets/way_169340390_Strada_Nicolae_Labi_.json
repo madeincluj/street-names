@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169340390",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Labiș"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5888534,
+        46.7460841
+      ],
+      [
+        23.588718,
+        46.7467057
+      ],
+      [
+        23.5886418,
+        46.7471323
+      ],
+      [
+        23.5886313,
+        46.7477336
+      ]
+    ]
+  },
+  "id": "way/169340390"
+}

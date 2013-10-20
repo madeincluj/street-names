@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584194",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fericirii",
+    "name:hu": "Boldog utca",
+    "oneway": "yes",
+    "tunnel": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5874452,
+        46.7816916
+      ],
+      [
+        23.5871441,
+        46.7817442
+      ]
+    ]
+  },
+  "id": "way/31584194"
+}

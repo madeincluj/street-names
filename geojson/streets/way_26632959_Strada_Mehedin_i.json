@@ -1,0 +1,57 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26632959",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Mehedinți",
+    "oneway": "no",
+    "sidewalk": "both"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5608081,
+        46.7503134
+      ],
+      [
+        23.5608312,
+        46.7502391
+      ],
+      [
+        23.560905,
+        46.7501641
+      ],
+      [
+        23.561146,
+        46.750066
+      ],
+      [
+        23.561339,
+        46.750023
+      ],
+      [
+        23.5614028,
+        46.7499755
+      ],
+      [
+        23.561511,
+        46.749895
+      ],
+      [
+        23.561575,
+        46.749852
+      ],
+      [
+        23.5617247,
+        46.7497194
+      ]
+    ]
+  },
+  "id": "way/26632959"
+}

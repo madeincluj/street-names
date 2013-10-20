@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585031",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Streiului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6334018,
+        46.7770726
+      ],
+      [
+        23.633074,
+        46.7780117
+      ],
+      [
+        23.6328714,
+        46.7785741
+      ]
+    ]
+  },
+  "id": "way/31585031"
+}

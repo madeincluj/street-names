@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234883",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin C Diculescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.62122,
+        46.7555682
+      ],
+      [
+        23.6222862,
+        46.7571891
+      ]
+    ]
+  },
+  "id": "way/169234883"
+}

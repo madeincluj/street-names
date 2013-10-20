@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620214",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Spiru Haret",
+    "name:hu": "Spiru Haret utca",
+    "old_name:hu": "Gyöngyösi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6012651,
+        46.7919492
+      ],
+      [
+        23.6003381,
+        46.7930011
+      ],
+      [
+        23.6000736,
+        46.7932026
+      ]
+    ]
+  },
+  "id": "way/31620214"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623530",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada N. Pascaly",
+    "oneway": "yes",
+    "source": "www.norc.ro",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6173117,
+        46.7704753
+      ],
+      [
+        23.6178273,
+        46.7705281
+      ],
+      [
+        23.6184763,
+        46.7705926
+      ],
+      [
+        23.618654,
+        46.7700047
+      ],
+      [
+        23.6188402,
+        46.7698889
+      ],
+      [
+        23.618956,
+        46.7697578
+      ]
+    ]
+  },
+  "id": "way/31623530"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/131752120",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cometei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.588865,
+        46.7532652
+      ],
+      [
+        23.5907886,
+        46.7531928
+      ]
+    ]
+  },
+  "id": "way/131752120"
+}

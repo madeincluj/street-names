@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297985",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fortăreței",
+    "name:hu": "Vár utca",
+    "old_name:hu": "Kis-Búza utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5887945,
+        46.7667173
+      ],
+      [
+        23.588808,
+        46.766313
+      ]
+    ]
+  },
+  "id": "way/117297985"
+}

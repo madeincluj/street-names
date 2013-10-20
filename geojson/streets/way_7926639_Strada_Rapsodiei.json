@@ -1,0 +1,60 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7926639",
+    "access": "yes",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "yes",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "motor_vehicle": "yes",
+    "name": "Strada Rapsodiei",
+    "oneway": "yes",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.58142,
+        46.7527304
+      ],
+      [
+        23.5808501,
+        46.752558
+      ],
+      [
+        23.5800074,
+        46.7523384
+      ],
+      [
+        23.5794606,
+        46.7521993
+      ],
+      [
+        23.5791084,
+        46.7521145
+      ],
+      [
+        23.5787113,
+        46.7519863
+      ],
+      [
+        23.5786157,
+        46.7518968
+      ],
+      [
+        23.5785612,
+        46.7518126
+      ],
+      [
+        23.5784094,
+        46.7515022
+      ]
+    ]
+  },
+  "id": "way/7926639"
+}

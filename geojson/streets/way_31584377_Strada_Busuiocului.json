@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584377",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Busuiocului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5636703,
+        46.7868175
+      ],
+      [
+        23.5630183,
+        46.7877955
+      ],
+      [
+        23.5623534,
+        46.7887929
+      ],
+      [
+        23.5623081,
+        46.7888554
+      ],
+      [
+        23.5619343,
+        46.7893714
+      ],
+      [
+        23.5601662,
+        46.7919395
+      ]
+    ]
+  },
+  "id": "way/31584377"
+}

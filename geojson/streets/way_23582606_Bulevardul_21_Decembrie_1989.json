@@ -1,0 +1,57 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23582606",
+    "busway": "opposite_lane",
+    "cycleway": "opposite_track",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Bulevardul 21 Decembrie 1989",
+    "name:hu": "1989. december 21. sugárút",
+    "nat_ref": "DN1",
+    "old_name:hu": "Kossuth Lajos utca",
+    "oneway": "yes",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5953651,
+        46.7725867
+      ],
+      [
+        23.5949352,
+        46.7724284
+      ],
+      [
+        23.593064,
+        46.77191
+      ],
+      [
+        23.5922373,
+        46.7716726
+      ],
+      [
+        23.5918256,
+        46.7715619
+      ],
+      [
+        23.5912325,
+        46.7713918
+      ],
+      [
+        23.5901803,
+        46.7710744
+      ],
+      [
+        23.5900197,
+        46.7710038
+      ]
+    ]
+  },
+  "id": "way/23582606"
+}

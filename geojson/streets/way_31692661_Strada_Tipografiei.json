@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31692661",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Tipografiei",
+    "name:hu": "Nyomda utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.592455,
+        46.7732772
+      ],
+      [
+        23.5932865,
+        46.7732601
+      ],
+      [
+        23.5936927,
+        46.7732418
+      ],
+      [
+        23.5940231,
+        46.7731823
+      ],
+      [
+        23.5943273,
+        46.7730658
+      ]
+    ]
+  },
+  "id": "way/31692661"
+}

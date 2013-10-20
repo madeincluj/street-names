@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893849",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Émile Zola",
+    "name:hu": "Émile Zola utca",
+    "old_name:hu": "Kornis utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5894156,
+        46.7721093
+      ],
+      [
+        23.5883872,
+        46.7718434
+      ],
+      [
+        23.5877587,
+        46.7717369
+      ]
+    ]
+  },
+  "id": "way/23893849"
+}

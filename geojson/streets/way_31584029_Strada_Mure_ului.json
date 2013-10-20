@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584029",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mureșului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6297386,
+        46.778527
+      ],
+      [
+        23.6274017,
+        46.778149
+      ],
+      [
+        23.6230275,
+        46.7775164
+      ]
+    ]
+  },
+  "id": "way/31584029"
+}

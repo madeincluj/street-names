@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619648",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Arinilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5485915,
+        46.7588278
+      ],
+      [
+        23.5477393,
+        46.7586564
+      ],
+      [
+        23.5476788,
+        46.7588456
+      ]
+    ]
+  },
+  "id": "way/31619648"
+}

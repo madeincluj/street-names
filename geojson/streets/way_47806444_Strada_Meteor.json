@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/47806444",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Meteor",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5945195,
+        46.7544229
+      ],
+      [
+        23.593322,
+        46.7544135
+      ],
+      [
+        23.5917298,
+        46.7543989
+      ],
+      [
+        23.5906376,
+        46.7543674
+      ]
+    ]
+  },
+  "id": "way/47806444"
+}

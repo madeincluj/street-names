@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24550955",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Simion Balint",
+    "name:hu": "Simion Balint utca",
+    "old_name:hu": "Buzogány utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5813995,
+        46.7862476
+      ],
+      [
+        23.5820812,
+        46.7863991
+      ],
+      [
+        23.5828936,
+        46.7865921
+      ]
+    ]
+  },
+  "id": "way/24550955"
+}

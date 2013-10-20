@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620190",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jan Huss"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6038067,
+        46.7923739
+      ],
+      [
+        23.6034709,
+        46.792719
+      ],
+      [
+        23.601397,
+        46.7949079
+      ]
+    ]
+  },
+  "id": "way/31620190"
+}

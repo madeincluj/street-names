@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/176548140",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5816599,
+        46.7855647
+      ],
+      [
+        23.581875,
+        46.7849489
+      ]
+    ]
+  },
+  "id": "way/176548140"
+}

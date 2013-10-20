@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620124",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tiberiu Laurian"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6059225,
+        46.7940165
+      ],
+      [
+        23.6053752,
+        46.7947632
+      ],
+      [
+        23.6039672,
+        46.796563
+      ]
+    ]
+  },
+  "id": "way/31620124"
+}

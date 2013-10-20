@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647199",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Muncitorilor",
+    "name:hu": "Munkás utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6091063,
+        46.7686001
+      ],
+      [
+        23.6081547,
+        46.7684654
+      ]
+    ]
+  },
+  "id": "way/31647199"
+}

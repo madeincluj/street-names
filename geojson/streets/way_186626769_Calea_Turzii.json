@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186626769",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Calea Turzii",
+    "oneway": "no",
+    "sidewalk": "left",
+    "surface": "paving_stones"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5950433,
+        46.7440769
+      ],
+      [
+        23.5945567,
+        46.7441161
+      ],
+      [
+        23.5923459,
+        46.7442942
+      ]
+    ]
+  },
+  "id": "way/186626769"
+}

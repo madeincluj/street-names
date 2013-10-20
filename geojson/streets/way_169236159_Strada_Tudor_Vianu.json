@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169236159",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tudor Vianu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6474735,
+        46.7439753
+      ],
+      [
+        23.6485035,
+        46.7459639
+      ],
+      [
+        23.648628,
+        46.746119
+      ]
+    ]
+  },
+  "id": "way/169236159"
+}

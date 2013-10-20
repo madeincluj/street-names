@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122140765",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Padin"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5544476,
+        46.7574901
+      ],
+      [
+        23.5542235,
+        46.7578454
+      ],
+      [
+        23.5539553,
+        46.7579667
+      ],
+      [
+        23.5537113,
+        46.7584207
+      ],
+      [
+        23.5536315,
+        46.7585927
+      ]
+    ]
+  },
+  "id": "way/122140765"
+}

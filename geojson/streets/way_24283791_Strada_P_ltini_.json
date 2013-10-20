@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283791",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Păltiniș"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6066494,
+        46.7559012
+      ],
+      [
+        23.6090825,
+        46.7565589
+      ]
+    ]
+  },
+  "id": "way/24283791"
+}

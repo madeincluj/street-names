@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283862",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Septimiu Albini",
+    "name:hu": "Septimiu Mureșan utca",
+    "old_name:hu": "Méhes utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6090255,
+        46.7716383
+      ],
+      [
+        23.6090426,
+        46.7709035
+      ],
+      [
+        23.6090603,
+        46.7702576
+      ],
+      [
+        23.6090749,
+        46.7696412
+      ]
+    ]
+  },
+  "id": "way/24283862"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893226",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Viilor",
+    "name:hu": "Szőlő utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5799425,
+        46.7577382
+      ],
+      [
+        23.580321,
+        46.7577083
+      ],
+      [
+        23.58072,
+        46.7576607
+      ],
+      [
+        23.5811914,
+        46.7575691
+      ],
+      [
+        23.5814782,
+        46.7575343
+      ],
+      [
+        23.5825339,
+        46.757058
+      ]
+    ]
+  },
+  "id": "way/23893226"
+}

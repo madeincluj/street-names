@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616635",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Spitalului",
+    "name:hu": "Kórház utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5936792,
+        46.7838471
+      ],
+      [
+        23.5933198,
+        46.783993
+      ],
+      [
+        23.5923265,
+        46.7844426
+      ]
+    ]
+  },
+  "id": "way/31616635"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/44191788",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Calea Mănăștur",
+    "name:hu": "Monostori út",
+    "ref": "DN1",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5626515,
+        46.7605518
+      ],
+      [
+        23.5619526,
+        46.7605083
+      ],
+      [
+        23.5606154,
+        46.7604126
+      ],
+      [
+        23.5605865,
+        46.7604087
+      ]
+    ]
+  },
+  "id": "way/44191788"
+}

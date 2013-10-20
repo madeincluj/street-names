@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/240222442",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Giordano Bruno",
+    "name:hu": "Giordano Bruno utca",
+    "old_name:hu": "Nagyboldogasszony útja"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5791433,
+        46.7886916
+      ],
+      [
+        23.5789031,
+        46.7887368
+      ],
+      [
+        23.57874,
+        46.7887779
+      ],
+      [
+        23.5775384,
+        46.78906
+      ],
+      [
+        23.5754296,
+        46.7893455
+      ],
+      [
+        23.5750346,
+        46.7893989
+      ],
+      [
+        23.5744999,
+        46.7894713
+      ],
+      [
+        23.57415,
+        46.7894924
+      ]
+    ]
+  },
+  "id": "way/240222442"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616530",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Timișoarei",
+    "name:hu": "Temesvári utca",
+    "old_name:hu": "Postás utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5758047,
+        46.785529
+      ],
+      [
+        23.5752139,
+        46.7868862
+      ]
+    ]
+  },
+  "id": "way/31616530"
+}

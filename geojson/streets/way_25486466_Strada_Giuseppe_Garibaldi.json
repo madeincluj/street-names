@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25486466",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Giuseppe Garibaldi",
+    "name:hu": "Giuseppe Garibaldi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5675441,
+        46.768927
+      ],
+      [
+        23.5666269,
+        46.7697572
+      ],
+      [
+        23.5664873,
+        46.7698528
+      ],
+      [
+        23.5664533,
+        46.7698753
+      ],
+      [
+        23.5663647,
+        46.769911
+      ]
+    ]
+  },
+  "id": "way/25486466"
+}

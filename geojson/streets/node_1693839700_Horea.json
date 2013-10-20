@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1693839700",
+    "bus": "yes",
+    "bus_lines": "31,31b",
+    "highway": "bus_stop",
+    "name": "Horea",
+    "name:hu": "Horea utca",
+    "public_transport": "stop_position",
+    "ref": "31,31b"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5871351,
+      46.7766524
+    ]
+  },
+  "id": "node/1693839700"
+}

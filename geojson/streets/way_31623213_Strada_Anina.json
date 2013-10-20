@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623213",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Anina"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6163982,
+        46.7822864
+      ],
+      [
+        23.6175042,
+        46.7828362
+      ],
+      [
+        23.6181908,
+        46.7832947
+      ],
+      [
+        23.6182216,
+        46.783337
+      ]
+    ]
+  },
+  "id": "way/31623213"
+}

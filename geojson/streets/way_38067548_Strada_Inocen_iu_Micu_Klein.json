@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/38067548",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Inocențiu Micu Klein",
+    "name:hu": "Inocenţiu Micu-Klein utca",
+    "old_name:hu": "Virág utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5886732,
+        46.7673842
+      ],
+      [
+        23.5873988,
+        46.7671379
+      ]
+    ]
+  },
+  "id": "way/38067548"
+}

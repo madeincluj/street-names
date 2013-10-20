@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26625564",
+    "created_by": "Potlatch 0.10b",
+    "highway": "track"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5701201,
+        46.7565251
+      ],
+      [
+        23.570523,
+        46.756825
+      ],
+      [
+        23.5710552,
+        46.7570736
+      ]
+    ]
+  },
+  "id": "way/26625564"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186736235",
+    "highway": "living_street",
+    "name": "Strada 13 Septembrie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5988864,
+        46.7750494
+      ],
+      [
+        23.5991799,
+        46.7751637
+      ],
+      [
+        23.5999234,
+        46.7754383
+      ],
+      [
+        23.6008804,
+        46.7757736
+      ]
+    ]
+  },
+  "id": "way/186736235"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177648059",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Septimiu Albini"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6090749,
+        46.7696412
+      ],
+      [
+        23.6090938,
+        46.7694149
+      ]
+    ]
+  },
+  "id": "way/177648059"
+}

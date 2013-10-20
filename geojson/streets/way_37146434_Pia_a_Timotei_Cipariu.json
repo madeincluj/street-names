@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37146434",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Piața Timotei Cipariu",
+    "name:hu": "Timotei Cipariu tér",
+    "old_name:hu": "Heltai utca",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6000749,
+        46.7674989
+      ],
+      [
+        23.5999528,
+        46.7675424
+      ],
+      [
+        23.5998287,
+        46.767608
+      ],
+      [
+        23.5997597,
+        46.7676591
+      ],
+      [
+        23.5996841,
+        46.7677372
+      ]
+    ]
+  },
+  "id": "way/37146434"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225748",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dealului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5728349,
+        46.7945349
+      ],
+      [
+        23.5728539,
+        46.7942255
+      ],
+      [
+        23.5731251,
+        46.7939453
+      ],
+      [
+        23.5736723,
+        46.7933883
+      ],
+      [
+        23.5744164,
+        46.7927838
+      ]
+    ]
+  },
+  "id": "way/227225748"
+}

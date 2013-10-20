@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31713879",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Soarelui",
+    "name:hu": "Napos utca",
+    "old_name:hu": "Bokor utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.566111,
+        46.7852147
+      ],
+      [
+        23.566536,
+        46.7841791
+      ]
+    ]
+  },
+  "id": "way/31713879"
+}

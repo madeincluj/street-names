@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616519",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Porumbului",
+    "name:hu": "Kukorica utca",
+    "old_name:hu": "Kőrösmező utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5683501,
+        46.7856258
+      ],
+      [
+        23.5678294,
+        46.7869655
+      ]
+    ]
+  },
+  "id": "way/31616519"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619837",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Petuniei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5551227,
+        46.7695815
+      ],
+      [
+        23.5555838,
+        46.7692405
+      ],
+      [
+        23.5556976,
+        46.7691282
+      ],
+      [
+        23.5560149,
+        46.7688152
+      ],
+      [
+        23.5563499,
+        46.7684848
+      ]
+    ]
+  },
+  "id": "way/31619837"
+}

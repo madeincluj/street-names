@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/201769682",
+    "highway": "service",
+    "service": "parking_aisle"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.663654,
+        46.7939212
+      ],
+      [
+        23.6639404,
+        46.7939222
+      ],
+      [
+        23.6641367,
+        46.7939229
+      ],
+      [
+        23.6642643,
+        46.7939234
+      ]
+    ]
+  },
+  "id": "way/201769682"
+}

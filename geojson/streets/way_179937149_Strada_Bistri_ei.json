@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/179937149",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bistriței",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6174841,
+        46.7697022
+      ],
+      [
+        23.6182397,
+        46.7697829
+      ]
+    ]
+  },
+  "id": "way/179937149"
+}

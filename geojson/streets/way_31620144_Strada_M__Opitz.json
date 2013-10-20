@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620144",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada M. Opitz"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6106893,
+        46.7928189
+      ],
+      [
+        23.6094641,
+        46.7925319
+      ],
+      [
+        23.6080671,
+        46.7922047
+      ]
+    ]
+  },
+  "id": "way/31620144"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186736624",
+    "highway": "residential",
+    "name": "Strada Cernavodă",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6039435,
+        46.7794289
+      ],
+      [
+        23.6046141,
+        46.7794289
+      ],
+      [
+        23.6046531,
+        46.7788037
+      ]
+    ]
+  },
+  "id": "way/186736624"
+}

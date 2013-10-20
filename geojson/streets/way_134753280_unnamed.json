@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/134753280",
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "ref": "DN1N",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "surface_survey": "6NOV2011_nordic@motociclism.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6641531,
+        46.7280802
+      ],
+      [
+        23.6655135,
+        46.72808
+      ],
+      [
+        23.6665226,
+        46.7281444
+      ],
+      [
+        23.6678484,
+        46.7283102
+      ]
+    ]
+  },
+  "id": "way/134753280"
+}

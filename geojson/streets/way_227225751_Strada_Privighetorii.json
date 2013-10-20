@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225751",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Privighetorii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5716702,
+        46.7936254
+      ],
+      [
+        23.5713623,
+        46.793357
+      ],
+      [
+        23.5716904,
+        46.7929758
+      ],
+      [
+        23.5719191,
+        46.7927017
+      ],
+      [
+        23.57237,
+        46.7921442
+      ],
+      [
+        23.5725894,
+        46.7920583
+      ]
+    ]
+  },
+  "id": "way/227225751"
+}

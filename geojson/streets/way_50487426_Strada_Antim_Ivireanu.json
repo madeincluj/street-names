@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50487426",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Antim Ivireanu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6279529,
+        46.7547975
+      ],
+      [
+        23.6241442,
+        46.7519086
+      ]
+    ]
+  },
+  "id": "way/50487426"
+}

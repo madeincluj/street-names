@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7936613",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Piața Ștefan cel Mare",
+    "name:hu": "Nagy István tér",
+    "old_name:hu": "Hunyadi tér",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5990863,
+        46.7687342
+      ],
+      [
+        23.5987954,
+        46.7691386
+      ],
+      [
+        23.5975844,
+        46.7708767
+      ]
+    ]
+  },
+  "id": "way/7936613"
+}

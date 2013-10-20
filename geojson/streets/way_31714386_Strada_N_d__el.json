@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714386",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nădășel"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6094641,
+        46.7925319
+      ],
+      [
+        23.6095189,
+        46.7922781
+      ],
+      [
+        23.6095103,
+        46.7920137
+      ],
+      [
+        23.6092528,
+        46.7917316
+      ],
+      [
+        23.608858,
+        46.7914378
+      ],
+      [
+        23.6085693,
+        46.791197
+      ]
+    ]
+  },
+  "id": "way/31714386"
+}

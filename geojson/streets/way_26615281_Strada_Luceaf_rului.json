@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615281",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Luceafărului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5787328,
+        46.7545778
+      ],
+      [
+        23.5778819,
+        46.7544329
+      ],
+      [
+        23.575744,
+        46.7541235
+      ],
+      [
+        23.5755556,
+        46.7540808
+      ],
+      [
+        23.5753944,
+        46.7540127
+      ],
+      [
+        23.5751267,
+        46.7538062
+      ],
+      [
+        23.5748724,
+        46.753338
+      ]
+    ]
+  },
+  "id": "way/26615281"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222350389",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cocorului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5317389,
+        46.7886454
+      ],
+      [
+        23.5295958,
+        46.7908871
+      ]
+    ]
+  },
+  "id": "way/222350389"
+}

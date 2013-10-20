@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647256",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Azuga",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6195895,
+        46.7623379
+      ],
+      [
+        23.6189158,
+        46.7622334
+      ],
+      [
+        23.6189072,
+        46.7624803
+      ],
+      [
+        23.6189244,
+        46.762645
+      ],
+      [
+        23.6189072,
+        46.7631036
+      ],
+      [
+        23.6188214,
+        46.7635093
+      ],
+      [
+        23.6185982,
+        46.7639208
+      ]
+    ]
+  },
+  "id": "way/31647256"
+}

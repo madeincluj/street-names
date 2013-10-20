@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615174",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Șoimului",
+    "name:hu": "Sólyom utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5958115,
+        46.7582293
+      ],
+      [
+        23.5938035,
+        46.7575696
+      ]
+    ]
+  },
+  "id": "way/26615174"
+}

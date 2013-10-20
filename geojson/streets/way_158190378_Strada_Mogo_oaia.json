@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/158190378",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mogoșoaia",
+    "name:hu": "Mogoșoaia utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5604329,
+        46.7578339
+      ],
+      [
+        23.5603708,
+        46.7587089
+      ],
+      [
+        23.5602115,
+        46.7591405
+      ]
+    ]
+  },
+  "id": "way/158190378"
+}

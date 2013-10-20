@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/192232451",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Armoniei",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.575926,
+        46.7521258
+      ],
+      [
+        23.576667,
+        46.7510761
+      ],
+      [
+        23.5766063,
+        46.7510441
+      ],
+      [
+        23.5768573,
+        46.7506001
+      ],
+      [
+        23.5771291,
+        46.7501869
+      ],
+      [
+        23.577421,
+        46.7502726
+      ],
+      [
+        23.5779248,
+        46.749686
+      ]
+    ]
+  },
+  "id": "way/192232451"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177922839",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Bolyai János",
+    "name:hu": "Bolyai János utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5921151,
+        46.7702075
+      ],
+      [
+        23.592399,
+        46.7697796
+      ]
+    ]
+  },
+  "id": "way/177922839"
+}

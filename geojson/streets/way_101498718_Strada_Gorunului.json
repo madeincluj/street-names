@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101498718",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gorunului",
+    "name:ro": "Strada Gorunului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5125309,
+        46.7992533
+      ],
+      [
+        23.5132526,
+        46.7992049
+      ]
+    ]
+  },
+  "id": "way/101498718"
+}

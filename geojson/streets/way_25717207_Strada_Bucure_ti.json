@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25717207",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada București",
+    "name:hu": "Bukarest utca",
+    "old_name:hu": "Apafi utca",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.594424,
+        46.7798673
+      ],
+      [
+        23.5952596,
+        46.7799643
+      ],
+      [
+        23.5961731,
+        46.7800696
+      ],
+      [
+        23.5978052,
+        46.7801943
+      ],
+      [
+        23.5992301,
+        46.7803127
+      ]
+    ]
+  },
+  "id": "way/25717207"
+}

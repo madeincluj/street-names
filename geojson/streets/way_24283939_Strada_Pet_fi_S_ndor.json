@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283939",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Petőfi Sándor",
+    "name:hu": "Petőfi Sándor utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6065505,
+        46.7732264
+      ],
+      [
+        23.6056609,
+        46.7743086
+      ],
+      [
+        23.6043477,
+        46.7757238
+      ]
+    ]
+  },
+  "id": "way/24283939"
+}

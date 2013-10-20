@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149950",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae colan"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5981394,
+        46.7529613
+      ],
+      [
+        23.5994888,
+        46.7527474
+      ]
+    ]
+  },
+  "id": "way/169149950"
+}

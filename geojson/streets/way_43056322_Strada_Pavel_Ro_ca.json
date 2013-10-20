@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43056322",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pavel Roșca",
+    "name:hu": "Pavel Roşca utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5994102,
+        46.771289
+      ],
+      [
+        23.5989942,
+        46.7723136
+      ]
+    ]
+  },
+  "id": "way/43056322"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31722297",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Garoafelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6204941,
+        46.784956
+      ],
+      [
+        23.6205542,
+        46.7849972
+      ],
+      [
+        23.62064,
+        46.7850971
+      ],
+      [
+        23.6208117,
+        46.7852381
+      ],
+      [
+        23.6221665,
+        46.7858952
+      ],
+      [
+        23.6228716,
+        46.7862372
+      ]
+    ]
+  },
+  "id": "way/31722297"
+}

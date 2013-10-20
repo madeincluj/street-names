@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623565",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada A. Suciu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6116183,
+        46.7693955
+      ],
+      [
+        23.6115841,
+        46.7699166
+      ],
+      [
+        23.6116106,
+        46.7706808
+      ],
+      [
+        23.611627,
+        46.7711511
+      ]
+    ]
+  },
+  "id": "way/31623565"
+}

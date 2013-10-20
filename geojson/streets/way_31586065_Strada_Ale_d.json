@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586065",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Aleșd"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6227644,
+        46.789222
+      ],
+      [
+        23.6219964,
+        46.7903239
+      ],
+      [
+        23.6218632,
+        46.7905149
+      ]
+    ]
+  },
+  "id": "way/31586065"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31979922",
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "name": "Strada Orașului",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6070453,
+        46.7987808
+      ],
+      [
+        23.606702,
+        46.7985575
+      ]
+    ]
+  },
+  "id": "way/31979922"
+}

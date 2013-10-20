@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/165327060",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bucovina"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5586182,
+        46.7496079
+      ],
+      [
+        23.558613,
+        46.7492144
+      ],
+      [
+        23.5586898,
+        46.7487628
+      ],
+      [
+        23.5588562,
+        46.7481796
+      ],
+      [
+        23.5589781,
+        46.7477019
+      ]
+    ]
+  },
+  "id": "way/165327060"
+}

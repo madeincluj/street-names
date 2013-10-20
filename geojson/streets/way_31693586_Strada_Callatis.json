@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31693586",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Callatis",
+    "name:hu": "Kallatis utca",
+    "old_name:hu": "Zug utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5933198,
+        46.783993
+      ],
+      [
+        23.5917943,
+        46.7822626
+      ]
+    ]
+  },
+  "id": "way/31693586"
+}

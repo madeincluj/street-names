@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/217327918",
+    "bridge": "yes",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "layer": "1",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5815584,
+        46.7858701
+      ],
+      [
+        23.5816599,
+        46.7855647
+      ]
+    ]
+  },
+  "id": "way/217327918"
+}

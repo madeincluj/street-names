@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647171",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Hârlețului",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6081547,
+        46.7684654
+      ],
+      [
+        23.6083509,
+        46.7677177
+      ]
+    ]
+  },
+  "id": "way/31647171"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616043",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gaál Gábor",
+    "name:hu": "Gaál Gábor utca",
+    "old_name:hu": "Sámi utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.595251,
+        46.7691186
+      ],
+      [
+        23.5954667,
+        46.7687016
+      ],
+      [
+        23.5956412,
+        46.7682653
+      ]
+    ]
+  },
+  "id": "way/26616043"
+}

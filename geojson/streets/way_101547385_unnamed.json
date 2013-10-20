@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101547385",
+    "bridge": "yes",
+    "highway": "residential",
+    "layer": "1",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5158958,
+        46.7958786
+      ],
+      [
+        23.5159882,
+        46.7957157
+      ]
+    ]
+  },
+  "id": "way/101547385"
+}

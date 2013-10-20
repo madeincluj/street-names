@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620893",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pripor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6598176,
+        46.7870985
+      ],
+      [
+        23.6583928,
+        46.787122
+      ]
+    ]
+  },
+  "id": "way/31620893"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37437779",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ciocârliei",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6131593,
+        46.7799627
+      ],
+      [
+        23.6119802,
+        46.7799287
+      ],
+      [
+        23.61099,
+        46.7797208
+      ],
+      [
+        23.6103419,
+        46.7795072
+      ],
+      [
+        23.6093835,
+        46.7793127
+      ]
+    ]
+  },
+  "id": "way/37437779"
+}

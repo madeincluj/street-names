@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28674251",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Cernavodă",
+    "name:hu": "Cernavodă utca",
+    "old_name:hu": "Ugray utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6039435,
+        46.7794289
+      ],
+      [
+        23.603745,
+        46.7797779
+      ],
+      [
+        23.6036056,
+        46.7800865
+      ],
+      [
+        23.6035337,
+        46.7804303
+      ],
+      [
+        23.6034853,
+        46.7806227
+      ]
+    ]
+  },
+  "id": "way/28674251"
+}

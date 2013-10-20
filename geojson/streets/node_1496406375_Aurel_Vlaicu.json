@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1496406375",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aurel Vlaicu",
+    "name:hu": "Aurel Vlaicu utca",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6277243,
+      46.7806545
+    ]
+  },
+  "id": "node/1496406375"
+}

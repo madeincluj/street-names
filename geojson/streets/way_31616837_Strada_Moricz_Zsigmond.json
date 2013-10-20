@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616837",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Moricz Zsigmond"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5688576,
+        46.7436175
+      ],
+      [
+        23.5688854,
+        46.7441159
+      ],
+      [
+        23.5688739,
+        46.744593
+      ],
+      [
+        23.5688013,
+        46.7455842
+      ],
+      [
+        23.5688271,
+        46.7457136
+      ],
+      [
+        23.5689129,
+        46.7458312
+      ],
+      [
+        23.56934,
+        46.7462544
+      ]
+    ]
+  },
+  "id": "way/31616837"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579606",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Magaziei",
+    "name:hu": "Raktár utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.579365,
+        46.7824135
+      ],
+      [
+        23.579653,
+        46.7815631
+      ],
+      [
+        23.5798644,
+        46.7810057
+      ],
+      [
+        23.580168,
+        46.7802054
+      ]
+    ]
+  },
+  "id": "way/31579606"
+}

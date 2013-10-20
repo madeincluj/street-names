@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/111724004",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Frunzișului",
+    "name:hu": "Lomb utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5663484,
+        46.7554498
+      ],
+      [
+        23.5661958,
+        46.7554796
+      ],
+      [
+        23.5659958,
+        46.7555036
+      ],
+      [
+        23.5657008,
+        46.7555269
+      ],
+      [
+        23.5652198,
+        46.7555555
+      ],
+      [
+        23.5648296,
+        46.7555663
+      ],
+      [
+        23.5644938,
+        46.7555665
+      ]
+    ]
+  },
+  "id": "way/111724004"
+}

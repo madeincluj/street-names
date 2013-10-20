@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616528",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Atelierului",
+    "name:hu": "Műhely utca",
+    "old_name:hu": "Szentiványi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5707662,
+        46.7845633
+      ],
+      [
+        23.5703809,
+        46.7859987
+      ]
+    ]
+  },
+  "id": "way/31616528"
+}

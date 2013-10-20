@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229037",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Batozei",
+    "name:hu": "Cséplőgép utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5454142,
+        46.755086
+      ],
+      [
+        23.5451239,
+        46.7555938
+      ],
+      [
+        23.5447424,
+        46.7555245
+      ],
+      [
+        23.5445298,
+        46.7560653
+      ],
+      [
+        23.5443651,
+        46.7564722
+      ]
+    ]
+  },
+  "id": "way/26229037"
+}

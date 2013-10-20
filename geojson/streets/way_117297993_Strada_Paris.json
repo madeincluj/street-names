@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297993",
+    "bridge": "yes",
+    "bus:oneway": "no",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Paris",
+    "name:hu": "Párizs utca",
+    "old_name:hu": "Pap utca",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5986529,
+        46.7753596
+      ],
+      [
+        23.5987145,
+        46.7752731
+      ]
+    ]
+  },
+  "id": "way/117297993"
+}

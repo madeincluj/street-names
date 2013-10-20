@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/44596231",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bucium"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.542488,
+        46.754983
+      ],
+      [
+        23.5424263,
+        46.7551361
+      ]
+    ]
+  },
+  "id": "way/44596231"
+}

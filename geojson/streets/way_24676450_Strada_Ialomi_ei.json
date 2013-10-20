@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24676450",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ialomiței",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6201822,
+        46.780021
+      ],
+      [
+        23.6202732,
+        46.7796883
+      ],
+      [
+        23.6201798,
+        46.779541
+      ],
+      [
+        23.6199722,
+        46.7794452
+      ]
+    ]
+  },
+  "id": "way/24676450"
+}

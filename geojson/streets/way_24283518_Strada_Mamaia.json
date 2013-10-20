@@ -1,0 +1,48 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283518",
+    "highway": "residential",
+    "maxheight": "2.4",
+    "maxheight:physical": "2.4",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mamaia",
+    "name:hu": "Mamaia utca",
+    "old_name:hu": "Jászay utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5778536,
+        46.7712712
+      ],
+      [
+        23.581004,
+        46.77196
+      ],
+      [
+        23.5812675,
+        46.7720474
+      ],
+      [
+        23.5814893,
+        46.7721459
+      ],
+      [
+        23.5819736,
+        46.7723703
+      ],
+      [
+        23.5820418,
+        46.7724151
+      ],
+      [
+        23.5820966,
+        46.7725187
+      ]
+    ]
+  },
+  "id": "way/24283518"
+}

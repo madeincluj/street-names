@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893154",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Caraiman",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5900612,
+        46.7568133
+      ],
+      [
+        23.5899269,
+        46.7571812
+      ],
+      [
+        23.589591,
+        46.7578124
+      ]
+    ]
+  },
+  "id": "way/23893154"
+}

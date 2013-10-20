@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31583377",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Eugen Ionesco"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5832425,
+        46.7449299
+      ],
+      [
+        23.5835727,
+        46.7451773
+      ],
+      [
+        23.5839665,
+        46.745541
+      ]
+    ]
+  },
+  "id": "way/31583377"
+}

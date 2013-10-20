@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714021",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cocorilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.580477,
+        46.7939397
+      ],
+      [
+        23.5810778,
+        46.7938398
+      ],
+      [
+        23.5813095,
+        46.7937341
+      ],
+      [
+        23.5815069,
+        46.7935108
+      ],
+      [
+        23.5818502,
+        46.7926881
+      ]
+    ]
+  },
+  "id": "way/31714021"
+}

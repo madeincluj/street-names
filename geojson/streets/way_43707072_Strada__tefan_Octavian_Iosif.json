@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43707072",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ștefan Octavian Iosif",
+    "name:hu": "Ștefan Octavian Iosif utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5894841,
+        46.7719874
+      ],
+      [
+        23.5904466,
+        46.7722949
+      ],
+      [
+        23.5905791,
+        46.772324
+      ]
+    ]
+  },
+  "id": "way/43707072"
+}

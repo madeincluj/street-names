@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647292",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Padiș",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6176583,
+        46.7620145
+      ],
+      [
+        23.6170619,
+        46.76191
+      ],
+      [
+        23.6169932,
+        46.7620217
+      ],
+      [
+        23.616976,
+        46.7620982
+      ],
+      [
+        23.6170104,
+        46.7626979
+      ],
+      [
+        23.6169846,
+        46.7629154
+      ],
+      [
+        23.6167687,
+        46.7636485
+      ]
+    ]
+  },
+  "id": "way/31647292"
+}

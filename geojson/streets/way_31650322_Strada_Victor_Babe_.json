@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31650322",
+    "area": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Victor Babeș"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          23.5845251,
+          46.7632546
+        ],
+        [
+          23.584814,
+          46.7634369
+        ],
+        [
+          23.5842577,
+          46.7633557
+        ],
+        [
+          23.5845251,
+          46.7632546
+        ]
+      ]
+    ]
+  },
+  "id": "way/31650322"
+}

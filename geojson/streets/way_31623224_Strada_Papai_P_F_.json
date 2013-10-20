@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623224",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Papai P.F.",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6175042,
+        46.7828362
+      ],
+      [
+        23.6178046,
+        46.7823425
+      ],
+      [
+        23.6181753,
+        46.7818813
+      ]
+    ]
+  },
+  "id": "way/31623224"
+}

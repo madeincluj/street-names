@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/136295613",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada J. J. Rousseau",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5563906,
+        46.7706573
+      ],
+      [
+        23.5573014,
+        46.7707365
+      ],
+      [
+        23.5574105,
+        46.7707494
+      ],
+      [
+        23.5587342,
+        46.7709248
+      ],
+      [
+        23.5593297,
+        46.7710144
+      ]
+    ]
+  },
+  "id": "way/136295613"
+}

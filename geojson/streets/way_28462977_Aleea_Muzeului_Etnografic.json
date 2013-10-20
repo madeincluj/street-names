@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28462977",
+    "highway": "track",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Aleea Muzeului Etnografic"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5611325,
+        46.7772681
+      ],
+      [
+        23.560483,
+        46.7770276
+      ],
+      [
+        23.5599126,
+        46.7770621
+      ],
+      [
+        23.5574332,
+        46.7770273
+      ],
+      [
+        23.555289,
+        46.777122
+      ],
+      [
+        23.5535024,
+        46.7772988
+      ]
+    ]
+  },
+  "id": "way/28462977"
+}

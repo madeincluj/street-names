@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615516",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Petre Ispirescu",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5881491,
+        46.7635434
+      ],
+      [
+        23.5889544,
+        46.7637628
+      ],
+      [
+        23.5899792,
+        46.7642061
+      ]
+    ]
+  },
+  "id": "way/26615516"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267667",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada János Zsigmond"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5877701,
+        46.7441138
+      ],
+      [
+        23.5876876,
+        46.7427493
+      ]
+    ]
+  },
+  "id": "way/169267667"
+}

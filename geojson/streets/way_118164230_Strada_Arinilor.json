@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118164230",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Arinilor",
+    "name:hu": "Éger utca",
+    "old_name:hu": "Bölöni Farkas Sándor utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5545452,
+        46.7628204
+      ],
+      [
+        23.5527342,
+        46.7627028
+      ]
+    ]
+  },
+  "id": "way/118164230"
+}

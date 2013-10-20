@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620998",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Înfrățirii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6468461,
+        46.7841519
+      ],
+      [
+        23.646336,
+        46.7871255
+      ],
+      [
+        23.6460676,
+        46.788697
+      ]
+    ]
+  },
+  "id": "way/31620998"
+}

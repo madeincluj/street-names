@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28360800",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Iuliu Coroianu",
+    "name:hu": "Iuliu Coroianu utca",
+    "old_name:hu": "Székely Mózes utca",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5906259,
+        46.7826438
+      ],
+      [
+        23.5917943,
+        46.7822626
+      ],
+      [
+        23.5921966,
+        46.7821148
+      ]
+    ]
+  },
+  "id": "way/28360800"
+}

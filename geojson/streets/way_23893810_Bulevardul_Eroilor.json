@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893810",
+    "cycleway": "opposite_track",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Bulevardul Eroilor",
+    "name:hu": "Hősök sugárútja",
+    "old_name:hu": "Deák Ferenc utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5909419,
+        46.7690779
+      ],
+      [
+        23.5909868,
+        46.7690909
+      ],
+      [
+        23.5925865,
+        46.7695638
+      ],
+      [
+        23.5959619,
+        46.770451
+      ],
+      [
+        23.5964993,
+        46.7706133
+      ],
+      [
+        23.5965359,
+        46.7706246
+      ]
+    ]
+  },
+  "id": "way/23893810"
+}

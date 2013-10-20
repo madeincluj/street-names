@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586014",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Teilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6209191,
+        46.7886696
+      ],
+      [
+        23.6211253,
+        46.7881903
+      ],
+      [
+        23.6221665,
+        46.7858952
+      ]
+    ]
+  },
+  "id": "way/31586014"
+}

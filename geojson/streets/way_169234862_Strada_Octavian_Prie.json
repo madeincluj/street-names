@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234862",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Octavian Prie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6210559,
+        46.7564491
+      ],
+      [
+        23.6215686,
+        46.7572615
+      ]
+    ]
+  },
+  "id": "way/169234862"
+}

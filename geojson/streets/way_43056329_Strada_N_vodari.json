@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43056329",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Năvodari",
+    "name:hu": "Năvodari utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6046401,
+        46.7725278
+      ],
+      [
+        23.6037321,
+        46.7735951
+      ],
+      [
+        23.6052084,
+        46.7741182
+      ]
+    ]
+  },
+  "id": "way/43056329"
+}

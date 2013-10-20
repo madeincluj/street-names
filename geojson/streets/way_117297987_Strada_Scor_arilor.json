@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297987",
+    "bridge": "yes",
+    "highway": "living_street",
+    "name": "Strada Scorțarilor",
+    "name:hu": "Scorțarilor utca",
+    "old_name:hu": "Csertörő utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6092882,
+        46.7793009
+      ],
+      [
+        23.6090749,
+        46.7792753
+      ]
+    ]
+  },
+  "id": "way/117297987"
+}

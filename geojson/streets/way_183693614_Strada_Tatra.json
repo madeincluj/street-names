@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/183693614",
+    "highway": "service",
+    "name": "Strada Tatra"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5760195,
+        46.7556104
+      ],
+      [
+        23.5773964,
+        46.7557367
+      ],
+      [
+        23.5773497,
+        46.755982
+      ]
+    ]
+  },
+  "id": "way/183693614"
+}

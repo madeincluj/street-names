@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169155245",
+    "bridge": "yes",
+    "highway": "residential",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Strada Eta Boeriu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6071508,
+        46.7407096
+      ],
+      [
+        23.6070328,
+        46.74075
+      ]
+    ]
+  },
+  "id": "way/169155245"
+}

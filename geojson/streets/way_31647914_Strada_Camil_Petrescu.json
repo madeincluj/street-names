@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647914",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Camil Petrescu",
+    "oneway": "no",
+    "sidewalk": "left",
+    "source": "www.norc.ro",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6038128,
+        46.7471055
+      ],
+      [
+        23.6026337,
+        46.749296
+      ]
+    ]
+  },
+  "id": "way/31647914"
+}

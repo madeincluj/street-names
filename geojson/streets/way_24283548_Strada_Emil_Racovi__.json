@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283548",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Emil Racoviță",
+    "name:hu": "Emil Racoviţă utca",
+    "old_name:hu": "Erzsébet út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5873082,
+        46.7747489
+      ],
+      [
+        23.5869665,
+        46.7747378
+      ],
+      [
+        23.5867621,
+        46.7747427
+      ],
+      [
+        23.586517,
+        46.7747473
+      ],
+      [
+        23.586301,
+        46.7747017
+      ]
+    ]
+  },
+  "id": "way/24283548"
+}

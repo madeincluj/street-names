@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619973",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tecuci"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5573014,
+        46.7707365
+      ],
+      [
+        23.5571245,
+        46.7715667
+      ],
+      [
+        23.5570369,
+        46.7718693
+      ]
+    ]
+  },
+  "id": "way/31619973"
+}

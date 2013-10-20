@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169260467",
+    "highway": "living_street",
+    "name": "Aleea Toplița"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6450371,
+        46.7511715
+      ],
+      [
+        23.6465445,
+        46.7501423
+      ]
+    ]
+  },
+  "id": "way/169260467"
+}

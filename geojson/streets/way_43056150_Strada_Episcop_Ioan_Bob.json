@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43056150",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Episcop Ioan Bob",
+    "name:hu": "Ioan Bob püspök utca",
+    "old_name:hu": "Kismester utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5889157,
+        46.7691473
+      ],
+      [
+        23.5892391,
+        46.7692908
+      ]
+    ]
+  },
+  "id": "way/43056150"
+}

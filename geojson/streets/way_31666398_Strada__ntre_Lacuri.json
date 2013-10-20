@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31666398",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Între Lacuri",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6283381,
+        46.7737785
+      ],
+      [
+        23.6281407,
+        46.7738197
+      ],
+      [
+        23.6267073,
+        46.7747308
+      ],
+      [
+        23.6258233,
+        46.7754362
+      ],
+      [
+        23.6251377,
+        46.7757994
+      ]
+    ]
+  },
+  "id": "way/31666398"
+}

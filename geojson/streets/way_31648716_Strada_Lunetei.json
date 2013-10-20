@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31648716",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lunetei",
+    "name:hu": "Távcső utca",
+    "old_name:hu": "Gárdonyi utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6027711,
+        46.7556243
+      ],
+      [
+        23.602814,
+        46.7557125
+      ],
+      [
+        23.6028483,
+        46.7560183
+      ],
+      [
+        23.6029426,
+        46.7566816
+      ],
+      [
+        23.60302,
+        46.7573648
+      ],
+      [
+        23.6030114,
+        46.757453
+      ],
+      [
+        23.6027367,
+        46.7581645
+      ],
+      [
+        23.6025205,
+        46.7588152
+      ]
+    ]
+  },
+  "id": "way/31648716"
+}

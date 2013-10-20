@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/56014401",
+    "bridge": "yes",
+    "highway": "secondary",
+    "int_ref": "E 60;E 81",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5423576,
+        46.7565117
+      ],
+      [
+        23.5423707,
+        46.7572772
+      ]
+    ]
+  },
+  "id": "way/56014401"
+}

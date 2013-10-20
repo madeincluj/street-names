@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147430",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dinu Lipatti"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5984605,
+        46.7318307
+      ],
+      [
+        23.5989878,
+        46.7319296
+      ],
+      [
+        23.5996996,
+        46.7320182
+      ],
+      [
+        23.5999571,
+        46.7320109
+      ],
+      [
+        23.6016255,
+        46.7318748
+      ]
+    ]
+  },
+  "id": "way/169147430"
+}

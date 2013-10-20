@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619925",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ospătăriei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5668963,
+        46.7624205
+      ],
+      [
+        23.5661581,
+        46.7622618
+      ],
+      [
+        23.5661066,
+        46.7622265
+      ],
+      [
+        23.5660895,
+        46.7621383
+      ],
+      [
+        23.5661238,
+        46.7619796
+      ],
+      [
+        23.5663855,
+        46.7614261
+      ]
+    ]
+  },
+  "id": "way/31619925"
+}

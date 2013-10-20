@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/167437656",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bisericii Sfântul Toma",
+    "name:hu": "Szent Tamás-templom utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6170699,
+        46.776114
+      ],
+      [
+        23.6176554,
+        46.7761896
+      ],
+      [
+        23.6180145,
+        46.7763466
+      ],
+      [
+        23.6179233,
+        46.7766772
+      ],
+      [
+        23.6177946,
+        46.776883
+      ],
+      [
+        23.6176153,
+        46.7770161
+      ],
+      [
+        23.6173318,
+        46.7772265
+      ]
+    ]
+  },
+  "id": "way/167437656"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/48171447",
+    "highway": "secondary",
+    "oneway": "yes",
+    "ref": "DJ103G"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6539168,
+        46.7285771
+      ],
+      [
+        23.6539812,
+        46.7283344
+      ]
+    ]
+  },
+  "id": "way/48171447"
+}

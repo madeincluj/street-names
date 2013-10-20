@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283666",
+    "highway": "secondary",
+    "int_ref": "E60;E68",
+    "maxspeed": "RO:urban",
+    "name": "Piața Unirii",
+    "name:hu": "Egyesülés tér",
+    "old_name:hu": "Főtér",
+    "oneway": "yes",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5898365,
+        46.7686946
+      ],
+      [
+        23.5909419,
+        46.7690779
+      ]
+    ]
+  },
+  "id": "way/24283666"
+}

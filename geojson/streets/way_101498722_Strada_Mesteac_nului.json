@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101498722",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mesteacănului",
+    "name:ro": "Strada Mesteacănului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5111823,
+        46.798202
+      ],
+      [
+        23.5112833,
+        46.7982371
+      ],
+      [
+        23.5114771,
+        46.798315
+      ],
+      [
+        23.5115844,
+        46.7983822
+      ],
+      [
+        23.5116839,
+        46.7984671
+      ],
+      [
+        23.5117343,
+        46.7985856
+      ]
+    ]
+  },
+  "id": "way/101498722"
+}

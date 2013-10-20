@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118054277",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bethlen Gábor",
+    "name:hu": "Bethlen Gábor utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5551964,
+        46.7857493
+      ],
+      [
+        23.5571229,
+        46.7850998
+      ],
+      [
+        23.5574778,
+        46.7850122
+      ],
+      [
+        23.5580948,
+        46.7848599
+      ],
+      [
+        23.5589966,
+        46.7846374
+      ]
+    ]
+  },
+  "id": "way/118054277"
+}

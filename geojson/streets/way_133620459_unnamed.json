@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/133620459",
+    "highway": "living_street"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5569843,
+        46.7725157
+      ],
+      [
+        23.5571444,
+        46.7721933
+      ]
+    ]
+  },
+  "id": "way/133620459"
+}

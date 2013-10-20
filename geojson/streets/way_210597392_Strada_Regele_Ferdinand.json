@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/210597392",
+    "highway": "primary",
+    "int_ref": "E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Regele Ferdinand",
+    "name:hu": "Ferdinánd király utca",
+    "oneway": "no",
+    "ref": "DN1F",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5884077,
+        46.7732886
+      ],
+      [
+        23.5880522,
+        46.7738043
+      ]
+    ]
+  },
+  "id": "way/210597392"
+}

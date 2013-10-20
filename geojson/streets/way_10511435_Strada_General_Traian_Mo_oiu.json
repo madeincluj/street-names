@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/10511435",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada General Traian Moșoiu",
+    "name:hu": "Traian Moșoiu tábornok utca",
+    "old_name:hu": "Zápolya utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6049185,
+        46.7707467
+      ],
+      [
+        23.6047624,
+        46.7706908
+      ],
+      [
+        23.6042217,
+        46.7704674
+      ],
+      [
+        23.6037668,
+        46.7702558
+      ],
+      [
+        23.6031917,
+        46.770003
+      ],
+      [
+        23.601677,
+        46.7694753
+      ]
+    ]
+  },
+  "id": "way/10511435"
+}

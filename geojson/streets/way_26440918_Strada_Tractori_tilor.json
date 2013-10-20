@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26440918",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tractoriștilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6593232,
+        46.784638
+      ],
+      [
+        23.6596803,
+        46.7863051
+      ],
+      [
+        23.6598176,
+        46.7870985
+      ],
+      [
+        23.6602296,
+        46.7892846
+      ],
+      [
+        23.6605987,
+        46.7892788
+      ]
+    ]
+  },
+  "id": "way/26440918"
+}

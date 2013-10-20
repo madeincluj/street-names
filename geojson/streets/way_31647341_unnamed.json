@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647341",
+    "amenity": "parking",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.630666,
+        46.7673367
+      ],
+      [
+        23.6300223,
+        46.7679011
+      ],
+      [
+        23.6298592,
+        46.7679951
+      ],
+      [
+        23.6297391,
+        46.7680186
+      ],
+      [
+        23.6296237,
+        46.7680923
+      ]
+    ]
+  },
+  "id": "way/31647341"
+}

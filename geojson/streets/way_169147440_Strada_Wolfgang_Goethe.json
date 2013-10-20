@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147440",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Wolfgang Goethe"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5967492,
+        46.7518364
+      ],
+      [
+        23.597578,
+        46.7481257
+      ]
+    ]
+  },
+  "id": "way/169147440"
+}

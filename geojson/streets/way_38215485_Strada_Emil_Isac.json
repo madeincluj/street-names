@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/38215485",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Emil Isac",
+    "name:hu": "Emil Isac utca",
+    "old_name:hu": "Bartha Miklós utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5848262,
+        46.7710262
+      ],
+      [
+        23.5845872,
+        46.7716166
+      ],
+      [
+        23.5843573,
+        46.7717201
+      ]
+    ]
+  },
+  "id": "way/38215485"
+}

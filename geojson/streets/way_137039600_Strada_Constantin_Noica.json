@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/137039600",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Noica"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5895661,
+        46.7504566
+      ],
+      [
+        23.591132,
+        46.7504492
+      ],
+      [
+        23.5920302,
+        46.7504035
+      ],
+      [
+        23.5928568,
+        46.7503556
+      ],
+      [
+        23.5932752,
+        46.7502747
+      ],
+      [
+        23.5941583,
+        46.7500754
+      ]
+    ]
+  },
+  "id": "way/137039600"
+}

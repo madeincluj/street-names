@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586072",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Griviței"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6159359,
+        46.7871335
+      ],
+      [
+        23.6172975,
+        46.7851358
+      ]
+    ]
+  },
+  "id": "way/31586072"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620154",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iris",
+    "name:hu": "Írisz utca",
+    "old_name:hu": "Csupor utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6029731,
+        46.7919962
+      ],
+      [
+        23.6038067,
+        46.7923739
+      ],
+      [
+        23.6048758,
+        46.7928484
+      ],
+      [
+        23.6060802,
+        46.793383
+      ]
+    ]
+  },
+  "id": "way/31620154"
+}

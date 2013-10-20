@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/110919348",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Octavian Goga",
+    "name:hu": "Octavian Goga utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.568197,
+        46.7709814
+      ],
+      [
+        23.5692051,
+        46.7710923
+      ],
+      [
+        23.5724233,
+        46.7714295
+      ],
+      [
+        23.5763291,
+        46.7718389
+      ],
+      [
+        23.5767582,
+        46.7719682
+      ],
+      [
+        23.5770157,
+        46.7719917
+      ],
+      [
+        23.5773465,
+        46.7719262
+      ]
+    ]
+  },
+  "id": "way/110919348"
+}

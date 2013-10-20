@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/238898881",
+    "highway": "secondary",
+    "name": "Calea Someșului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6373873,
+        46.7822058
+      ],
+      [
+        23.6373861,
+        46.7820433
+      ],
+      [
+        23.6375885,
+        46.7819735
+      ]
+    ]
+  },
+  "id": "way/238898881"
+}

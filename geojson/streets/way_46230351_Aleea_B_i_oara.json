@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/46230351",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Băișoara"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6244461,
+        46.7660573
+      ],
+      [
+        23.6245079,
+        46.7662842
+      ],
+      [
+        23.6244416,
+        46.766577
+      ]
+    ]
+  },
+  "id": "way/46230351"
+}

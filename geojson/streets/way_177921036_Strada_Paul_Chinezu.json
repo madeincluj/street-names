@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921036",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Paul Chinezu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5855931,
+        46.771201
+      ],
+      [
+        23.5858578,
+        46.7707586
+      ],
+      [
+        23.5860193,
+        46.7703085
+      ]
+    ]
+  },
+  "id": "way/177921036"
+}

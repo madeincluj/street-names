@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234875",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Roșca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6218552,
+        46.7543371
+      ],
+      [
+        23.6227972,
+        46.7555167
+      ],
+      [
+        23.6235761,
+        46.7569638
+      ]
+    ]
+  },
+  "id": "way/169234875"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620142",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Lucaciu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6085693,
+        46.791197
+      ],
+      [
+        23.6080671,
+        46.7922047
+      ],
+      [
+        23.6070087,
+        46.7943288
+      ]
+    ]
+  },
+  "id": "way/31620142"
+}

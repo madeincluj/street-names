@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579625",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fierului",
+    "name:hu": "Vas utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5789063,
+        46.7814161
+      ],
+      [
+        23.5790264,
+        46.7814632
+      ],
+      [
+        23.579653,
+        46.7815631
+      ],
+      [
+        23.5817605,
+        46.7819579
+      ],
+      [
+        23.5844207,
+        46.782373
+      ]
+    ]
+  },
+  "id": "way/31579625"
+}

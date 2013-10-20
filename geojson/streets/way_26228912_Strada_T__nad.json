@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26228912",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tășnad",
+    "name:hu": "Tusnád utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.545842,
+        46.7595101
+      ],
+      [
+        23.5471478,
+        46.7597419
+      ]
+    ]
+  },
+  "id": "way/26228912"
+}

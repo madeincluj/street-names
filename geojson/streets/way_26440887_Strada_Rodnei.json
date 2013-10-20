@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26440887",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Rodnei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6441621,
+        46.7889908
+      ],
+      [
+        23.6440705,
+        46.7866266
+      ],
+      [
+        23.6440081,
+        46.7837212
+      ]
+    ]
+  },
+  "id": "way/26440887"
+}

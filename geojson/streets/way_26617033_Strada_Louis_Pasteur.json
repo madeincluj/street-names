@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26617033",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Louis Pasteur",
+    "name:hu": "Louis Pasteur utca",
+    "old_name:hu": "Kert utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5783872,
+        46.7553202
+      ],
+      [
+        23.5783638,
+        46.7553166
+      ],
+      [
+        23.5760989,
+        46.7550532
+      ],
+      [
+        23.5756553,
+        46.7549976
+      ],
+      [
+        23.5755591,
+        46.7549834
+      ]
+    ]
+  },
+  "id": "way/26617033"
+}

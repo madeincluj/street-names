@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31666962",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ciocanului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6539726,
+        46.7867282
+      ],
+      [
+        23.6527881,
+        46.7864931
+      ],
+      [
+        23.652522,
+        46.7865284
+      ],
+      [
+        23.6514234,
+        46.7863345
+      ]
+    ]
+  },
+  "id": "way/31666962"
+}

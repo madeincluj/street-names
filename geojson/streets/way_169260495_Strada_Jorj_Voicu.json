@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169260495",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jorj Voicu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6548593,
+        46.7428274
+      ],
+      [
+        23.6541458,
+        46.7418018
+      ]
+    ]
+  },
+  "id": "way/169260495"
+}

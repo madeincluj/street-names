@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223812809",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Zambilelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.528383,
+        46.791487
+      ],
+      [
+        23.5279821,
+        46.7912742
+      ],
+      [
+        23.5284407,
+        46.7909092
+      ]
+    ]
+  },
+  "id": "way/223812809"
+}

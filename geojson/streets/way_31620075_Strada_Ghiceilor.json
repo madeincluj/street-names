@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620075",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ghiceilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6222951,
+        46.7881282
+      ],
+      [
+        23.6228716,
+        46.7862372
+      ],
+      [
+        23.6230776,
+        46.785579
+      ]
+    ]
+  },
+  "id": "way/31620075"
+}

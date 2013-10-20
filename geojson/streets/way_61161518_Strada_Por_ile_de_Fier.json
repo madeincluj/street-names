@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/61161518",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Porțile de Fier",
+    "name:hu": "Vaskapu utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5549572,
+        46.7613975
+      ],
+      [
+        23.554777,
+        46.7617797
+      ],
+      [
+        23.5545452,
+        46.7628204
+      ]
+    ]
+  },
+  "id": "way/61161518"
+}

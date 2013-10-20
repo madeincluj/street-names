@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921034",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Daicoviciu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5848262,
+        46.7710262
+      ],
+      [
+        23.5855931,
+        46.771201
+      ]
+    ]
+  },
+  "id": "way/177921034"
+}

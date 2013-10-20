@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586074",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bulgarilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6159151,
+        46.7852198
+      ],
+      [
+        23.6148251,
+        46.7868595
+      ]
+    ]
+  },
+  "id": "way/31586074"
+}

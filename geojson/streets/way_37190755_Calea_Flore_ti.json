@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37190755",
+    "highway": "primary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Calea Florești",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5423553,
+        46.7569371
+      ],
+      [
+        23.5425818,
+        46.756999
+      ]
+    ]
+  },
+  "id": "way/37190755"
+}

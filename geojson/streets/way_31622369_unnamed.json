@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622369",
+    "highway": "service",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.60661,
+        46.7796254
+      ],
+      [
+        23.6065334,
+        46.7798897
+      ]
+    ]
+  },
+  "id": "way/31622369"
+}

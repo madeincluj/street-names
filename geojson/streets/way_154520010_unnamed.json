@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/154520010",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "source": "Local survey + bing maps",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5485585,
+        46.7549204
+      ],
+      [
+        23.5488716,
+        46.7542273
+      ]
+    ]
+  },
+  "id": "way/154520010"
+}

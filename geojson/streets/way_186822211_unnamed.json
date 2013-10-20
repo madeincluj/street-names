@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186822211",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name:hu": "Tordai út",
+    "oneway": "yes",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5979686,
+        46.7680725
+      ],
+      [
+        23.5980066,
+        46.7677677
+      ],
+      [
+        23.598016,
+        46.7676459
+      ]
+    ]
+  },
+  "id": "way/186822211"
+}

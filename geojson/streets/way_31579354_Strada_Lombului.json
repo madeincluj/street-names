@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579354",
+    "highway": "tertiary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lombului",
+    "name:hu": "Lombi utca",
+    "old_name:hu": "Lombi út",
+    "ref": "DC142B"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5605218,
+        46.7863385
+      ],
+      [
+        23.5603068,
+        46.7861998
+      ],
+      [
+        23.5600128,
+        46.7860521
+      ],
+      [
+        23.5589023,
+        46.7854942
+      ],
+      [
+        23.5587702,
+        46.785375
+      ],
+      [
+        23.5589966,
+        46.7846374
+      ],
+      [
+        23.5592049,
+        46.7839587
+      ]
+    ]
+  },
+  "id": "way/31579354"
+}

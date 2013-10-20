@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/40774112",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tecuci"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5580724,
+        46.7688876
+      ],
+      [
+        23.5581254,
+        46.7685299
+      ],
+      [
+        23.558146,
+        46.7684007
+      ],
+      [
+        23.5581502,
+        46.7683802
+      ],
+      [
+        23.5581712,
+        46.7682907
+      ]
+    ]
+  },
+  "id": "way/40774112"
+}

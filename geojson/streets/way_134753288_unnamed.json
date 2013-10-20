@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/134753288",
+    "construction": "trunk",
+    "highway": "construction",
+    "lanes": "3",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6528935,
+        46.7282986
+      ],
+      [
+        23.6504993,
+        46.728329
+      ],
+      [
+        23.648617,
+        46.7281151
+      ],
+      [
+        23.6470018,
+        46.7272429
+      ],
+      [
+        23.6467194,
+        46.7269511
+      ]
+    ]
+  },
+  "id": "way/134753288"
+}

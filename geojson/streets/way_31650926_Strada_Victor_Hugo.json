@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31650926",
+    "fixme": "resurvey",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Victor Hugo",
+    "name:hu": "Victor Hugo utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5964126,
+        46.7615883
+      ],
+      [
+        23.5955671,
+        46.7626037
+      ],
+      [
+        23.5952195,
+        46.7627524
+      ]
+    ]
+  },
+  "id": "way/31650926"
+}

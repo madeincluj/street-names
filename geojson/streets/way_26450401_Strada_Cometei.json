@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26450401",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Cometei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5907462,
+        46.7531827
+      ],
+      [
+        23.5907886,
+        46.7531928
+      ],
+      [
+        23.5918076,
+        46.7531682
+      ],
+      [
+        23.59568,
+        46.7530538
+      ]
+    ]
+  },
+  "id": "way/26450401"
+}

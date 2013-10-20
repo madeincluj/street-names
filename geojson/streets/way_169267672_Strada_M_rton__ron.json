@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267672",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Márton Áron"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5888416,
+        46.7457496
+      ],
+      [
+        23.5851898,
+        46.745768
+      ],
+      [
+        23.5837938,
+        46.7457473
+      ]
+    ]
+  },
+  "id": "way/169267672"
+}

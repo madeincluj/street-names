@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31671010",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gospodarilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6049247,
+        46.7817772
+      ],
+      [
+        23.6044701,
+        46.7841943
+      ]
+    ]
+  },
+  "id": "way/31671010"
+}

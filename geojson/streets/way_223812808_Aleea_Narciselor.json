@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223812808",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Narciselor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.527899,
+        46.7919021
+      ],
+      [
+        23.5276619,
+        46.7917758
+      ],
+      [
+        23.5276619,
+        46.7917168
+      ],
+      [
+        23.5275302,
+        46.7916162
+      ],
+      [
+        23.5274973,
+        46.7915659
+      ],
+      [
+        23.5272109,
+        46.7914358
+      ]
+    ]
+  },
+  "id": "way/223812808"
+}

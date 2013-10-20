@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/150985530",
+    "highway": "secondary",
+    "name": "Strada Mirăslău"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5502635,
+        46.7662054
+      ],
+      [
+        23.550325,
+        46.7661474
+      ],
+      [
+        23.5504356,
+        46.7660457
+      ]
+    ]
+  },
+  "id": "way/150985530"
+}

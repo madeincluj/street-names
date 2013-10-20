@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579805",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Poienaru Petrache"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5918667,
+        46.7924178
+      ],
+      [
+        23.5921671,
+        46.7924002
+      ],
+      [
+        23.5923216,
+        46.7924119
+      ],
+      [
+        23.5924418,
+        46.7924589
+      ],
+      [
+        23.592725,
+        46.7935872
+      ],
+      [
+        23.5926821,
+        46.7937928
+      ]
+    ]
+  },
+  "id": "way/31579805"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149955",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Carmen Silva"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5994888,
+        46.7527474
+      ],
+      [
+        23.5989714,
+        46.7522168
+      ],
+      [
+        23.598345,
+        46.7515744
+      ]
+    ]
+  },
+  "id": "way/169149955"
+}

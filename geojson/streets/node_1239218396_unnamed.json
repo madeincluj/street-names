@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1239218396",
+    "barrier": "lift_gate",
+    "bicycle": "yes",
+    "foot": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.580992,
+      46.765272
+    ]
+  },
+  "id": "node/1239218396"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55951631",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada George Enescu",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5645279,
+        46.7732213
+      ],
+      [
+        23.5646294,
+        46.7729623
+      ],
+      [
+        23.5651364,
+        46.7716997
+      ],
+      [
+        23.5657064,
+        46.7707108
+      ]
+    ]
+  },
+  "id": "way/55951631"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623423",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Profesor Valeriu Bologa",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6290419,
+        46.7719973
+      ],
+      [
+        23.6297826,
+        46.7714082
+      ]
+    ]
+  },
+  "id": "way/31623423"
+}

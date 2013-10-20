@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/108489923",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Petru Maior",
+    "old_name:hu": "Arany János utca",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5857651,
+        46.7674044
+      ],
+      [
+        23.5857561,
+        46.7674199
+      ],
+      [
+        23.5857515,
+        46.7674276
+      ],
+      [
+        23.5849391,
+        46.7687435
+      ]
+    ]
+  },
+  "id": "way/108489923"
+}

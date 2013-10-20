@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31583349",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Iuliu Merca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5821369,
+        46.7480529
+      ],
+      [
+        23.5826132,
+        46.7480575
+      ],
+      [
+        23.5836446,
+        46.7480676
+      ],
+      [
+        23.5863684,
+        46.7479931
+      ]
+    ]
+  },
+  "id": "way/31583349"
+}

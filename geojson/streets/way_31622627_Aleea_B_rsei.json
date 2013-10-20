@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622627",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Bârsei",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.612928,
+        46.7785591
+      ],
+      [
+        23.6133468,
+        46.7786003
+      ],
+      [
+        23.6136293,
+        46.7789521
+      ],
+      [
+        23.6138496,
+        46.7790834
+      ],
+      [
+        23.6137894,
+        46.7792808
+      ],
+      [
+        23.6133826,
+        46.7791963
+      ],
+      [
+        23.6131593,
+        46.7799627
+      ]
+    ]
+  },
+  "id": "way/31622627"
+}

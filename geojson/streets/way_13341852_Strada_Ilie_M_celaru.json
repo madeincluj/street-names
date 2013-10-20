@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13341852",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ilie Măcelaru",
+    "name:hu": "Ilie Măcelaru utca",
+    "old_name:hu": "Zsák utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5747999,
+        46.7645803
+      ],
+      [
+        23.5738485,
+        46.7655675
+      ],
+      [
+        23.5737718,
+        46.7656506
+      ],
+      [
+        23.5724578,
+        46.7654337
+      ],
+      [
+        23.5710467,
+        46.7652007
+      ]
+    ]
+  },
+  "id": "way/13341852"
+}

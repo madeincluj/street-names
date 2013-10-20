@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31581989",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada G. V. Bibescu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5837421,
+        46.7498374
+      ],
+      [
+        23.5811854,
+        46.7491976
+      ]
+    ]
+  },
+  "id": "way/31581989"
+}

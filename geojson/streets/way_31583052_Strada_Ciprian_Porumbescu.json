@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31583052",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ciprian Porumbescu",
+    "name:hu": "Ciprian Porumbescu utca",
+    "old_name:hu": "Hőgyes utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5810318,
+        46.7609036
+      ],
+      [
+        23.5804911,
+        46.7609153
+      ],
+      [
+        23.5802422,
+        46.7609094
+      ],
+      [
+        23.5780621,
+        46.7604038
+      ]
+    ]
+  },
+  "id": "way/31583052"
+}

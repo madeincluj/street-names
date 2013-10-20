@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101498693",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fagului",
+    "name:ro": "Strada Fagului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5124577,
+        46.7996506
+      ],
+      [
+        23.5133864,
+        46.7996075
+      ],
+      [
+        23.5139643,
+        46.799547
+      ]
+    ]
+  },
+  "id": "way/101498693"
+}

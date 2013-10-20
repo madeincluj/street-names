@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118164236",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Brateș",
+    "name:hu": "Barátos utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5472067,
+        46.760786
+      ],
+      [
+        23.5466917,
+        46.7606919
+      ]
+    ]
+  },
+  "id": "way/118164236"
+}

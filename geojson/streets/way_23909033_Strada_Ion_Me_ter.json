@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23909033",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Meșter",
+    "name:hu": "Ion Meșter utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5608443,
+        46.7569406
+      ],
+      [
+        23.5625141,
+        46.7570038
+      ],
+      [
+        23.563445,
+        46.7570422
+      ]
+    ]
+  },
+  "id": "way/23909033"
+}

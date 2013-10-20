@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222352723",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mistralului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5637533,
+        46.7785456
+      ],
+      [
+        23.5620058,
+        46.7783803
+      ]
+    ]
+  },
+  "id": "way/222352723"
+}

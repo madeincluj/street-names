@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584285",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vișinilor",
+    "name:hu": "Meggy utca",
+    "old_name:hu": "Badacsony utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5772208,
+        46.7910169
+      ],
+      [
+        23.5793322,
+        46.7915164
+      ]
+    ]
+  },
+  "id": "way/31584285"
+}

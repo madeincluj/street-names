@@ -1,0 +1,15 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/2252378249",
+    "railway": "level_crossing"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6375324,
+      46.7941285
+    ]
+  },
+  "id": "node/2252378249"
+}

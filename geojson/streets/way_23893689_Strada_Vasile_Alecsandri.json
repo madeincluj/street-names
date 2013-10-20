@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893689",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Alecsandri",
+    "name:hu": "Vasile Alecsandri utca",
+    "old_name:hu": "Linczeg utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5841316,
+        46.7682609
+      ],
+      [
+        23.5829734,
+        46.7693945
+      ]
+    ]
+  },
+  "id": "way/23893689"
+}

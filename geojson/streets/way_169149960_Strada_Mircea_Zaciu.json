@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169149960",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mircea Zaciu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5984454,
+        46.7515583
+      ],
+      [
+        23.5990634,
+        46.7484888
+      ]
+    ]
+  },
+  "id": "way/169149960"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31621980",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Livezii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6039007,
+        46.781339
+      ],
+      [
+        23.6038641,
+        46.7814949
+      ],
+      [
+        23.6037832,
+        46.782935
+      ],
+      [
+        23.6039119,
+        46.7833053
+      ],
+      [
+        23.6044701,
+        46.7841943
+      ],
+      [
+        23.604832,
+        46.7853296
+      ]
+    ]
+  },
+  "id": "way/31621980"
+}

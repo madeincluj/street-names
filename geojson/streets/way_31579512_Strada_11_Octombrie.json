@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579512",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada 11 Octombrie"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.576573,
+        46.7803954
+      ],
+      [
+        23.5765254,
+        46.7795453
+      ],
+      [
+        23.5765184,
+        46.7784383
+      ],
+      [
+        23.5766032,
+        46.7779609
+      ],
+      [
+        23.5767605,
+        46.7777132
+      ],
+      [
+        23.5767813,
+        46.777636
+      ]
+    ]
+  },
+  "id": "way/31579512"
+}

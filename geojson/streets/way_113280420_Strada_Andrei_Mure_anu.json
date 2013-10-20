@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/113280420",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Andrei Mureșanu",
+    "name:hu": "Andrei Mureșanu utca",
+    "old_name:hu": "Attila út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6009957,
+        46.766274
+      ],
+      [
+        23.6017642,
+        46.7652306
+      ],
+      [
+        23.6028751,
+        46.7637465
+      ]
+    ]
+  },
+  "id": "way/113280420"
+}

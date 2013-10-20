@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1829420769",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piața Avram Iancu",
+    "name:hu": "Avram Iancu tér",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5972705,
+      46.7713721
+    ]
+  },
+  "id": "node/1829420769"
+}

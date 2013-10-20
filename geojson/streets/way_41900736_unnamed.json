@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/41900736",
+    "crossing": "uncontrolled",
+    "crossing_ref": "zebra",
+    "highway": "crossing",
+    "is_in:city": "Cluj-Napoca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5595384,
+        46.7683934
+      ],
+      [
+        23.5595519,
+        46.7683338
+      ]
+    ]
+  },
+  "id": "way/41900736"
+}

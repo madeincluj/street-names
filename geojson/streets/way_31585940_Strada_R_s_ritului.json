@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585940",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Răsăritului",
+    "name:hu": "Napkelet utca",
+    "old_name:hu": "Szent László út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6322144,
+        46.7839504
+      ],
+      [
+        23.6310476,
+        46.784008
+      ],
+      [
+        23.6291029,
+        46.784104
+      ],
+      [
+        23.6279783,
+        46.7841595
+      ],
+      [
+        23.6251755,
+        46.7843157
+      ]
+    ]
+  },
+  "id": "way/31585940"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/113943740",
+    "area": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Piața Horea, Cloșca și Crișan",
+    "name:hu": "Horea, Cloșca és Crișan tér"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          23.5775218,
+          46.7717557
+        ],
+        [
+          23.5775275,
+          46.7719506
+        ],
+        [
+          23.5773465,
+          46.7719262
+        ],
+        [
+          23.5775218,
+          46.7717557
+        ]
+      ]
+    ]
+  },
+  "id": "way/113943740"
+}

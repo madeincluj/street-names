@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/129197387",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tudor Vladimirescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.570255,
+        46.7834711
+      ],
+      [
+        23.5699451,
+        46.7844059
+      ]
+    ]
+  },
+  "id": "way/129197387"
+}

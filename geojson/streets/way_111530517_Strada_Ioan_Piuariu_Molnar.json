@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/111530517",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ioan Piuariu Molnar"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6226719,
+        46.7819063
+      ],
+      [
+        23.6222203,
+        46.78284
+      ]
+    ]
+  },
+  "id": "way/111530517"
+}

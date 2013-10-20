@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/205274906",
+    "access": "permissive",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mărului",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5908238,
+        46.7654658
+      ],
+      [
+        23.59013,
+        46.7654379
+      ],
+      [
+        23.5893976,
+        46.7653723
+      ]
+    ]
+  },
+  "id": "way/205274906"
+}

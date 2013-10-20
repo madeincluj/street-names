@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26614881",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Jószef Attila",
+    "name:hu": "Jószef Attila utca",
+    "old_name:hu": "Breiner Béla utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5944642,
+        46.7617411
+      ],
+      [
+        23.5967044,
+        46.7604123
+      ],
+      [
+        23.5984502,
+        46.759274
+      ]
+    ]
+  },
+  "id": "way/26614881"
+}

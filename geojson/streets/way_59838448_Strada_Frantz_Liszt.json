@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838448",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Strada Frantz Liszt",
+    "oneway": "no",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5639376,
+        46.7701782
+      ],
+      [
+        23.5637841,
+        46.7696333
+      ],
+      [
+        23.5635013,
+        46.7687415
+      ]
+    ]
+  },
+  "id": "way/59838448"
+}

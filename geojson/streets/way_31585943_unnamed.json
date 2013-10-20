@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585943",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6311501,
+        46.7826809
+      ],
+      [
+        23.6311845,
+        46.7822643
+      ]
+    ]
+  },
+  "id": "way/31585943"
+}

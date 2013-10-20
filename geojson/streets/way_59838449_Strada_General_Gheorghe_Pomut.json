@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838449",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada General Gheorghe Pomut",
+    "oneway": "no",
+    "sidewalk": "none",
+    "surface": "dirt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5646232,
+        46.7689065
+      ],
+      [
+        23.5650947,
+        46.7679567
+      ]
+    ]
+  },
+  "id": "way/59838449"
+}

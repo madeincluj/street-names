@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584386",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sălajului",
+    "name:hu": "Szilágy utca",
+    "old_name:hu": "Szegedi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5619919,
+        46.7844648
+      ],
+      [
+        23.5611578,
+        46.7864288
+      ]
+    ]
+  },
+  "id": "way/31584386"
+}

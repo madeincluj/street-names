@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26598924",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ploiești",
+    "name:hu": "Ploiești utca",
+    "old_name:hu": "Hosszú utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5923576,
+        46.774454
+      ],
+      [
+        23.5933686,
+        46.7748403
+      ],
+      [
+        23.5935746,
+        46.7749285
+      ],
+      [
+        23.5943557,
+        46.7755869
+      ]
+    ]
+  },
+  "id": "way/26598924"
+}

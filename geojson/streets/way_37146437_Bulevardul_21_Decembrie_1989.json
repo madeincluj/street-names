@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37146437",
+    "busway": "opposite_lane",
+    "highway": "primary",
+    "int_ref": "E576",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Bulevardul 21 Decembrie 1989",
+    "name:hu": "1989. december 21. sugárút",
+    "old_name:hu": "Bocskai tér",
+    "oneway": "yes",
+    "ref": "DN1C",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5964721,
+        46.7729794
+      ],
+      [
+        23.5953651,
+        46.7725867
+      ]
+    ]
+  },
+  "id": "way/37146437"
+}

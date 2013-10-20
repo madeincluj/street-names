@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267670",
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Strada Făgetului",
+    "oneway": "yes",
+    "ref": "DJ103U",
+    "smoothness": "very_bad",
+    "surface": "asphalt",
+    "surface_survey": "30APR2010_nordic@motociclism.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.591176,
+        46.7381943
+      ],
+      [
+        23.590922,
+        46.7380609
+      ],
+      [
+        23.590849,
+        46.7380225
+      ]
+    ]
+  },
+  "id": "way/169267670"
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/44596052",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "junction": "roundabout",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5303519,
+        46.7512253
+      ],
+      [
+        23.5302894,
+        46.7510973
+      ],
+      [
+        23.5303491,
+        46.7510365
+      ],
+      [
+        23.5304721,
+        46.7510061
+      ],
+      [
+        23.5306094,
+        46.7510414
+      ],
+      [
+        23.5306609,
+        46.7511414
+      ]
+    ]
+  },
+  "id": "way/44596052"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31621467",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cibinului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6107398,
+        46.7838501
+      ],
+      [
+        23.6106538,
+        46.7826612
+      ],
+      [
+        23.6106378,
+        46.7823577
+      ],
+      [
+        23.6107111,
+        46.7820177
+      ]
+    ]
+  },
+  "id": "way/31621467"
+}

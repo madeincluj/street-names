@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267685",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ana Aslan"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5885356,
+        46.7412277
+      ],
+      [
+        23.5883574,
+        46.7399595
+      ],
+      [
+        23.5882153,
+        46.7389488
+      ]
+    ]
+  },
+  "id": "way/169267685"
+}

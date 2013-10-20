@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584343",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Piatra Craiului",
+    "name:hu": "Királyhágó utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5689381,
+        46.7846111
+      ],
+      [
+        23.566536,
+        46.7841791
+      ],
+      [
+        23.5650803,
+        46.7839112
+      ],
+      [
+        23.5638398,
+        46.7836943
+      ]
+    ]
+  },
+  "id": "way/31584343"
+}

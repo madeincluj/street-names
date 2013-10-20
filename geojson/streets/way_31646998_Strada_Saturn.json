@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646998",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Saturn",
+    "name:hu": "Szaturnusz utca",
+    "old_name:hu": "Kuncz Aladár utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6027367,
+        46.7581645
+      ],
+      [
+        23.6020072,
+        46.7580352
+      ],
+      [
+        23.6018784,
+        46.7579764
+      ],
+      [
+        23.6015608,
+        46.7577
+      ],
+      [
+        23.6013377,
+        46.7574883
+      ],
+      [
+        23.6002047,
+        46.7568591
+      ],
+      [
+        23.6000772,
+        46.7568181
+      ]
+    ]
+  },
+  "id": "way/31646998"
+}

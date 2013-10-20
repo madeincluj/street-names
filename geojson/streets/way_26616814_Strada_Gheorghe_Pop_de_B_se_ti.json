@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26616814",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gheorghe Pop de Băsești",
+    "name:hu": "Gheorghe Pop de Băseşti utca",
+    "old_name:hu": "Rosenberg-házaspár utcája"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5935515,
+        46.7618394
+      ],
+      [
+        23.593857,
+        46.7616865
+      ],
+      [
+        23.5941413,
+        46.7616976
+      ],
+      [
+        23.5944642,
+        46.7617411
+      ],
+      [
+        23.5961036,
+        46.7616588
+      ],
+      [
+        23.5964126,
+        46.7615883
+      ],
+      [
+        23.5973911,
+        46.7610121
+      ],
+      [
+        23.5977672,
+        46.7608723
+      ]
+    ]
+  },
+  "id": "way/26616814"
+}

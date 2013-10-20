@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646913",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Pop Reteganu",
+    "name:hu": "Ion Pop Reteganu utca",
+    "old_name:hu": "Szabolcska utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5990054,
+        46.7573228
+      ],
+      [
+        23.6012546,
+        46.759226
+      ]
+    ]
+  },
+  "id": "way/31646913"
+}

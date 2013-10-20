@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26623977",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Emil Petrovici",
+    "name:hu": "Emil Petrovici utca",
+    "old_name:hu": "Átjáró utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5894132,
+        46.7791448
+      ],
+      [
+        23.5915078,
+        46.779109
+      ]
+    ]
+  },
+  "id": "way/26623977"
+}

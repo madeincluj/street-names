@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/61185450",
+    "bridge": "yes",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "name": "Strada Borhanciului",
+    "name:hu": "Borháncs utca",
+    "ref": "DJ103G",
+    "smoothness": "excellent",
+    "surface": "asphalt",
+    "surface_survey": "13JUN2012 - DJ107P@online - pamant, viteza de confort e 40km/h pentru enduro-touring, portiunea tine de la intrare in Cluj si pana la intersectia cu strada Constantin Brancusi si Strada Fagului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6249805,
+        46.7565164
+      ],
+      [
+        23.6248356,
+        46.7565825
+      ]
+    ]
+  },
+  "id": "way/61185450"
+}

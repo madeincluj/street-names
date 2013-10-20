@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23908806",
+    "bridge": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Tudor Vladimirescu",
+    "name:hu": "Tudor Vladimirescu utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5603066,
+        46.7824555
+      ],
+      [
+        23.5602409,
+        46.7824817
+      ]
+    ]
+  },
+  "id": "way/23908806"
+}

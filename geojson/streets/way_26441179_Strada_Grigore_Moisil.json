@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26441179",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Grigore Moisil",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5928664,
+        46.7469993
+      ],
+      [
+        23.5913895,
+        46.747111
+      ],
+      [
+        23.5902214,
+        46.7471391
+      ],
+      [
+        23.5896903,
+        46.7471905
+      ],
+      [
+        23.5886418,
+        46.7471323
+      ],
+      [
+        23.5885544,
+        46.7471244
+      ],
+      [
+        23.5878779,
+        46.7471062
+      ]
+    ]
+  },
+  "id": "way/26441179"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893998",
+    "highway": "trunk",
+    "int_ref": "E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Piața Gării",
+    "name:de": "Bahnhofsplatz",
+    "name:en": "Railway Station Square",
+    "name:hu": "Állomás tér",
+    "old_name:hu": "Baross tér",
+    "oneway": "yes",
+    "ref": "DN1F"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5856285,
+        46.7839231
+      ],
+      [
+        23.5859975,
+        46.7838761
+      ],
+      [
+        23.5875739,
+        46.7841307
+      ]
+    ]
+  },
+  "id": "way/23893998"
+}

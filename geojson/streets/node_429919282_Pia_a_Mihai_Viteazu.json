@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/429919282",
+    "bus": "yes",
+    "bus_lines": "8;28b;35;37;38;52",
+    "highway": "bus_stop",
+    "name": "Piața Mihai Viteazu",
+    "name:hu": "Vitéz Mihály tér",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "ref": "8;28b;31;35;37;38;52",
+    "shelter": "yes",
+    "trolleybus": "yes",
+    "website": "http://www.ratuc.ro"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5902319,
+      46.7754476
+    ]
+  },
+  "id": "node/429919282"
+}

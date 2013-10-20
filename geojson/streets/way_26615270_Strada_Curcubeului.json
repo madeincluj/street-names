@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615270",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Curcubeului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5792574,
+        46.7576426
+      ],
+      [
+        23.5792193,
+        46.7584397
+      ],
+      [
+        23.5792066,
+        46.7584677
+      ],
+      [
+        23.5792175,
+        46.7585082
+      ]
+    ]
+  },
+  "id": "way/26615270"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623467",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Snagov",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6255574,
+        46.7701145
+      ],
+      [
+        23.6259075,
+        46.7694762
+      ],
+      [
+        23.6259086,
+        46.769435
+      ],
+      [
+        23.6259186,
+        46.7690754
+      ],
+      [
+        23.6259469,
+        46.7680579
+      ],
+      [
+        23.6259529,
+        46.7678287
+      ]
+    ]
+  },
+  "id": "way/31623467"
+}

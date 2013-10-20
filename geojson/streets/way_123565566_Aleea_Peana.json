@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/123565566",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Peana",
+    "name:hu": "Peana sétány",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.55533,
+        46.7558481
+      ],
+      [
+        23.5546302,
+        46.7557923
+      ]
+    ]
+  },
+  "id": "way/123565566"
+}

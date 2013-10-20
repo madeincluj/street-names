@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647270",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Văleni",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6212694,
+        46.7621024
+      ],
+      [
+        23.6162722,
+        46.761275
+      ],
+      [
+        23.6158002,
+        46.7612397
+      ],
+      [
+        23.6155856,
+        46.761275
+      ]
+    ]
+  },
+  "id": "way/31647270"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584294",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Olteniei",
+    "name:hu": "Olténia utca",
+    "old_name:hu": "Arad utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5736976,
+        46.7866077
+      ],
+      [
+        23.572646,
+        46.7892069
+      ]
+    ]
+  },
+  "id": "way/31584294"
+}

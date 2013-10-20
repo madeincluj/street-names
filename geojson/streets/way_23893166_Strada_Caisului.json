@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893166",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Caisului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5853306,
+        46.7559091
+      ],
+      [
+        23.5864592,
+        46.7562137
+      ],
+      [
+        23.5866004,
+        46.7562753
+      ],
+      [
+        23.5866794,
+        46.7563504
+      ],
+      [
+        23.5866727,
+        46.7564526
+      ],
+      [
+        23.5863817,
+        46.7569013
+      ]
+    ]
+  },
+  "id": "way/23893166"
+}

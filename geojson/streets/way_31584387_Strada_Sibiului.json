@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584387",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sibiului",
+    "name:hu": "Szebeni utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5631916,
+        46.7846827
+      ],
+      [
+        23.5624322,
+        46.7866093
+      ]
+    ]
+  },
+  "id": "way/31584387"
+}

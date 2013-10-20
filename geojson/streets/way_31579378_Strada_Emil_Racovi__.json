@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579378",
+    "highway": "residential",
+    "incline": "7%",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Emil Racoviță",
+    "name:hu": "Emil Racoviţă utca",
+    "old_name:hu": "Erzsébet út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.586301,
+        46.7747017
+      ],
+      [
+        23.586138,
+        46.7748193
+      ],
+      [
+        23.5858457,
+        46.7751345
+      ],
+      [
+        23.5842825,
+        46.7770115
+      ],
+      [
+        23.5832838,
+        46.7786992
+      ],
+      [
+        23.5822512,
+        46.7796577
+      ]
+    ]
+  },
+  "id": "way/31579378"
+}

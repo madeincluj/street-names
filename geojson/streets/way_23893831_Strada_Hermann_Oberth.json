@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893831",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Hermann Oberth",
+    "name:hu": "Hermann Oberth utca",
+    "old_name:hu": "Minorita utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5925865,
+        46.7695638
+      ],
+      [
+        23.5932207,
+        46.7686725
+      ],
+      [
+        23.5936588,
+        46.7677735
+      ]
+    ]
+  },
+  "id": "way/23893831"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147449",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Zaharia Stancu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.598767,
+        46.7475949
+      ],
+      [
+        23.5981161,
+        46.7474482
+      ]
+    ]
+  },
+  "id": "way/169147449"
+}

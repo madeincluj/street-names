@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283747",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Prislop"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6066494,
+        46.7559012
+      ],
+      [
+        23.60654,
+        46.7563071
+      ],
+      [
+        23.606751,
+        46.7564988
+      ],
+      [
+        23.6071372,
+        46.7568516
+      ],
+      [
+        23.607981,
+        46.7577764
+      ]
+    ]
+  },
+  "id": "way/24283747"
+}

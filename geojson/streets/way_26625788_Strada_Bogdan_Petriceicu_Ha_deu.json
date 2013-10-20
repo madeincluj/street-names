@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26625788",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bogdan Petriceicu Hașdeu",
+    "name:hu": "Bogdan Petriceicu Hașdeu utca",
+    "old_name:hu": "Kőkert utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5736365,
+        46.7616655
+      ],
+      [
+        23.5740707,
+        46.7617888
+      ],
+      [
+        23.5748864,
+        46.7621559
+      ],
+      [
+        23.5757271,
+        46.7625148
+      ],
+      [
+        23.5760045,
+        46.76258
+      ],
+      [
+        23.5771582,
+        46.762846
+      ],
+      [
+        23.5776244,
+        46.7628733
+      ],
+      [
+        23.5777853,
+        46.7628826
+      ]
+    ]
+  },
+  "id": "way/26625788"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623246",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Valeriu Braniște",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.601677,
+        46.7694753
+      ],
+      [
+        23.6021748,
+        46.7688403
+      ],
+      [
+        23.6026211,
+        46.7684876
+      ],
+      [
+        23.6027241,
+        46.7683583
+      ],
+      [
+        23.6028122,
+        46.768149
+      ]
+    ]
+  },
+  "id": "way/31623246"
+}

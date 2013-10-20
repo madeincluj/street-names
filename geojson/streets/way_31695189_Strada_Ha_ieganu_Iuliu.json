@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31695189",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Hațieganu Iuliu",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5811477,
+        46.7668177
+      ],
+      [
+        23.5818857,
+        46.7657382
+      ]
+    ]
+  },
+  "id": "way/31695189"
+}

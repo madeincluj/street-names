@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7976631",
+    "highway": "primary",
+    "name": "Strada Emil Isac",
+    "name:hu": "Emil Isac utca",
+    "old_name:hu": "Bartha Miklós utca",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5843573,
+        46.7717201
+      ],
+      [
+        23.5840398,
+        46.7718501
+      ],
+      [
+        23.5838337,
+        46.7719345
+      ],
+      [
+        23.5836232,
+        46.7720207
+      ],
+      [
+        23.5835692,
+        46.7720428
+      ],
+      [
+        23.5832458,
+        46.7721752
+      ],
+      [
+        23.5830914,
+        46.7721987
+      ],
+      [
+        23.5829197,
+        46.7721987
+      ]
+    ]
+  },
+  "id": "way/7976631"
+}

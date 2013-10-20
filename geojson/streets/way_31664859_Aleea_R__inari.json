@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31664859",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Rășinari",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6155856,
+        46.761275
+      ],
+      [
+        23.6152594,
+        46.761569
+      ],
+      [
+        23.6151307,
+        46.7616572
+      ],
+      [
+        23.6150363,
+        46.762545
+      ],
+      [
+        23.6149762,
+        46.762739
+      ],
+      [
+        23.6149161,
+        46.7628214
+      ],
+      [
+        23.6148388,
+        46.7628684
+      ]
+    ]
+  },
+  "id": "way/31664859"
+}

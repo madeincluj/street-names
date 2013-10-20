@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/42614986",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cornului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6587411,
+        46.7810561
+      ],
+      [
+        23.6583157,
+        46.7825239
+      ]
+    ]
+  },
+  "id": "way/42614986"
+}

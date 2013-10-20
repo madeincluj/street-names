@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619622",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Frasinului",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5444137,
+        46.7609626
+      ],
+      [
+        23.5446165,
+        46.7609878
+      ],
+      [
+        23.5447857,
+        46.7610236
+      ]
+    ]
+  },
+  "id": "way/31619622"
+}

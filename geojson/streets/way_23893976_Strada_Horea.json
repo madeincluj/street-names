@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893976",
+    "highway": "primary",
+    "int_ref": "E 81",
+    "name": "Strada Horea",
+    "name:hu": "Horea utca",
+    "old_name:hu": "Ferenc József út",
+    "railway": "tram",
+    "ref": "DN1F",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5873082,
+        46.7747489
+      ],
+      [
+        23.5874744,
+        46.7744928
+      ]
+    ]
+  },
+  "id": "way/23893976"
+}

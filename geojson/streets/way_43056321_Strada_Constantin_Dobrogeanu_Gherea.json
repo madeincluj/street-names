@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43056321",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Dobrogeanu Gherea",
+    "name:hu": "Constantin Dobrogeanu Gherea utca",
+    "old_name:hu": "Fejedelem utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5980758,
+        46.7721254
+      ],
+      [
+        23.5989942,
+        46.7723136
+      ],
+      [
+        23.6004288,
+        46.7728549
+      ]
+    ]
+  },
+  "id": "way/43056321"
+}

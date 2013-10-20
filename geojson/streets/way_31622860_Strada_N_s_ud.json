@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622860",
+    "highway": "living_street",
+    "name": "Strada Năsăud",
+    "name:hu": "Naszód utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6107751,
+        46.7747366
+      ],
+      [
+        23.6100789,
+        46.7743002
+      ],
+      [
+        23.6069298,
+        46.7723264
+      ]
+    ]
+  },
+  "id": "way/31622860"
+}

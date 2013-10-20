@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1716220936",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "stop_position"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.559879,
+      46.7701302
+    ]
+  },
+  "id": "node/1716220936"
+}

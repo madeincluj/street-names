@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714186",
+    "area": "yes",
+    "highway": "service",
+    "name": "Piața Karl Liebknecht",
+    "name:de": "Karl-Liebknecht-Platz",
+    "name:en": "Karl Liebknecht Square",
+    "name:hu": "Karl Liebknecht tér",
+    "old_name:hu": "Szentháromság tér"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          23.599513,
+          46.7920001
+        ],
+        [
+          23.5997802,
+          46.7915578
+        ],
+        [
+          23.5992691,
+          46.7914768
+        ],
+        [
+          23.599513,
+          46.7920001
+        ]
+      ]
+    ]
+  },
+  "id": "way/31714186"
+}

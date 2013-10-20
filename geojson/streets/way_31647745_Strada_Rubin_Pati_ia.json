@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647745",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Rubin Patiția",
+    "name:hu": "Rubin Patiția utca",
+    "old_name:hu": "Északi utca",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6037572,
+        46.7722949
+      ],
+      [
+        23.6049185,
+        46.7707467
+      ]
+    ]
+  },
+  "id": "way/31647745"
+}

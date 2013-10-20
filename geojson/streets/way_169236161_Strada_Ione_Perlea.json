@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169236161",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ione Perlea"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6482513,
+        46.7431445
+      ],
+      [
+        23.6493564,
+        46.7450303
+      ],
+      [
+        23.6495894,
+        46.7453404
+      ]
+    ]
+  },
+  "id": "way/169236161"
+}

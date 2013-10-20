@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/46230352",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Detunata"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6244416,
+        46.766577
+      ],
+      [
+        23.6246675,
+        46.7666147
+      ],
+      [
+        23.6247936,
+        46.7666358
+      ],
+      [
+        23.6248966,
+        46.7666299
+      ],
+      [
+        23.6254132,
+        46.7664372
+      ]
+    ]
+  },
+  "id": "way/46230352"
+}

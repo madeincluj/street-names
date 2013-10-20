@@ -1,0 +1,56 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7952766",
+    "bicycle": "yes",
+    "cycleway": "lane",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada General Eremia Grigorescu",
+    "name:hu": "Eremia Grigorescu tábornok utca",
+    "old_name:hu": "Rákóczi út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5661924,
+        46.7732262
+      ],
+      [
+        23.569274,
+        46.7730129
+      ],
+      [
+        23.5707686,
+        46.7729033
+      ],
+      [
+        23.5724066,
+        46.7728617
+      ],
+      [
+        23.5739216,
+        46.7728343
+      ],
+      [
+        23.5744408,
+        46.7727677
+      ],
+      [
+        23.5749859,
+        46.7726462
+      ],
+      [
+        23.5762003,
+        46.7723386
+      ],
+      [
+        23.5773465,
+        46.7719262
+      ]
+    ]
+  },
+  "id": "way/7952766"
+}

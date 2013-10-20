@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31667025",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Straja"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6596803,
+        46.7863051
+      ],
+      [
+        23.6587018,
+        46.7863815
+      ],
+      [
+        23.6575017,
+        46.7864367
+      ],
+      [
+        23.6570616,
+        46.7864597
+      ]
+    ]
+  },
+  "id": "way/31667025"
+}

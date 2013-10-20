@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222350370",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mierlei",
+    "name:ro": "Strada Mierlei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5298423,
+        46.7910788
+      ],
+      [
+        23.5298915,
+        46.791025
+      ],
+      [
+        23.5320557,
+        46.7887897
+      ]
+    ]
+  },
+  "id": "way/222350370"
+}

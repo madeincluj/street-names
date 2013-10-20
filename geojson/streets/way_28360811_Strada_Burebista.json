@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28360811",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Burebista",
+    "name:hu": "Boirebisztasz utca",
+    "old_name:hu": "Varga utca",
+    "oneway": "yes",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5888024,
+        46.7844418
+      ],
+      [
+        23.5897393,
+        46.7833766
+      ],
+      [
+        23.5904002,
+        46.7828359
+      ],
+      [
+        23.5906259,
+        46.7826438
+      ]
+    ]
+  },
+  "id": "way/28360811"
+}

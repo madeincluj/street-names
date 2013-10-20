@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122962222",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Hunedoarei",
+    "name:hu": "Vajdahunyad utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6423947,
+        46.7834505
+      ],
+      [
+        23.6417331,
+        46.78339
+      ],
+      [
+        23.6408748,
+        46.7831784
+      ],
+      [
+        23.6402624,
+        46.7829987
+      ],
+      [
+        23.6401538,
+        46.7829668
+      ],
+      [
+        23.6398706,
+        46.7829433
+      ]
+    ]
+  },
+  "id": "way/122962222"
+}

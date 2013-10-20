@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227225749",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dropiei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5721623,
+        46.7937802
+      ],
+      [
+        23.5732713,
+        46.7922471
+      ]
+    ]
+  },
+  "id": "way/227225749"
+}

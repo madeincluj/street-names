@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647074",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Aron Densușianu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6094903,
+        46.762925
+      ],
+      [
+        23.6095517,
+        46.7629742
+      ],
+      [
+        23.6095517,
+        46.7630683
+      ],
+      [
+        23.6088637,
+        46.7638381
+      ],
+      [
+        23.6079378,
+        46.7648813
+      ],
+      [
+        23.6071313,
+        46.7658669
+      ],
+      [
+        23.6061013,
+        46.7672191
+      ]
+    ]
+  },
+  "id": "way/31647074"
+}

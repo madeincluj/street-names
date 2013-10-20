@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31722443",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cosasilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.613821,
+        46.7880035
+      ],
+      [
+        23.6132802,
+        46.7871631
+      ],
+      [
+        23.6129455,
+        46.7866636
+      ],
+      [
+        23.6124305,
+        46.7860935
+      ],
+      [
+        23.6123447,
+        46.7859289
+      ],
+      [
+        23.6122481,
+        46.7853442
+      ]
+    ]
+  },
+  "id": "way/31722443"
+}

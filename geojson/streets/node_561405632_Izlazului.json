@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/561405632",
+    "highway": "bus_stop",
+    "name": "Izlazului"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5622423,
+      46.7555027
+    ]
+  },
+  "id": "node/561405632"
+}

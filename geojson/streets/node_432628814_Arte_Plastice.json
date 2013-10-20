@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/432628814",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arte Plastice",
+    "operator": "RATUC",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.616846,
+      46.7787489
+    ]
+  },
+  "id": "node/432628814"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50996265",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Diaconul Coresi",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6179389,
+        46.7638227
+      ],
+      [
+        23.617622,
+        46.7647566
+      ]
+    ]
+  },
+  "id": "way/50996265"
+}

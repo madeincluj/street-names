@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647181",
+    "fixme": "resurvey",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dolstolevski",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6047517,
+        46.7686778
+      ],
+      [
+        23.6051142,
+        46.7679363
+      ]
+    ]
+  },
+  "id": "way/31647181"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/227226880",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Perlei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5628545,
+        46.7967589
+      ],
+      [
+        23.5618779,
+        46.7964189
+      ]
+    ]
+  },
+  "id": "way/227226880"
+}

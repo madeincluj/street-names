@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/46018132",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Privelistii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5803821,
+        46.7556242
+      ],
+      [
+        23.580511,
+        46.7551881
+      ],
+      [
+        23.5807778,
+        46.7542607
+      ],
+      [
+        23.5804161,
+        46.7540018
+      ],
+      [
+        23.5790688,
+        46.753685
+      ]
+    ]
+  },
+  "id": "way/46018132"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/30164335",
+    "highway": "primary",
+    "int_ref": "E 60;E 81",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Calea Turzii",
+    "name:hu": "Tordai út",
+    "oneway": "yes",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5913662,
+        46.7382476
+      ],
+      [
+        23.5912889,
+        46.7384086
+      ],
+      [
+        23.5912621,
+        46.7385483
+      ],
+      [
+        23.5912149,
+        46.7388027
+      ]
+    ]
+  },
+  "id": "way/30164335"
+}

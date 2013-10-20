@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579622",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Carpați",
+    "name:hu": "Kárpát utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5814749,
+        46.782866
+      ],
+      [
+        23.5817605,
+        46.7819579
+      ],
+      [
+        23.5819984,
+        46.7812206
+      ],
+      [
+        23.5822346,
+        46.7799437
+      ],
+      [
+        23.5822149,
+        46.7798234
+      ]
+    ]
+  },
+  "id": "way/31579622"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620912",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Caransebeș"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6543159,
+        46.7860817
+      ],
+      [
+        23.6539726,
+        46.7867282
+      ],
+      [
+        23.6539468,
+        46.7869574
+      ],
+      [
+        23.6538095,
+        46.7873512
+      ],
+      [
+        23.6533632,
+        46.7879976
+      ]
+    ]
+  },
+  "id": "way/31620912"
+}

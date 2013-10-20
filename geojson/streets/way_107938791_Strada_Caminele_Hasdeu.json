@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/107938791",
+    "BEARING": "66° 44' 13.6'",
+    "LENGTH": "115.07 m",
+    "highway": "living_street",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Caminele Hasdeu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5745651,
+        46.7629128
+      ],
+      [
+        23.5757011,
+        46.7632518
+      ]
+    ]
+  },
+  "id": "way/107938791"
+}

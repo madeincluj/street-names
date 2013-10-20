@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615194",
+    "highway": "living_street",
+    "is_in:city": "Cluj-Napoca",
+    "name": "Strada Tatra"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5748004,
+        46.7554031
+      ],
+      [
+        23.5756519,
+        46.75591
+      ]
+    ]
+  },
+  "id": "way/26615194"
+}

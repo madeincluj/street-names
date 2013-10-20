@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31713587",
+    "bridge": "yes",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Bulevardul 1 Decembrie 1918",
+    "name:hu": "1918. December 1. sugárút"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5467009,
+        46.7635165
+      ],
+      [
+        23.5469388,
+        46.7637477
+      ],
+      [
+        23.5475333,
+        46.764301
+      ]
+    ]
+  },
+  "id": "way/31713587"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118052551",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Strada Giordano Bruno",
+    "name:hu": "Giordano Bruno utca",
+    "old_name:hu": "Nagyboldogasszony útja",
+    "oneway": "no",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5791433,
+        46.7886916
+      ],
+      [
+        23.57946,
+        46.7884302
+      ],
+      [
+        23.5799753,
+        46.7880496
+      ],
+      [
+        23.5801367,
+        46.787912
+      ]
+    ]
+  },
+  "id": "way/118052551"
+}

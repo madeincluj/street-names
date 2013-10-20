@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/195731310",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ștefan Augustin Doinaș",
+    "oneway": "no"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5905003,
+        46.7494991
+      ],
+      [
+        23.5911923,
+        46.7494768
+      ]
+    ]
+  },
+  "id": "way/195731310"
+}

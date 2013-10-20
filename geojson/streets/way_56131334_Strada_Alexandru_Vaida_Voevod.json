@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/56131334",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Vaida Voevod",
+    "name:hu": "Alexandru Vaida Voevod utca",
+    "old_name:hu": "Szopori út",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6197445,
+        46.7767231
+      ],
+      [
+        23.6203881,
+        46.7751481
+      ],
+      [
+        23.6209383,
+        46.7737207
+      ]
+    ]
+  },
+  "id": "way/56131334"
+}

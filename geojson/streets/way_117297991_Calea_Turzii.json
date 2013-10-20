@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/117297991",
+    "bridge": "yes",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "60",
+    "name": "Calea Turzii",
+    "name:hu": "Tordai út",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5980497,
+        46.7633719
+      ],
+      [
+        23.5980801,
+        46.763475
+      ]
+    ]
+  },
+  "id": "way/117297991"
+}

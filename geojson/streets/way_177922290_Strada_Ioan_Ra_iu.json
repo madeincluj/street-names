@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177922290",
+    "highway": "pedestrian",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ioan Rațiu",
+    "name:hu": "Ioan Rațiu utca",
+    "old_name:hu": "Kötő utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5880697,
+        46.7687798
+      ],
+      [
+        23.5885018,
+        46.7681156
+      ]
+    ]
+  },
+  "id": "way/177922290"
+}

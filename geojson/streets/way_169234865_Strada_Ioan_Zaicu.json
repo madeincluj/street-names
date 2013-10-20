@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234865",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ioan Zaicu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6275527,
+        46.7492038
+      ],
+      [
+        23.6282243,
+        46.7497158
+      ]
+    ]
+  },
+  "id": "way/169234865"
+}

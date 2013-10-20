@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118146073",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lombului",
+    "name:hu": "Lombi utca",
+    "old_name:hu": "Lombi út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5598057,
+        46.7826783
+      ],
+      [
+        23.5594394,
+        46.7832743
+      ],
+      [
+        23.5592815,
+        46.7839726
+      ]
+    ]
+  },
+  "id": "way/118146073"
+}

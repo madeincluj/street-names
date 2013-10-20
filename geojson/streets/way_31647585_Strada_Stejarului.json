@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647585",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Stejarului",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6129626,
+        46.7575613
+      ],
+      [
+        23.6113642,
+        46.7563972
+      ],
+      [
+        23.6102472,
+        46.7555145
+      ]
+    ]
+  },
+  "id": "way/31647585"
+}

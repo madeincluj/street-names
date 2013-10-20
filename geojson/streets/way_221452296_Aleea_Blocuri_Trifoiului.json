@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/221452296",
+    "bicycle": "private",
+    "cycleway": "lane",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Blocuri Trifoiului",
+    "surface": "concrete"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.604759,
+        46.754461
+      ],
+      [
+        23.6067685,
+        46.7549628
+      ]
+    ]
+  },
+  "id": "way/221452296"
+}

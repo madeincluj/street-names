@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26450406",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sunătoarei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5702351,
+        46.7651072
+      ],
+      [
+        23.5703951,
+        46.7648746
+      ],
+      [
+        23.5703672,
+        46.7647594
+      ],
+      [
+        23.5699164,
+        46.7645485
+      ],
+      [
+        23.5694337,
+        46.7642089
+      ],
+      [
+        23.5693625,
+        46.7640542
+      ]
+    ]
+  },
+  "id": "way/26450406"
+}

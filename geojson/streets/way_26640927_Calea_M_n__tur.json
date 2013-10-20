@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26640927",
+    "highway": "primary",
+    "maxspeed": "RO:urban",
+    "name": "Calea Mănăștur",
+    "name:hu": "Monostori út",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5577946,
+        46.7598805
+      ],
+      [
+        23.5582563,
+        46.7600436
+      ],
+      [
+        23.5585285,
+        46.7600993
+      ],
+      [
+        23.5596907,
+        46.7602384
+      ],
+      [
+        23.5605865,
+        46.7604087
+      ]
+    ]
+  },
+  "id": "way/26640927"
+}

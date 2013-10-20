@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/150968420",
+    "highway": "service",
+    "name": "Strada Fântânele"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5470687,
+        46.7655165
+      ],
+      [
+        23.5464626,
+        46.7650277
+      ],
+      [
+        23.5461641,
+        46.76459
+      ]
+    ]
+  },
+  "id": "way/150968420"
+}

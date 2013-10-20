@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/359035125",
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "12",
+    "addr:postcode": "400157",
+    "addr:street": "Strada Someșului"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5936233,
+      46.777951
+    ]
+  },
+  "id": "node/359035125"
+}

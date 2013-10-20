@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579372",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Augustin Bunea",
+    "name:hu": "Augustin Bunea utca",
+    "old_name:hu": "Íjász utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.578902,
+        46.775829
+      ],
+      [
+        23.5755298,
+        46.7760628
+      ]
+    ]
+  },
+  "id": "way/31579372"
+}

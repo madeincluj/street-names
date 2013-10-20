@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31621022",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Brigarerilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6468306,
+        46.7890018
+      ],
+      [
+        23.6471833,
+        46.7872101
+      ],
+      [
+        23.6477151,
+        46.7841715
+      ]
+    ]
+  },
+  "id": "way/31621022"
+}

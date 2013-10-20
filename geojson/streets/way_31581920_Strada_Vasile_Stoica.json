@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31581920",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Stoica",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5862482,
+        46.7491209
+      ],
+      [
+        23.5851398,
+        46.749109
+      ],
+      [
+        23.5842985,
+        46.7490982
+      ],
+      [
+        23.5841866,
+        46.7491278
+      ],
+      [
+        23.5841241,
+        46.7491949
+      ]
+    ]
+  },
+  "id": "way/31581920"
+}

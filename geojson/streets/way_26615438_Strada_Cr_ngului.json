@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615438",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Crângului",
+    "name:hu": "Erdő utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5973911,
+        46.7610121
+      ],
+      [
+        23.5967044,
+        46.7604123
+      ]
+    ]
+  },
+  "id": "way/26615438"
+}

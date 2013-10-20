@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/122960939",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Câmpul Pâinii",
+    "name:hu": "Kenyérmezei utca",
+    "old_name:hu": "Kenyérmezei út"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6271055,
+        46.7846221
+      ],
+      [
+        23.6256621,
+        46.7846876
+      ]
+    ]
+  },
+  "id": "way/122960939"
+}

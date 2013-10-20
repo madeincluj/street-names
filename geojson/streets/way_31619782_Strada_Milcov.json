@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619782",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Milcov"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5643203,
+        46.7716933
+      ],
+      [
+        23.5651364,
+        46.7716997
+      ],
+      [
+        23.5665577,
+        46.7718302
+      ],
+      [
+        23.569222,
+        46.7720933
+      ]
+    ]
+  },
+  "id": "way/31619782"
+}

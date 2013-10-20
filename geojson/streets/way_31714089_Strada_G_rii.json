@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714089",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gării",
+    "name:hu": "Állomás utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5881625,
+        46.7862479
+      ],
+      [
+        23.5884027,
+        46.7864103
+      ],
+      [
+        23.5886122,
+        46.7864877
+      ],
+      [
+        23.5894442,
+        46.7866617
+      ],
+      [
+        23.5901072,
+        46.7868291
+      ],
+      [
+        23.5960724,
+        46.7879046
+      ],
+      [
+        23.5966903,
+        46.7880107
+      ]
+    ]
+  },
+  "id": "way/31714089"
+}

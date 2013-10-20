@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838254",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Grapei",
+    "source": "EEA, Directorate-General Entreprise and Industry"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.567309,
+        46.7663881
+      ],
+      [
+        23.5682133,
+        46.7653815
+      ],
+      [
+        23.5683109,
+        46.7650542
+      ]
+    ]
+  },
+  "id": "way/59838254"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714273",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Românu Nicolae"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6027156,
+        46.7923312
+      ],
+      [
+        23.6029731,
+        46.7919962
+      ],
+      [
+        23.6032478,
+        46.7915966
+      ],
+      [
+        23.6035825,
+        46.7909796
+      ]
+    ]
+  },
+  "id": "way/31714273"
+}

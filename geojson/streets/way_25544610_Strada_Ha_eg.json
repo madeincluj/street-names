@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25544610",
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Strada Hațeg",
+    "name:hu": "Hátszeg utca",
+    "old_name:hu": "Gömbös Gyula utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5602969,
+        46.77221
+      ],
+      [
+        23.560348,
+        46.7719089
+      ],
+      [
+        23.5604559,
+        46.7711277
+      ],
+      [
+        23.560622,
+        46.7702666
+      ],
+      [
+        23.5606352,
+        46.7702012
+      ]
+    ]
+  },
+  "id": "way/25544610"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586079",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mărgăritarelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6188934,
+        46.788029
+      ],
+      [
+        23.62064,
+        46.7850971
+      ]
+    ]
+  },
+  "id": "way/31586079"
+}

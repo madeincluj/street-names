@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25669719",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Bizușa",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6246467,
+        46.7678876
+      ],
+      [
+        23.624544,
+        46.7677101
+      ],
+      [
+        23.6240246,
+        46.7676979
+      ],
+      [
+        23.6238027,
+        46.7676927
+      ],
+      [
+        23.623543,
+        46.7676884
+      ],
+      [
+        23.6233054,
+        46.7676689
+      ],
+      [
+        23.6235715,
+        46.7675061
+      ]
+    ]
+  },
+  "id": "way/25669719"
+}

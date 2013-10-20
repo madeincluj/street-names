@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/118152238",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Agronomilor",
+    "name:hu": "Gazdász utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5522628,
+        46.7569819
+      ],
+      [
+        23.5520443,
+        46.7578932
+      ],
+      [
+        23.5520297,
+        46.7579518
+      ],
+      [
+        23.5517935,
+        46.7589384
+      ]
+    ]
+  },
+  "id": "way/118152238"
+}

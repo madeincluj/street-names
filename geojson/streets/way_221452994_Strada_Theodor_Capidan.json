@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/221452994",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Theodor Capidan",
+    "oneway": "no",
+    "surface": "gravel"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.603681,
+        46.7533559
+      ],
+      [
+        23.6041387,
+        46.751702
+      ]
+    ]
+  },
+  "id": "way/221452994"
+}

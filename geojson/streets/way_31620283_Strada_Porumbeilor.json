@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620283",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Porumbeilor",
+    "name:hu": "Galamb utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5994708,
+        46.7817481
+      ],
+      [
+        23.5975229,
+        46.7813589
+      ],
+      [
+        23.5955196,
+        46.7809777
+      ]
+    ]
+  },
+  "id": "way/31620283"
+}

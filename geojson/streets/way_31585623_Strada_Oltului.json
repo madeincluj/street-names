@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585623",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Oltului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.633074,
+        46.7780117
+      ],
+      [
+        23.6337426,
+        46.7781086
+      ],
+      [
+        23.6339143,
+        46.7776207
+      ],
+      [
+        23.6354941,
+        46.7778338
+      ]
+    ]
+  },
+  "id": "way/31585623"
+}

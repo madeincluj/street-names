@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31666925",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Ionescu de la Bran"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6540927,
+        46.7936273
+      ],
+      [
+        23.6549939,
+        46.7931455
+      ],
+      [
+        23.6554403,
+        46.7927224
+      ],
+      [
+        23.6563072,
+        46.7915001
+      ]
+    ]
+  },
+  "id": "way/31666925"
+}

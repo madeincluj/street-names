@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584337",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Strungarilor",
+    "name:hu": "Esztergályos utca",
+    "old_name:hu": "Katalin utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5638398,
+        46.7836943
+      ],
+      [
+        23.563445,
+        46.7847287
+      ]
+    ]
+  },
+  "id": "way/31584337"
+}

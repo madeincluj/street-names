@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283591",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Luca Caragiale",
+    "name:hu": "Ion Luca Caragiale utca",
+    "old_name:hu": "Kemény Gábor utca",
+    "oneway": "yes",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5856285,
+        46.7839231
+      ],
+      [
+        23.5857825,
+        46.7836705
+      ],
+      [
+        23.58604,
+        46.7833943
+      ],
+      [
+        23.5862943,
+        46.7831149
+      ],
+      [
+        23.5863323,
+        46.7830634
+      ],
+      [
+        23.5867095,
+        46.7829241
+      ],
+      [
+        23.5875138,
+        46.7827084
+      ]
+    ]
+  },
+  "id": "way/24283591"
+}

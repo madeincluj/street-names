@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585213",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Abrudului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6300611,
+        46.7822119
+      ],
+      [
+        23.6299661,
+        46.7827931
+      ],
+      [
+        23.6299317,
+        46.7831869
+      ]
+    ]
+  },
+  "id": "way/31585213"
+}

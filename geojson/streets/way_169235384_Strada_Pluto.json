@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169235384",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pluto"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.632319,
+        46.744806
+      ],
+      [
+        23.6301625,
+        46.7456258
+      ]
+    ]
+  },
+  "id": "way/169235384"
+}

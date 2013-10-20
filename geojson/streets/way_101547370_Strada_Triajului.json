@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/101547370",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Triajului",
+    "name:ro": "Strada Triajului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5157602,
+        46.7969654
+      ],
+      [
+        23.5157362,
+        46.7966287
+      ],
+      [
+        23.5158273,
+        46.796047
+      ],
+      [
+        23.5158958,
+        46.7958786
+      ]
+    ]
+  },
+  "id": "way/101547370"
+}

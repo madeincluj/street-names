@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7976593",
+    "highway": "primary",
+    "name": "Strada Gheorghe Barițiu",
+    "name:hu": "Gheorghe Barițiu utca",
+    "old_name:hu": "Malom utca",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5880522,
+        46.7738043
+      ],
+      [
+        23.5870463,
+        46.7730677
+      ],
+      [
+        23.5870352,
+        46.7730604
+      ],
+      [
+        23.5857907,
+        46.7724138
+      ],
+      [
+        23.5856249,
+        46.7723335
+      ],
+      [
+        23.5843573,
+        46.7717201
+      ]
+    ]
+  },
+  "id": "way/7976593"
+}

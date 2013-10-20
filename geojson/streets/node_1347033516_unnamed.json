@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1347033516",
+    "crossing": "traffic_signals",
+    "highway": "crossing",
+    "traffic_signals:sound": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6117854,
+      46.7778368
+    ]
+  },
+  "id": "node/1347033516"
+}

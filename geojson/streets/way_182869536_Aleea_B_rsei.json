@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/182869536",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Bârsei",
+    "oneway": "yes",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.61099,
+        46.7797208
+      ],
+      [
+        23.6112326,
+        46.7792943
+      ],
+      [
+        23.6114824,
+        46.7793374
+      ]
+    ]
+  },
+  "id": "way/182869536"
+}

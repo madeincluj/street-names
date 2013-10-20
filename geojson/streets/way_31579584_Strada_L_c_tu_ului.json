@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579584",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Lăcătușului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5797542,
+        46.7792513
+      ],
+      [
+        23.5797749,
+        46.7795578
+      ],
+      [
+        23.5798701,
+        46.7802259
+      ]
+    ]
+  },
+  "id": "way/31579584"
+}

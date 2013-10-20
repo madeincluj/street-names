@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283740",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ștefan Luchian",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6018999,
+        46.7529649
+      ],
+      [
+        23.6021252,
+        46.7528914
+      ],
+      [
+        23.6030199,
+        46.7494002
+      ]
+    ]
+  },
+  "id": "way/24283740"
+}

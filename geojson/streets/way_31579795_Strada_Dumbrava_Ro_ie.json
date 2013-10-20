@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579795",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dumbrava Roșie",
+    "name:hu": "Dumbrava Roșie utca",
+    "old_name:hu": "Lévay utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5988417,
+        46.790911
+      ],
+      [
+        23.5968019,
+        46.7907841
+      ],
+      [
+        23.5960466,
+        46.7907254
+      ],
+      [
+        23.594026,
+        46.7905953
+      ]
+    ]
+  },
+  "id": "way/31579795"
+}

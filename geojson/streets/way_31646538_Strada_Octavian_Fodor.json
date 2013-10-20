@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646538",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Octavian Fodor",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6310112,
+        46.7656115
+      ],
+      [
+        23.6304104,
+        46.7654293
+      ],
+      [
+        23.630316,
+        46.7654116
+      ],
+      [
+        23.6302473,
+        46.7654293
+      ],
+      [
+        23.6301271,
+        46.7654704
+      ]
+    ]
+  },
+  "id": "way/31646538"
+}

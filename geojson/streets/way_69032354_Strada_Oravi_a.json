@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/69032354",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Oravița",
+    "name:hu": "Oravicabánya utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.58615,
+        46.7769822
+      ],
+      [
+        23.5861266,
+        46.7776198
+      ]
+    ]
+  },
+  "id": "way/69032354"
+}

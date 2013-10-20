@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/108297381",
+    "KML_FOLDER": "aka1",
+    "highway": "residential",
+    "maxspeed": "RO:urban"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5832715,
+        46.7661013
+      ],
+      [
+        23.5835893,
+        46.7655475
+      ]
+    ]
+  },
+  "id": "way/108297381"
+}

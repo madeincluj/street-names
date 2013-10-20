@@ -1,0 +1,59 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/42461238",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Alexandru Vaida Voevod",
+    "name:hu": "Alexandru Vaida Voevod utca",
+    "old_name:hu": "Szopori út",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6309356,
+        46.7684802
+      ],
+      [
+        23.6309299,
+        46.7685572
+      ],
+      [
+        23.6309242,
+        46.7686034
+      ],
+      [
+        23.6308933,
+        46.7686381
+      ],
+      [
+        23.6308299,
+        46.7686973
+      ],
+      [
+        23.6306749,
+        46.7687337
+      ],
+      [
+        23.6305716,
+        46.7687458
+      ],
+      [
+        23.6303816,
+        46.7687681
+      ],
+      [
+        23.6302413,
+        46.7687762
+      ],
+      [
+        23.6298056,
+        46.7688012
+      ]
+    ]
+  },
+  "id": "way/42461238"
+}

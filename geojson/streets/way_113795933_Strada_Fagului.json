@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/113795933",
+    "highway": "secondary",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fagului",
+    "name:hu": "Bükkfa utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6074805,
+        46.75043
+      ],
+      [
+        23.6083217,
+        46.7506594
+      ],
+      [
+        23.6094375,
+        46.7513415
+      ],
+      [
+        23.6102443,
+        46.7521296
+      ],
+      [
+        23.6115832,
+        46.7538526
+      ],
+      [
+        23.6117988,
+        46.7541235
+      ]
+    ]
+  },
+  "id": "way/113795933"
+}

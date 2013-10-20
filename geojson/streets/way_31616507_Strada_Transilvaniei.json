@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31616507",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Transilvaniei",
+    "name:hu": "Erdély utca",
+    "old_name:hu": "Déva utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5655387,
+        46.7865627
+      ],
+      [
+        23.5678294,
+        46.7869655
+      ],
+      [
+        23.5710258,
+        46.7875275
+      ]
+    ]
+  },
+  "id": "way/31616507"
+}

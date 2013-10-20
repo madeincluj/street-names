@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579737",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Brândușelor",
+    "name:hu": "Sáfrány utca",
+    "old_name:hu": "Ősz utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5901072,
+        46.7868291
+      ],
+      [
+        23.5896602,
+        46.7878655
+      ]
+    ]
+  },
+  "id": "way/31579737"
+}

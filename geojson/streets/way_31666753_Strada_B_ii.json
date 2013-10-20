@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31666753",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Băii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6468381,
+        46.7815919
+      ],
+      [
+        23.6469654,
+        46.7818818
+      ],
+      [
+        23.6468461,
+        46.7841519
+      ]
+    ]
+  },
+  "id": "way/31666753"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7935013",
+    "bridge": "yes",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Podul Garibaldi",
+    "name:de": "Garibaldi-Brücke",
+    "name:en": "Garibaldi Bridge",
+    "name:hu": "Garibaldi híd"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5690865,
+        46.7674031
+      ],
+      [
+        23.5688988,
+        46.767617
+      ],
+      [
+        23.5686188,
+        46.7679357
+      ],
+      [
+        23.5685131,
+        46.7680421
+      ]
+    ]
+  },
+  "id": "way/7935013"
+}

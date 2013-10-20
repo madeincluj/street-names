@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/171984081",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Meșterul Manole"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6420253,
+        46.7794311
+      ],
+      [
+        23.6418965,
+        46.7798425
+      ],
+      [
+        23.641624,
+        46.7803348
+      ],
+      [
+        23.6412012,
+        46.7810986
+      ],
+      [
+        23.6409009,
+        46.7816411
+      ],
+      [
+        23.6407181,
+        46.7819289
+      ]
+    ]
+  },
+  "id": "way/171984081"
+}

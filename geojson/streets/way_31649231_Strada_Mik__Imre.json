@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31649231",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mikó Imre",
+    "name:hu": "Mikó Imre utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.58895,
+        46.7485579
+      ],
+      [
+        23.5895057,
+        46.7485264
+      ],
+      [
+        23.5910904,
+        46.7484366
+      ],
+      [
+        23.5933011,
+        46.7483037
+      ]
+    ]
+  },
+  "id": "way/31649231"
+}

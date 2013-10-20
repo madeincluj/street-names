@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/55557522",
+    "highway": "primary",
+    "history": "Retrieved from v23",
+    "int_ref": "E576",
+    "is_in:city": "Cluj-Napoca",
+    "lanes": "4",
+    "name": "Strada Traian Vuia",
+    "ref": "DN17"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6440081,
+        46.7837212
+      ],
+      [
+        23.6439003,
+        46.7836932
+      ]
+    ]
+  },
+  "id": "way/55557522"
+}

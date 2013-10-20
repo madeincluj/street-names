@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31585994",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Margautului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6231077,
+        46.7909262
+      ],
+      [
+        23.6218632,
+        46.7905149
+      ],
+      [
+        23.6217859,
+        46.7904561
+      ],
+      [
+        23.6216915,
+        46.7903503
+      ],
+      [
+        23.6215542,
+        46.7901505
+      ]
+    ]
+  },
+  "id": "way/31585994"
+}

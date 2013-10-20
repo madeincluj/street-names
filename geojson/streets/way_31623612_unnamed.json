@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623612",
+    "highway": "service",
+    "maxspeed": "RO:urban",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6169135,
+        46.7700813
+      ],
+      [
+        23.6169132,
+        46.7694372
+      ],
+      [
+        23.6157178,
+        46.7694725
+      ]
+    ]
+  },
+  "id": "way/31623612"
+}

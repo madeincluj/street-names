@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/242179596",
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "service",
+    "motor_vehicle": "yes",
+    "surface": "gravel"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5835349,
+        46.7878837
+      ],
+      [
+        23.5833789,
+        46.7883575
+      ]
+    ]
+  },
+  "id": "way/242179596"
+}

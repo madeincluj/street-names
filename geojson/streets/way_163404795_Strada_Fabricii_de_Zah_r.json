@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/163404795",
+    "bridge": "yes",
+    "highway": "footway",
+    "name": "Strada Fabricii de Zahăr"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6280856,
+        46.7916289
+      ],
+      [
+        23.6279144,
+        46.7906656
+      ]
+    ]
+  },
+  "id": "way/163404795"
+}

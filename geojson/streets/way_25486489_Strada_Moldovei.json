@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25486489",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Moldovei",
+    "name:hu": "Moldva utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5743986,
+        46.7643639
+      ],
+      [
+        23.5721614,
+        46.7649889
+      ]
+    ]
+  },
+  "id": "way/25486489"
+}

@@ -1,0 +1,55 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646743",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gheorghe Doja",
+    "name:hu": "Dózsa György utca",
+    "old_name:hu": "Katona József utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.603718,
+        46.7586182
+      ],
+      [
+        23.6025205,
+        46.7588152
+      ],
+      [
+        23.6019557,
+        46.7589226
+      ],
+      [
+        23.6017267,
+        46.7589875
+      ],
+      [
+        23.6012546,
+        46.759226
+      ],
+      [
+        23.5999974,
+        46.7599155
+      ],
+      [
+        23.5982344,
+        46.7608878
+      ],
+      [
+        23.598011,
+        46.7610154
+      ],
+      [
+        23.5978357,
+        46.7612086
+      ]
+    ]
+  },
+  "id": "way/31646743"
+}

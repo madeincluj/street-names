@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/188148194",
+    "bridge": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "layer": "1",
+    "maxspeed": "RO:urban",
+    "name": "Strada Fabricii de Chibrituri",
+    "name:hu": "Gyufagyár utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5880049,
+        46.7882115
+      ],
+      [
+        23.5878385,
+        46.7885203
+      ]
+    ]
+  },
+  "id": "way/188148194"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169267673",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Nicolae Steinhardt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5849261,
+        46.7441662
+      ],
+      [
+        23.585104,
+        46.7441837
+      ],
+      [
+        23.5877701,
+        46.7441138
+      ]
+    ]
+  },
+  "id": "way/169267673"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/113800771",
+    "foot": "yes",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Silviu Dragomir",
+    "name:hu": "Silviu Dragomir utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5955671,
+        46.7626037
+      ],
+      [
+        23.5969555,
+        46.7620098
+      ],
+      [
+        23.597431,
+        46.761975
+      ],
+      [
+        23.5976943,
+        46.7619505
+      ]
+    ]
+  },
+  "id": "way/113800771"
+}

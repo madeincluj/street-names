@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283927",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Progresului",
+    "name:hu": "Haladás utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6183426,
+        46.7774176
+      ],
+      [
+        23.6188569,
+        46.7761775
+      ]
+    ]
+  },
+  "id": "way/24283927"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31617347",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Câmpului",
+    "name:hu": "Mező utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5641185,
+        46.7552697
+      ],
+      [
+        23.5642348,
+        46.7554411
+      ]
+    ]
+  },
+  "id": "way/31617347"
+}

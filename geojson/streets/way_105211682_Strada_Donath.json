@@ -1,0 +1,31 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/105211682",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Donath"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5439134,
+        46.7652384
+      ],
+      [
+        23.5439418,
+        46.7651785
+      ],
+      [
+        23.5439802,
+        46.7651384
+      ],
+      [
+        23.5440524,
+        46.7650622
+      ]
+    ]
+  },
+  "id": "way/105211682"
+}

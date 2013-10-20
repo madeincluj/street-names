@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283869",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Baladei",
+    "name:hu": "Ballada utca",
+    "old_name:hu": "Helsinki utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6127858,
+        46.7743796
+      ],
+      [
+        23.612894,
+        46.7743163
+      ],
+      [
+        23.6163602,
+        46.7746934
+      ]
+    ]
+  },
+  "id": "way/24283869"
+}

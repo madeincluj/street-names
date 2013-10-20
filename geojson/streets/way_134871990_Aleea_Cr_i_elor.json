@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/134871990",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Crăițelor",
+    "surface": "unpaved"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6334874,
+        46.7518524
+      ],
+      [
+        23.634266,
+        46.7525884
+      ]
+    ]
+  },
+  "id": "way/134871990"
+}

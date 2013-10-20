@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/154212423",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Brâncoveanu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.617622,
+        46.7647566
+      ],
+      [
+        23.6190424,
+        46.7649799
+      ],
+      [
+        23.620193,
+        46.7651542
+      ]
+    ]
+  },
+  "id": "way/154212423"
+}

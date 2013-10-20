@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31622869",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Anghel Saligny",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6099162,
+        46.7750016
+      ],
+      [
+        23.6088948,
+        46.7763241
+      ],
+      [
+        23.6083112,
+        46.7769393
+      ]
+    ]
+  },
+  "id": "way/31622869"
+}

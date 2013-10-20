@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619895",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Șesului",
+    "name:hu": "Síkság utca",
+    "old_name:hu": "Diófa utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5592642,
+        46.7627747
+      ],
+      [
+        23.559326,
+        46.7622912
+      ],
+      [
+        23.5593947,
+        46.7620149
+      ],
+      [
+        23.5597551,
+        46.7619267
+      ]
+    ]
+  },
+  "id": "way/31619895"
+}

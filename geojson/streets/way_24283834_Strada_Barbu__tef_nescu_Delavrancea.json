@@ -1,0 +1,44 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283834",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Barbu Ștefănescu Delavrancea"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6058333,
+        46.7617861
+      ],
+      [
+        23.605923,
+        46.7619099
+      ],
+      [
+        23.60599,
+        46.7620099
+      ],
+      [
+        23.6060778,
+        46.7622731
+      ],
+      [
+        23.6062835,
+        46.7630657
+      ],
+      [
+        23.6065372,
+        46.7637887
+      ],
+      [
+        23.6068368,
+        46.7644836
+      ]
+    ]
+  },
+  "id": "way/24283834"
+}

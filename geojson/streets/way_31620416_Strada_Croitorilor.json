@@ -1,0 +1,55 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620416",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Croitorilor",
+    "name:hu": "Szabók utcája",
+    "old_name:hu": "Mikes Kelemen utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5921963,
+        46.77451
+      ],
+      [
+        23.5922031,
+        46.7746009
+      ],
+      [
+        23.5922099,
+        46.7747169
+      ],
+      [
+        23.5922528,
+        46.7748991
+      ],
+      [
+        23.5923644,
+        46.7750931
+      ],
+      [
+        23.5927163,
+        46.7755692
+      ],
+      [
+        23.5930425,
+        46.7758337
+      ],
+      [
+        23.5932227,
+        46.7760101
+      ],
+      [
+        23.593549,
+        46.7766935
+      ]
+    ]
+  },
+  "id": "way/31620416"
+}

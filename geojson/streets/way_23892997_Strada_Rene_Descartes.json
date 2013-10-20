@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23892997",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Rene Descartes",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5883403,
+        46.7565402
+      ],
+      [
+        23.5900612,
+        46.7568133
+      ],
+      [
+        23.5910107,
+        46.7569529
+      ],
+      [
+        23.593855,
+        46.7573579
+      ]
+    ]
+  },
+  "id": "way/23892997"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579447",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Baia Mare",
+    "name:hu": "Nagybánya utca",
+    "old_name:hu": "Batthyány utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5819587,
+        46.7772572
+      ],
+      [
+        23.5773288,
+        46.7775755
+      ],
+      [
+        23.577224,
+        46.7775956
+      ],
+      [
+        23.5769875,
+        46.7777056
+      ]
+    ]
+  },
+  "id": "way/31579447"
+}

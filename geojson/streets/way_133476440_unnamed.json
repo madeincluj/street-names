@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/133476440",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "living_street"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5560321,
+        46.7701918
+      ],
+      [
+        23.5559355,
+        46.7706052
+      ],
+      [
+        23.5563906,
+        46.7706573
+      ]
+    ]
+  },
+  "id": "way/133476440"
+}

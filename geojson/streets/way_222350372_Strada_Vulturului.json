@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/222350372",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vulturului",
+    "name:ro": "Strada Vulturului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5288042,
+        46.7928067
+      ],
+      [
+        23.5301694,
+        46.7916443
+      ],
+      [
+        23.5304128,
+        46.7914333
+      ]
+    ]
+  },
+  "id": "way/222350372"
+}

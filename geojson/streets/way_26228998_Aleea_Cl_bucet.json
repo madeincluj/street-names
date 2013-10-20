@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26228998",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Clăbucet",
+    "name:hu": "Clăbucet sétány"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5474007,
+        46.752458
+      ],
+      [
+        23.5471439,
+        46.7519414
+      ],
+      [
+        23.5459793,
+        46.7514855
+      ],
+      [
+        23.545737,
+        46.7512285
+      ],
+      [
+        23.5455567,
+        46.7508925
+      ],
+      [
+        23.5434322,
+        46.7501934
+      ]
+    ]
+  },
+  "id": "way/26228998"
+}

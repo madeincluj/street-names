@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169234859",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Turfanelelor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6314714,
+        46.7487318
+      ],
+      [
+        23.6298192,
+        46.749489
+      ]
+    ]
+  },
+  "id": "way/169234859"
+}

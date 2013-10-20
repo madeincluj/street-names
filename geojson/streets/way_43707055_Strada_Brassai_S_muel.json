@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43707055",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Brassai Sámuel",
+    "name:hu": "Brassai Sámuel utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5926634,
+        46.7726103
+      ],
+      [
+        23.5943273,
+        46.7730658
+      ],
+      [
+        23.5944053,
+        46.7732077
+      ]
+    ]
+  },
+  "id": "way/43707055"
+}

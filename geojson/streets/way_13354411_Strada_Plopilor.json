@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13354411",
+    "highway": "primary",
+    "name": "Strada Plopilor",
+    "name:hu": "Nyárfasor utca",
+    "oneway": "yes",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.557665,
+        46.7605683
+      ],
+      [
+        23.5573782,
+        46.7606824
+      ],
+      [
+        23.5571293,
+        46.7607823
+      ],
+      [
+        23.5569919,
+        46.7608411
+      ],
+      [
+        23.5566563,
+        46.7610295
+      ]
+    ]
+  },
+  "id": "way/13354411"
+}

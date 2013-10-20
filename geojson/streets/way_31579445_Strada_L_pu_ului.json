@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579445",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Lăpușului",
+    "name:hu": "Lápos utca",
+    "old_name:hu": "Bezerédi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5818218,
+        46.7780489
+      ],
+      [
+        23.5785395,
+        46.7782908
+      ],
+      [
+        23.5782777,
+        46.7784129
+      ]
+    ]
+  },
+  "id": "way/31579445"
+}

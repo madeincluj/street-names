@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24663555",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dimitrie Bolintineanu",
+    "name:hu": "Dimitrie Bolintineanu utca",
+    "old_name:hu": "Kölcsey utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6023158,
+        46.7640612
+      ],
+      [
+        23.6002899,
+        46.762497
+      ],
+      [
+        23.5993728,
+        46.7617972
+      ],
+      [
+        23.5982344,
+        46.7608878
+      ]
+    ]
+  },
+  "id": "way/24663555"
+}

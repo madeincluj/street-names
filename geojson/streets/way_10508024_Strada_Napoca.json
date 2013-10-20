@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/10508024",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "50",
+    "name": "Strada Napoca",
+    "name:hu": "Napoca utca",
+    "old_name:hu": "Jókai utca",
+    "oneway": "yes",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5866962,
+        46.7674185
+      ],
+      [
+        23.587186,
+        46.7675916
+      ],
+      [
+        23.5883644,
+        46.7680574
+      ],
+      [
+        23.5885018,
+        46.7681156
+      ],
+      [
+        23.5898365,
+        46.7686946
+      ]
+    ]
+  },
+  "id": "way/10508024"
+}

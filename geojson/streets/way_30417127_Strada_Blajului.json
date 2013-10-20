@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/30417127",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Blajului",
+    "name:hu": "Balázsfalvi utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6425742,
+        46.7887851
+      ],
+      [
+        23.6425498,
+        46.786734
+      ],
+      [
+        23.6423947,
+        46.7834505
+      ]
+    ]
+  },
+  "id": "way/30417127"
+}

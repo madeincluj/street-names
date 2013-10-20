@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/543644674",
+    "name": "Horea",
+    "name:hu": "Horea utca",
+    "public_transport": "stop_position",
+    "railway": "tram_stop",
+    "tram": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5871998,
+      46.7779968
+    ]
+  },
+  "id": "node/543644674"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/166208216",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Grădinarilor",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6150921,
+        46.7826775
+      ],
+      [
+        23.6149058,
+        46.7826718
+      ],
+      [
+        23.6148076,
+        46.7826783
+      ],
+      [
+        23.6130288,
+        46.7827151
+      ]
+    ]
+  },
+  "id": "way/166208216"
+}

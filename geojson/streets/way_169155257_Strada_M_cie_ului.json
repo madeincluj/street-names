@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169155257",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Măcieșului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6031865,
+        46.7434262
+      ],
+      [
+        23.6058104,
+        46.743178
+      ]
+    ]
+  },
+  "id": "way/169155257"
+}

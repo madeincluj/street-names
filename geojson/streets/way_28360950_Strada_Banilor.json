@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28360950",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Banilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6160611,
+        46.7826262
+      ],
+      [
+        23.6163982,
+        46.7822864
+      ],
+      [
+        23.6171179,
+        46.7815608
+      ]
+    ]
+  },
+  "id": "way/28360950"
+}

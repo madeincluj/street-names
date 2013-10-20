@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/43707627",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Victor Deleu",
+    "name:hu": "Victor Deleu utca",
+    "old_name:hu": "Ferencrendiek utcája"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5876559,
+        46.7719574
+      ],
+      [
+        23.5875813,
+        46.7722819
+      ],
+      [
+        23.5874934,
+        46.7725151
+      ]
+    ]
+  },
+  "id": "way/43707627"
+}

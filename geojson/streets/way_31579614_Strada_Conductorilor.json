@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579614",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Conductorilor",
+    "name:hu": "Kalauz utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5838648,
+        46.7811483
+      ],
+      [
+        23.5820734,
+        46.7812222
+      ],
+      [
+        23.5819984,
+        46.7812206
+      ],
+      [
+        23.5817472,
+        46.7812104
+      ],
+      [
+        23.5798644,
+        46.7810057
+      ]
+    ]
+  },
+  "id": "way/31579614"
+}

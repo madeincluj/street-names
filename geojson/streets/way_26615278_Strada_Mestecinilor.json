@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615278",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mestecinilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5837568,
+        46.7584991
+      ],
+      [
+        23.5830499,
+        46.7587843
+      ],
+      [
+        23.582654,
+        46.758828
+      ],
+      [
+        23.5822678,
+        46.758775
+      ],
+      [
+        23.5812893,
+        46.7584164
+      ]
+    ]
+  },
+  "id": "way/26615278"
+}

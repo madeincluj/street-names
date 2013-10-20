@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223812806",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Iasomiei"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5253112,
+        46.7929116
+      ],
+      [
+        23.5260298,
+        46.7932968
+      ]
+    ]
+  },
+  "id": "way/223812806"
+}

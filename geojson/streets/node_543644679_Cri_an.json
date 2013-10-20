@@ -1,0 +1,19 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/543644679",
+    "name": "Crișan",
+    "name:hu": "Crișan utca",
+    "public_transport": "stop_position",
+    "railway": "tram_stop",
+    "tram": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5871453,
+      46.7771153
+    ]
+  },
+  "id": "node/543644679"
+}

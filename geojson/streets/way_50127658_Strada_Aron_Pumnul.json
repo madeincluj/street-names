@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/50127658",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Aron Pumnul",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6186582,
+        46.7574252
+      ],
+      [
+        23.6175918,
+        46.7565877
+      ],
+      [
+        23.6170819,
+        46.7562002
+      ]
+    ]
+  },
+  "id": "way/50127658"
+}

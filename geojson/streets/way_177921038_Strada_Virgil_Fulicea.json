@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177921038",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Virgil Fulicea",
+    "name:hu": "Virgil Fulicea utca",
+    "old_name:hu": "Szentlélek utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5851191,
+        46.7701176
+      ],
+      [
+        23.5852943,
+        46.7701296
+      ],
+      [
+        23.5854969,
+        46.770157
+      ],
+      [
+        23.5857235,
+        46.7701917
+      ],
+      [
+        23.5860193,
+        46.7703085
+      ]
+    ]
+  },
+  "id": "way/177921038"
+}

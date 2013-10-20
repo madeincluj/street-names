@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1693837261",
+    "bus": "yes",
+    "bus_lines": "31,31b",
+    "highway": "bus_stop",
+    "name": "Piața Gării",
+    "name:hu": "Állomás tér",
+    "public_transport": "stop_position"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.5875633,
+      46.7838797
+    ]
+  },
+  "id": "node/1693837261"
+}

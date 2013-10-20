@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623158",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Musat"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6142083,
+        46.7808496
+      ],
+      [
+        23.6143714,
+        46.7808555
+      ],
+      [
+        23.6146374,
+        46.7808261
+      ],
+      [
+        23.615253,
+        46.7806605
+      ],
+      [
+        23.6156605,
+        46.7805509
+      ]
+    ]
+  },
+  "id": "way/31623158"
+}

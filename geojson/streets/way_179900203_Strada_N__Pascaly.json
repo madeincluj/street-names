@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/179900203",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada N. Pascaly"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6183071,
+        46.7713036
+      ],
+      [
+        23.6182588,
+        46.7715002
+      ]
+    ]
+  },
+  "id": "way/179900203"
+}

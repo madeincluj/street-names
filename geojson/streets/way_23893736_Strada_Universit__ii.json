@@ -1,0 +1,42 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893736",
+    "highway": "secondary",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Universității",
+    "name:hu": "Egyetem utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5902425,
+        46.7662911
+      ],
+      [
+        23.590213,
+        46.7667164
+      ],
+      [
+        23.5902081,
+        46.767257
+      ],
+      [
+        23.5901605,
+        46.7676587
+      ],
+      [
+        23.5901409,
+        46.7678916
+      ],
+      [
+        23.5898365,
+        46.7686946
+      ]
+    ]
+  },
+  "id": "way/23893736"
+}

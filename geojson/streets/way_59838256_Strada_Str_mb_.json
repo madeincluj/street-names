@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/59838256",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Strâmbă",
+    "source": "EEA, Directorate-General Entreprise and Industry"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5687685,
+        46.766598
+      ],
+      [
+        23.5692951,
+        46.7660349
+      ],
+      [
+        23.5693786,
+        46.7657841
+      ],
+      [
+        23.5695006,
+        46.7655993
+      ],
+      [
+        23.5696548,
+        46.7654366
+      ],
+      [
+        23.5697897,
+        46.7652122
+      ],
+      [
+        23.5698154,
+        46.7651028
+      ]
+    ]
+  },
+  "id": "way/59838256"
+}

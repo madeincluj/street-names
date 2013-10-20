@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31579629",
+    "highway": "residential",
+    "incline": "19%",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Buhuși"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.574804,
+        46.780361
+      ],
+      [
+        23.5747263,
+        46.7805815
+      ],
+      [
+        23.5746662,
+        46.7806521
+      ],
+      [
+        23.5736277,
+        46.7814455
+      ],
+      [
+        23.5735418,
+        46.7814867
+      ]
+    ]
+  },
+  "id": "way/31579629"
+}

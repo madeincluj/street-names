@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283928",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Episcop Nicolae Ivan",
+    "name:hu": "Nicolae Ivan püspök utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.614434,
+        46.7759395
+      ],
+      [
+        23.6139411,
+        46.7754218
+      ],
+      [
+        23.6137803,
+        46.7752686
+      ],
+      [
+        23.6127858,
+        46.7743796
+      ]
+    ]
+  },
+  "id": "way/24283928"
+}

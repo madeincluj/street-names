@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26598858",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Învățătorului",
+    "name:hu": "Tanítók Háza utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5976556,
+        46.7687707
+      ],
+      [
+        23.5987954,
+        46.7691386
+      ]
+    ]
+  },
+  "id": "way/26598858"
+}

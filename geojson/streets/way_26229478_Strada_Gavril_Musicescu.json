@@ -1,0 +1,45 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229478",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Gavril Musicescu",
+    "name:hu": "Gavril Musicescu utca",
+    "old_name:hu": "Turul utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5685131,
+        46.7680421
+      ],
+      [
+        23.5687503,
+        46.7681573
+      ],
+      [
+        23.5694693,
+        46.7683554
+      ],
+      [
+        23.5698391,
+        46.7686421
+      ],
+      [
+        23.5699669,
+        46.7687412
+      ],
+      [
+        23.5711174,
+        46.7698052
+      ],
+      [
+        23.5716684,
+        46.77004
+      ]
+    ]
+  },
+  "id": "way/26229478"
+}

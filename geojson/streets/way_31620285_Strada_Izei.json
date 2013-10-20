@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620285",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Izei",
+    "name:hu": "Izei utca",
+    "old_name:hu": "Tiborc utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5975229,
+        46.7813589
+      ],
+      [
+        23.5976945,
+        46.7808593
+      ],
+      [
+        23.5978052,
+        46.7801943
+      ]
+    ]
+  },
+  "id": "way/31620285"
+}

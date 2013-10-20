@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893151",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cireșilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5881644,
+        46.7574697
+      ],
+      [
+        23.5866099,
+        46.7569762
+      ],
+      [
+        23.5863817,
+        46.7569013
+      ],
+      [
+        23.58618,
+        46.7568531
+      ],
+      [
+        23.5859864,
+        46.7568427
+      ],
+      [
+        23.5853305,
+        46.7568725
+      ]
+    ]
+  },
+  "id": "way/23893151"
+}

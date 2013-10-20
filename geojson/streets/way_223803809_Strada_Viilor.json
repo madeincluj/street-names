@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/223803809",
+    "highway": "residential",
+    "is_in": "Baciu, Cluj-Napoca, Romania",
+    "maxspeed": "RO:urban",
+    "name": "Strada Viilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5229315,
+        46.7979606
+      ],
+      [
+        23.5231946,
+        46.7980095
+      ]
+    ]
+  },
+  "id": "way/223803809"
+}

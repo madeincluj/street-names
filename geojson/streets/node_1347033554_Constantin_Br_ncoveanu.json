@@ -1,0 +1,20 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1347033554",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Constantin Brâncoveanu",
+    "name:hu": "Constantin Brâncoveanu utca",
+    "operator": "RATUC",
+    "public_transport": "stop_position"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.608511,
+      46.7634955
+    ]
+  },
+  "id": "node/1347033554"
+}

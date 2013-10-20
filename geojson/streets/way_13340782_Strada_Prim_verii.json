@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/13340782",
+    "highway": "primary",
+    "name": "Strada Primăverii",
+    "name:hu": "Tavasz utca",
+    "old_name:hu": "Kalányos utca",
+    "oneway": "yes",
+    "railway": "tram"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5566948,
+        46.7556719
+      ],
+      [
+        23.5563964,
+        46.75605
+      ]
+    ]
+  },
+  "id": "way/13340782"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/58436063",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Rucăr",
+    "name:hu": "Rukkor sétány"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5550015,
+        46.756675
+      ],
+      [
+        23.555939,
+        46.7568676
+      ],
+      [
+        23.5564877,
+        46.756732
+      ]
+    ]
+  },
+  "id": "way/58436063"
+}

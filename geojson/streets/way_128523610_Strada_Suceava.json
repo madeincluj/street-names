@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/128523610",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Suceava",
+    "name:hu": "Szucsáva utca",
+    "old_name:hu": "Budapesti utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5783807,
+        46.7816867
+      ],
+      [
+        23.5773435,
+        46.7816574
+      ],
+      [
+        23.576143,
+        46.7816035
+      ],
+      [
+        23.5735418,
+        46.7814867
+      ],
+      [
+        23.5712139,
+        46.7813752
+      ]
+    ]
+  },
+  "id": "way/128523610"
+}

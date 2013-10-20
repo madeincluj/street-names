@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/25199537",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Anatole France"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6021746,
+        46.7667321
+      ],
+      [
+        23.6024458,
+        46.7664455
+      ],
+      [
+        23.6028716,
+        46.7660642
+      ],
+      [
+        23.6033847,
+        46.7657336
+      ],
+      [
+        23.60506,
+        46.7646662
+      ],
+      [
+        23.6065372,
+        46.7637887
+      ]
+    ]
+  },
+  "id": "way/25199537"
+}

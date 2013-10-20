@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/48171461",
+    "bridge": "yes",
+    "highway": "trunk_link",
+    "note": "GPS missing"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6617463,
+        46.7274914
+      ],
+      [
+        23.6619381,
+        46.7276714
+      ]
+    ]
+  },
+  "id": "way/48171461"
+}

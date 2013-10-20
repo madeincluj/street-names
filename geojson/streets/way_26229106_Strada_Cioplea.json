@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229106",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Cioplea"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5619068,
+        46.7510088
+      ],
+      [
+        23.5638828,
+        46.7508682
+      ],
+      [
+        23.5638262,
+        46.7516921
+      ],
+      [
+        23.5627924,
+        46.7517367
+      ]
+    ]
+  },
+  "id": "way/26229106"
+}

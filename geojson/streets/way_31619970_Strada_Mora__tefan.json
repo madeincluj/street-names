@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619970",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Mora Ștefan",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5553395,
+        46.7696627
+      ],
+      [
+        23.555272,
+        46.7699422
+      ],
+      [
+        23.5551347,
+        46.770511
+      ],
+      [
+        23.5550999,
+        46.7706062
+      ],
+      [
+        23.5549915,
+        46.771104
+      ],
+      [
+        23.5562439,
+        46.7712401
+      ]
+    ]
+  },
+  "id": "way/31619970"
+}

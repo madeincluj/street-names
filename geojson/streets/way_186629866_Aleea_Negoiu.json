@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/186629866",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Negoiu",
+    "oneway": "yes",
+    "sidewalk": "both"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5573044,
+        46.7495607
+      ],
+      [
+        23.5586182,
+        46.7496079
+      ],
+      [
+        23.5617247,
+        46.7497194
+      ]
+    ]
+  },
+  "id": "way/186629866"
+}

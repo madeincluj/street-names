@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24283483",
+    "fixme": "add bridge",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sindicatelor",
+    "name:hu": "Szakszervezetek utca",
+    "old_name:hu": "Patak utca",
+    "oneway": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5831365,
+        46.7696473
+      ],
+      [
+        23.5838011,
+        46.7697477
+      ],
+      [
+        23.5842894,
+        46.7698154
+      ],
+      [
+        23.5848125,
+        46.7697579
+      ],
+      [
+        23.5852901,
+        46.7695049
+      ]
+    ]
+  },
+  "id": "way/24283483"
+}

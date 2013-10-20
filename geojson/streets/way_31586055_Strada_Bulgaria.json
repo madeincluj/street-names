@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31586055",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Bulgaria"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.620262,
+        46.7885207
+      ],
+      [
+        23.6202324,
+        46.7884228
+      ],
+      [
+        23.6202067,
+        46.7883405
+      ],
+      [
+        23.6202662,
+        46.7882359
+      ]
+    ]
+  },
+  "id": "way/31586055"
+}

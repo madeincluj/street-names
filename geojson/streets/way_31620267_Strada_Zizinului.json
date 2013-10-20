@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620267",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Zizinului"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6010677,
+        46.7843211
+      ],
+      [
+        23.6011631,
+        46.7855172
+      ]
+    ]
+  },
+  "id": "way/31620267"
+}

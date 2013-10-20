@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646993",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Plaiuri",
+    "name:hu": "Tordahagymás utca",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5993893,
+        46.7558066
+      ],
+      [
+        23.5993722,
+        46.7557125
+      ],
+      [
+        23.5994151,
+        46.7556654
+      ],
+      [
+        23.5994923,
+        46.7556537
+      ],
+      [
+        23.6025221,
+        46.7555361
+      ],
+      [
+        23.6026509,
+        46.7555596
+      ],
+      [
+        23.6027711,
+        46.7556243
+      ]
+    ]
+  },
+  "id": "way/31646993"
+}

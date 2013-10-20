@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31619872",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Pandurilor",
+    "name:hu": "Pandúr utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5640446,
+        46.7642459
+      ],
+      [
+        23.5634888,
+        46.7649076
+      ],
+      [
+        23.5627759,
+        46.7665173
+      ]
+    ]
+  },
+  "id": "way/31619872"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/28464061",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Strada Barbu Pariciu",
+    "name:hu": "Barbu Pariciu utca",
+    "old_name:hu": "Csaba utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5969735,
+        46.7844974
+      ],
+      [
+        23.5974238,
+        46.7844788
+      ],
+      [
+        23.5979896,
+        46.7844555
+      ],
+      [
+        23.5985278,
+        46.7844286
+      ],
+      [
+        23.5998744,
+        46.7843716
+      ],
+      [
+        23.6010677,
+        46.7843211
+      ],
+      [
+        23.6019281,
+        46.7842722
+      ],
+      [
+        23.6022603,
+        46.7842487
+      ]
+    ]
+  },
+  "id": "way/28464061"
+}

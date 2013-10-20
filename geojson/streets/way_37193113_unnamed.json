@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/37193113",
+    "highway": "primary",
+    "int_ref": "E 60; E 81",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "100",
+    "oneway": "yes",
+    "ref": "DN1"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.532717,
+        46.754116
+      ],
+      [
+        23.5338923,
+        46.7547794
+      ],
+      [
+        23.534262,
+        46.754936
+      ],
+      [
+        23.5346936,
+        46.7550898
+      ]
+    ]
+  },
+  "id": "way/37193113"
+}

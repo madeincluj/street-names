@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/169147445",
+    "bicycle": "yes",
+    "cycleway": "no",
+    "foot": "yes",
+    "highway": "service",
+    "oneway": "no",
+    "service": "parking_aisle",
+    "sidewalk": "none",
+    "surface": "paving_stones"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.594841,
+        46.7436017
+      ],
+      [
+        23.5950433,
+        46.7440769
+      ]
+    ]
+  },
+  "id": "way/169147445"
+}

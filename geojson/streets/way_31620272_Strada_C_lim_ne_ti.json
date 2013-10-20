@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31620272",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "30",
+    "name": "Strada Călimănești"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5998744,
+        46.7843716
+      ],
+      [
+        23.5999613,
+        46.7855808
+      ]
+    ]
+  },
+  "id": "way/31620272"
+}

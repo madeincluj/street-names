@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31584375",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Sitarilor"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5614537,
+        46.7923802
+      ],
+      [
+        23.563239,
+        46.7898357
+      ],
+      [
+        23.5636277,
+        46.7892573
+      ],
+      [
+        23.564336,
+        46.7882327
+      ],
+      [
+        23.5650331,
+        46.7872242
+      ]
+    ]
+  },
+  "id": "way/31584375"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31646575",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Aleea Meseș",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.627784,
+        46.7672577
+      ],
+      [
+        23.6279728,
+        46.7672694
+      ],
+      [
+        23.6280688,
+        46.7672978
+      ],
+      [
+        23.6283505,
+        46.7673811
+      ]
+    ]
+  },
+  "id": "way/31646575"
+}

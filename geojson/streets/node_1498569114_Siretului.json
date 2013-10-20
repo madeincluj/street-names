@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/1498569114",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Siretului",
+    "name:hu": "Siret utca",
+    "operator": "RATUC",
+    "public_transport": "stop_position",
+    "trolleybus": "yes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6270681,
+      46.7805724
+    ]
+  },
+  "id": "node/1498569114"
+}

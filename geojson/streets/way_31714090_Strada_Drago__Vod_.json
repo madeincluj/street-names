@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31714090",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dragoș Vodă",
+    "name:hu": "Dragoș Vodă utca",
+    "old_name:hu": "Szigligeti utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5878385,
+        46.7885203
+      ],
+      [
+        23.5874855,
+        46.7892249
+      ],
+      [
+        23.5870392,
+        46.7898243
+      ],
+      [
+        23.5866739,
+        46.7909369
+      ]
+    ]
+  },
+  "id": "way/31714090"
+}

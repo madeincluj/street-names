@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24550948",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Papiu Ilarian",
+    "name:hu": "Papiu Ilarian utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5861981,
+        46.7875676
+      ],
+      [
+        23.5849278,
+        46.7903708
+      ]
+    ]
+  },
+  "id": "way/24550948"
+}

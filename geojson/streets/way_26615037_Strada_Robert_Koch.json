@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26615037",
+    "highway": "service",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Robert Koch"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5818505,
+        46.755602
+      ],
+      [
+        23.5817895,
+        46.755854
+      ],
+      [
+        23.5821223,
+        46.7561363
+      ],
+      [
+        23.5822344,
+        46.7563508
+      ],
+      [
+        23.582883,
+        46.756482
+      ],
+      [
+        23.5830489,
+        46.7565327
+      ]
+    ]
+  },
+  "id": "way/26615037"
+}

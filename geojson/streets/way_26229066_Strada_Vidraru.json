@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/26229066",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vidraru"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5615744,
+        46.7547761
+      ],
+      [
+        23.5630335,
+        46.7548173
+      ],
+      [
+        23.5640635,
+        46.7548467
+      ]
+    ]
+  },
+  "id": "way/26229066"
+}

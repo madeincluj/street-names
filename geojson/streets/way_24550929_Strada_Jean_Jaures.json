@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/24550929",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "motor_vehicle": "yes",
+    "name": "Strada Jean Jaures",
+    "name:hu": "Pálffy János utca",
+    "old_name:hu": "Pálffy János utca",
+    "oneway": "yes",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5828936,
+        46.7865921
+      ],
+      [
+        23.582151,
+        46.7882305
+      ],
+      [
+        23.5821211,
+        46.7882964
+      ],
+      [
+        23.5819689,
+        46.7886986
+      ],
+      [
+        23.5816957,
+        46.7894208
+      ]
+    ]
+  },
+  "id": "way/24550929"
+}

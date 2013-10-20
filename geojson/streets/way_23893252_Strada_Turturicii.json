@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/23893252",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Turturicii"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5836429,
+        46.755918
+      ],
+      [
+        23.5818505,
+        46.755602
+      ],
+      [
+        23.5811796,
+        46.7554807
+      ],
+      [
+        23.5811373,
+        46.7555834
+      ]
+    ]
+  },
+  "id": "way/23893252"
+}

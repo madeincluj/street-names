@@ -1,0 +1,50 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7934741",
+    "highway": "primary",
+    "int_ref": "E60",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Izlazului",
+    "name:hu": "Bazsarózsa utca",
+    "old_name:hu": "Déli utca",
+    "postal_code": "400655",
+    "smoothness": "excellent",
+    "trolley_wire": "yes"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5576204,
+        46.7552882
+      ],
+      [
+        23.5582166,
+        46.7553195
+      ],
+      [
+        23.559677,
+        46.7553796
+      ],
+      [
+        23.5606834,
+        46.7554173
+      ],
+      [
+        23.5622423,
+        46.7555027
+      ],
+      [
+        23.5626645,
+        46.7555288
+      ],
+      [
+        23.5637776,
+        46.7555533
+      ]
+    ]
+  },
+  "id": "way/7934741"
+}

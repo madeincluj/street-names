@@ -1,0 +1,34 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/236520065",
+    "access": "permissive",
+    "bicycle": "private",
+    "cycleway": "lane",
+    "designation": "drum acces",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "no",
+    "lanes": "1",
+    "maxspeed": "30",
+    "motor_vehicle": "permissive",
+    "name": "Acces zona blocuri",
+    "oneway": "no",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6067922,
+        46.7545897
+      ],
+      [
+        23.6046195,
+        46.7540677
+      ]
+    ]
+  },
+  "id": "way/236520065"
+}

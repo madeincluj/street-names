@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647475",
+    "highway": "residential",
+    "maxspeed": "RO:urban",
+    "name": "Strada Dimitrie Cantemir",
+    "name:hu": "Dimitrie Cantemir utca",
+    "old_name:hu": "Barcsay utca"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5990117,
+        46.7630859
+      ],
+      [
+        23.6008194,
+        46.7648341
+      ],
+      [
+        23.6017642,
+        46.7652306
+      ]
+    ]
+  },
+  "id": "way/31647475"
+}

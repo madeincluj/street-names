@@ -1,0 +1,37 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31623812",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Minerilor",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6047814,
+        46.7692878
+      ],
+      [
+        23.6056139,
+        46.7695994
+      ],
+      [
+        23.6074593,
+        46.7700932
+      ],
+      [
+        23.6080601,
+        46.7701872
+      ],
+      [
+        23.6090603,
+        46.7702576
+      ]
+    ]
+  },
+  "id": "way/31623812"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/31647085",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Vasile Lupu",
+    "source": "www.norc.ro"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.6053821,
+        46.7653216
+      ],
+      [
+        23.6071313,
+        46.7658669
+      ],
+      [
+        23.6087105,
+        46.7663137
+      ],
+      [
+        23.6100536,
+        46.7666871
+      ],
+      [
+        23.6132106,
+        46.7671824
+      ],
+      [
+        23.6173966,
+        46.7678658
+      ]
+    ]
+  },
+  "id": "way/31647085"
+}

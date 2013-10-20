@@ -1,0 +1,17 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "node/668946172",
+    "crossing": "traffic_signals",
+    "crossing_ref": "pelican",
+    "highway": "crossing"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.6069144,
+      46.7733376
+    ]
+  },
+  "id": "node/668946172"
+}

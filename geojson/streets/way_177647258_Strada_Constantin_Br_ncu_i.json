@@ -1,0 +1,47 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/177647258",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "RO:urban",
+    "name": "Strada Constantin Brâncuși",
+    "name:hu": "Constantin Brâncuși utca",
+    "old_name:hu": "Györgyfalvi út",
+    "ref": "DJ103G"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.601499,
+        46.7675203
+      ],
+      [
+        23.6017491,
+        46.7673819
+      ],
+      [
+        23.6024898,
+        46.7669721
+      ],
+      [
+        23.6026038,
+        46.7669079
+      ],
+      [
+        23.6034437,
+        46.7664383
+      ],
+      [
+        23.6053821,
+        46.7653216
+      ],
+      [
+        23.6068368,
+        46.7644836
+      ]
+    ]
+  },
+  "id": "way/177647258"
+}

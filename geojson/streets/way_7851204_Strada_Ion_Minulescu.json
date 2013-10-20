@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "properties": {
+    "@id": "way/7851204",
+    "highway": "residential",
+    "is_in:city": "Cluj-Napoca",
+    "maxspeed": "RO:urban",
+    "name": "Strada Ion Minulescu"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        23.5920697,
+        46.759904
+      ],
+      [
+        23.5928627,
+        46.7601831
+      ],
+      [
+        23.5926052,
+        46.7613943
+      ],
+      [
+        23.5923618,
+        46.7613757
+      ],
+      [
+        23.5918812,
+        46.7622283
+      ],
+      [
+        23.5911259,
+        46.7620813
+      ]
+    ]
+  },
+  "id": "way/7851204"
+}
