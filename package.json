@@ -1,0 +1,8 @@
+{
+  "name": "madeincluj-street-names",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-yaml": "~0.2.1"
+  }
+}

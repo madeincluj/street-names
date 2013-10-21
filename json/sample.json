@@ -1,0 +1,18 @@
+{
+  "id": null,
+  "name": "Piața Mihai Viteazu",
+  "historical_names": [
+    {
+      "ro": "Nume vechi românesc",
+      "hu": "Nume vechi unguresc",
+      "year": 1900,
+      "description": "Descriere."
+    },
+    {
+      "ro": "Nume vechi românesc",
+      "hu": "nume vechi unguresc",
+      "year": 1910,
+      "description": "Niște bla-bla-uri."
+    }
+  ]
+}
