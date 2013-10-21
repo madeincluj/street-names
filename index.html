@@ -18,18 +18,7 @@
     <script type="text/javascript">
     
 function load(data) {
-  streetList = data.features.filter(function(i) {
-    return true;
-    // return i.properties.name 
-      // && (!i.properties.operator || i.properties.operator !== 'RATUC')
-      // && (!i.properties.highway || i.properties.highway !== 'bus_stop')
-      // && (!i.properties.railway || i.properties.railway !== 'tram_stop');
-  }).map(function(i) {
-    i.properties.id = i.id.split('/')[1];
-    delete i.properties['@id'];
-    delete i.id;
-    return i;
-  });
+  streetList = data;
 }
     </script>
 	</head>
@@ -38,7 +27,7 @@ function load(data) {
       Add street names
     </header>
 		<div id="map"></div>
-		<script type="text/javascript" src="export.geojson"></script>
+		<script type="text/javascript" src="merged-streets.json"></script>
 		<script type="text/javascript" src="js/map-init.js"></script>
 	</body>
 </html>

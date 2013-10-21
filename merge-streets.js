@@ -1,15 +1,20 @@
 var fs = require('fs');
-var streets = JSON.parse(fs.readFileSync('geojson/streets.geojson'));
+var streets = JSON.parse(fs.readFileSync('export.geojson'));
 
 var map = {};
-streets.features.forEach(function(street) {
+streets.features
+	.filter(function(street) {
+		return street.geometry.type === 'LineString';
+	})
+	.forEach(function(street) {
 	var name = street.properties.name || 'unnamed';
 	if (!map[name]) {
 		map[name] = street;
+		street.geometry.coordinates = [street.geometry.coordinates];
+		street.geometry.type = "MultiLineString";
+
 	} else {
-		if (Array.isArray(map[name].geometry.coordinates[0])) {
-			map[name].geometry.coordinates[0] = map[name].geometry.coordinates[0].concat(street.geometry.coordinates[0]);
-		}
+			map[name].geometry.coordinates = map[name].geometry.coordinates.concat([street.geometry.coordinates]);
 	}
 });
 
@@ -22,4 +27,6 @@ var geojson = {
 	features: features
 };
 
-fs.writeFileSync('geojson/merged-streets.json', JSON.stringify(geojson, null ,2));
+var str = "load(" + JSON.stringify(geojson, null ,2) + ");";
+
+fs.writeFileSync('merged-streets.json', str);

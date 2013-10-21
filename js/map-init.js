@@ -11,51 +11,17 @@ var map = L.map('map',{
 //Background tiles
 L.tileLayer(StamenTiles).addTo(map);
 
-//Keep track of the currently selected street
-var selectedStreet;
-
-
-console.log(streetList.length);
-var len = streetList.length;
-
-for (var i = 0; i < len; i++) {
-
-    var street = streetList[i];                    
-    
-    //if (street.dimensions == 3) {
-        //It's a MultiPolyLine, a street with multiple <way>s
-        if (typeof street.geometry.coordinates[0] != "number") {
-        
-          newLayer = new L.Polyline(street.geometry.coordinates.map(function(e) {return new L.LatLng(e[1], e[0])}));
-        } else {
-          //newLayer = new L.Polyline(new L.LatLng(street.geometry.coordinates[0], street.geometry.coordinates[1]));
-        }
-    //} else {                
-        //It's a simple Polyline, a street with one <way>
-        //newLayer = new L.polyline(street.polyline);
-    //}
-   newLayer.setStyle({opacity: 0.3, color: 'blue'});
-
-        if (typeof street.geometry.coordinates[0] != "number") {          
-            newLayer.on('mouseover', function(e) {
-            //Highlight it
-            this.setStyle({opacity: 1, color: 'orange'});
-        })
-        .on('mouseout', function(e) {                
-            //Unhighlight it, unless they've clicked on it
-            if (this != selectedStreet) {                    
-                this.setStyle({opacity: 0.3, color: 'blue'});                    
-            }
-        })
-        .on('click', function(e) {
-            //Update the infobox with the street info
-            selectedStreet = this;
-            infoBox.update(street);
-        })
-    //add the polyline to the map
-    map.addLayer(newLayer);
-
-        }
-}      
-
+L.geoJson(streetList.features, {
+    style: function(feature) {
+        return { color: "#CC0000" };
+    },
+    onEachFeature: function(feature,layer) {
+        layer.on('mouseover', function() {
+            console.log(this, arguments);
+            layer.setStyle({
+                color: "#000000"
+            })
+        });
+    }
+}).addTo(map)
 });
