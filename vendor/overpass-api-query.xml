@@ -1,0 +1,12 @@
+<osm-script output="json">
+	<union>
+		<query type="way">
+			<has-kv k="highway"/>
+			<has-kv k="name"/>
+			<bbox-query {{bbox}}/>
+		</query>
+		<item />
+		<recurse type="way-node"/>
+	</union>
+	<print mode="body"/>
+</osm-script>
