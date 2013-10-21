@@ -10,13 +10,20 @@
     <style type="text/css">
      #map { height: 700px; }
     </style>
+    <script type='text/javascript'>
+      // var L_PREFER_CANVAS = true;
+    </script>
 		<script type="text/javascript" src="js/lib/leaflet.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript">
     
 function load(data) {
   streetList = data.features.filter(function(i) {
-    return i.properties.name && (!i.properties.operator || i.properties.operator !== 'RATUC');
+    return true;
+    // return i.properties.name 
+      // && (!i.properties.operator || i.properties.operator !== 'RATUC')
+      // && (!i.properties.highway || i.properties.highway !== 'bus_stop')
+      // && (!i.properties.railway || i.properties.railway !== 'tram_stop');
   }).map(function(i) {
     i.properties.id = i.id.split('/')[1];
     delete i.properties['@id'];

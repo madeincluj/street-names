@@ -36,26 +36,26 @@ for (var i = 0; i < len; i++) {
     //}
    newLayer.setStyle({opacity: 0.3, color: 'blue'});
 
-        if (typeof street.geometry.coordinates[0] != "number") {
-    newLayer.on('mouseover',function(e) {
+        if (typeof street.geometry.coordinates[0] != "number") {          
+            newLayer.on('mouseover', function(e) {
             //Highlight it
             this.setStyle({opacity: 1, color: 'orange'});
         })
-        .on('mouseout',function(e) {                
+        .on('mouseout', function(e) {                
             //Unhighlight it, unless they've clicked on it
             if (this != selectedStreet) {                    
                 this.setStyle({opacity: 0.3, color: 'blue'});                    
             }
         })
-        .on('click',function(e) {
+        .on('click', function(e) {
             //Update the infobox with the street info
             selectedStreet = this;
             infoBox.update(street);
-        });                
-
+        })
     //add the polyline to the map
     map.addLayer(newLayer);
 
         }
-}
+}      
+
 });
