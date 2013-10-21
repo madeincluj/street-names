@@ -5,9 +5,9 @@ module.exports = function(grunt) {
 			streets: {
 				files: [{
 					expand: true,
-					cwd: 'yaml/',
+					cwd: 'metadata/',
 					src: ['*.yaml'],
-					dest: 'json/'
+					dest: 'json/metadata/'
 				}]
 			}
 		},
@@ -24,5 +24,6 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-yaml');
 	grunt.loadNpmTasks('grunt-contrib-connect');
-
+	grunt.registerTask('metadata', 'Compile street metadata from YAML source', ['yaml:streets']);
+	grunt.registerTask('default', 'Run development server', ['connect:server']);
 };
