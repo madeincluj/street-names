@@ -27,6 +27,11 @@ var features = _(
 			})
 		)
 		canonical.geometry.type = "MultiLineString";
+		canonical.properties = {
+			id: canonical.id,
+			name: canonical.properties.name
+		};
+		delete canonical.id;
 		return canonical;
 	})
 
