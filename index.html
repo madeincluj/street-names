@@ -40,6 +40,14 @@
 					},
 				}).addTo(map).on('click', function(e) {
 					console.log(e.data.properties.name);
+					var id = e.data.properties.id.replace('way/', '');
+					$.getJSON('json/metadata/' + id + '.json', function(resp) {
+						var latlng = map.mouseEventToLatLng(e.originalEvent);
+						var popup = L.popup()
+							.setLatLng(latlng)
+							.setContent(resp.name)
+							.openOn(map);
+					});
 				});
 			});
 		};
