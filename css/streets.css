@@ -1,0 +1,14 @@
+#svg-streets path {
+  fill: none;
+  stroke: #CC0000;
+}
+
+#svg-streets path:hover {
+  stroke: #000000;
+  cursor: pointer;
+}
+
+#svg-streets .highway-residential { stroke-width: 1px; }
+#svg-streets .highway-primary { stroke-width: 4px; }
+#svg-streets .highway-secondary { stroke-width: 3px; }
+#svg-streets .highway-tertiary { stroke-width: 2px; }

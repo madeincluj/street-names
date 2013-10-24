@@ -1,59 +1,51 @@
 <!doctype html>
 <html>
-	<head>
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- <meta charset="utf-8"/>
-  
-		<title>Adding street names</title>
-    <link rel="stylesheet" href="" /> 
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
-    <style type="text/css">
-     #map { height: 700px; }
-    </style>
-		<script type="text/javascript" src="js/lib/leaflet.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript">
-      $(function() {
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="utf-8"/>
+	<title>Adding street names</title>
 
-        function initialize(streetList) {
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+	<link rel="stylesheet" href="css/streets.css" />
+	<style type="text/css">
+		#map { height: 700px; }
+	</style>
 
-          //Initialize the map with a starting view and a generous maximum boundary
-          var map = L.map('map',{
-            maxBounds: [[46.6412301,23.4324747],[46.9201137,23.8047838]]
-          })
-          .fitBounds([[46.7412301, 23.53816],[46.76813, 23.59253]]);                  
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="js/lib/leaflet.js"></script>
+	<script type="text/javascript" src="js/leaflet.d3.js"></script>
 
-          var AltTiles = 'http://b.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
-          var StamenTiles = 'http://a.tile.stamen.com/toner-lite/{z}/{x}/{y}.png';
-          //Background tiles
-          L.tileLayer(StamenTiles).addTo(map);
-          L.geoJson(streetList.features, {
-              style: function(feature) {
-                  return { color: "#CC0000" };
-              },
-              onEachFeature: function(feature,layer) {
-                  layer
-                    .on('mouseover', function() {
-                        this.setStyle({
-                            color: "#000000"
-                        });
-                    })
-                    .on('mouseout', function() {
-                      this.setStyle({
-                        color: "#CC0000"
-                      });
-                    });
-              }
-          }).addTo(map);
-        };
+	<script type="text/javascript">
+		window.onload = function(){
 
-        $.getJSON('json/streets.json', function(resp) {
-          initialize(resp);
-        });
-      });
-    </script>
-	</head>
-	<body>
-		<div id="map"></div>
-	</body>
+			//Initialize the map with a starting view and a generous maximum boundary
+			var map = L.map('map',{
+				maxBounds: [[46.6412301,23.4324747],[46.9201137,23.8047838]]
+			})
+			.fitBounds([[46.7412301, 23.53816],[46.76813, 23.59253]]);
+
+			//Background tiles
+			var AltTiles = 'http://b.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
+			var StamenTiles = 'http://a.tile.stamen.com/toner-lite/{z}/{x}/{y}.png';
+			L.tileLayer(StamenTiles).addTo(map);
+
+			d3.json("json/selected-streets.json", function(collection) {
+				var layer = new L.D3geoJSON(collection, {
+					id: 'svg-streets',
+					featureAttributes: {
+						'class': function(feature) {
+							return 'highway-' + feature.properties.highway;
+						}
+					},
+				}).addTo(map).on('click', function(e) {
+					console.log(e.data.properties.name);
+				});
+			});
+		};
+	</script>
+</head>
+<body>
+	<div id="map"></div>
+</body>
 </html>
