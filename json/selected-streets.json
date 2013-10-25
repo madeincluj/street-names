@@ -4562,6 +4562,33 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "way/177921036",
+        "name": "Strada Paul Chinezu",
+        "highway": "residential"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              23.5855931,
+              46.771201
+            ],
+            [
+              23.5858578,
+              46.7707586
+            ],
+            [
+              23.5860193,
+              46.7703085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "way/177921037",
         "name": "Strada Sextil Pușcariu",
         "highway": "residential"
