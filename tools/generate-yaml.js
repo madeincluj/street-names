@@ -5,5 +5,5 @@ streets.features.forEach(function(street) {
 	var content = 'id: ' + id + '\n';
 	content += 'name: ' + street.properties.name + '\n';
 	var output = 'metadata/' + id + '.yaml';
-	if (!fs.fileExistsSync(output)) fs.writeFileSync(output, content);
+	if (!fs.existsSync(output)) fs.writeFileSync(output, content);
 });
