@@ -1,0 +1,40 @@
+{
+  "id": 177921036,
+  "name": "Strada Paul Chinezu",
+  "description": {
+    "ro": "La fel cum numele vechi al străzii Bisericii Ortodoxe, Ulița Grecilor, \nmai apoi Strada Bisericii Grecești este stâns legată de stabilirea unor comunități de greci în oraș \nla începutul secolului al XVIII.-lea, așa și Strada Kandia păstrează numele maghiar al insulei Creta. \nNumele apare deja în anul 1744 și poate să se refere peiorativ și la locuitorii întorși din Grecia \nunde fuseseră prizonieri care acum locuiau în condiții mizere.\n",
+    "hu": "Mint ahogy a későbbi Görögtemplom-utca névadása, régi nevén a Görögök sikátora, \na XVIII. században betelepült görög kereskedők jelentkezésével lehet kapcsolatos, \núgy a Kandia-utca neve is valószínüleg Kréta szigetének magyar nevét őrízte meg. \nA már 1744-ben előforduló megnevezés viszont a Kréta szigetére elhurcolt és nyomorúságos \nviszonyok közt visszatért foglyokra is utalhat.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1734,
+      "ro": "Kandia utca (Strada Kandia)",
+      "hu": "Kandia utca"
+    },
+    {
+      "year": 1899,
+      "ro": "Kinizsi utca (Strada Kinizsi)",
+      "hu": "Kinizsi utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Paul Chinez",
+      "hu": "Strada Paul Chinez"
+    },
+    {
+      "year": 1941,
+      "ro": "Kinizsi utca (Strada Kinizsi)",
+      "hu": "Kinizsi utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Kinizsi utca, Strada Chinezu Paul",
+      "hu": "Kinizsi utca, Strada Chinezu Paul"
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Paul Chinezu",
+      "hu": "Strada Paul Chinezu"
+    }
+  ]
+}
