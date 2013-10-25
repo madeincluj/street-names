@@ -9,6 +9,23 @@
 	<link rel="stylesheet" href="css/streets.css" />
 	<style type="text/css">
 		#map { height: 700px; }
+
+		.custom-popup {
+		}
+
+		.custom-popup .leaflet-popup-content-wrapper, .custom-popup .leaflet-popup-tip {
+			background: #222;
+			box-shadow: none;
+
+			width: 500px;
+			height: 500px;
+		}
+
+		.custom-popup .leaflet-popup-content-wrapper {
+			border-radius: 0;
+			color: #ccc;
+		}
+
 	</style>
 
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -18,8 +35,7 @@
 
 	<script type="text/javascript">
 		window.onload = function(){
-
-			//Initialize the map with a starting view and a generous maximum boundary
+			
 			var map = L.map('map',{
 				maxBounds: [[46.6412301,23.4324747],[46.9201137,23.8047838]]
 			})
@@ -39,11 +55,12 @@
 						}
 					},
 				}).addTo(map).on('click', function(e) {
-					console.log(e.data.properties.name);
 					var id = e.data.properties.id.replace('way/', '');
 					$.getJSON('json/metadata/' + id + '.json', function(resp) {
 						var latlng = map.mouseEventToLatLng(e.originalEvent);
-						var popup = L.popup()
+						var popup = L.popup({
+							className: 'custom-popup'
+						})
 							.setLatLng(latlng)
 							.setContent(resp.name)
 							.openOn(map);
