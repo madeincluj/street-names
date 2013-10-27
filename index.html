@@ -30,6 +30,16 @@
 			var StamenTiles = 'http://a.tile.stamen.com/toner-lite/{z}/{x}/{y}.png';
 			L.tileLayer(StamenTiles).addTo(map);
 
+			// Test streets with historical maps overlay.
+			var myTiles = '../historical-maps/img/1869/{z}/{x}/{y}.png';
+			var options = {
+				minZoom: 13,
+				maxZoom: 17,
+				opacity: 0.6,
+				tms: true
+			};
+			// L.tileLayer(myTiles, options).addTo(map);
+
 			d3.json("json/selected-streets.json", function(collection) {
 				var layer = new L.D3geoJSON(collection, {
 					id: 'svg-streets',
