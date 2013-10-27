@@ -12,3 +12,15 @@
 #svg-streets .highway-primary { stroke-width: 4px; }
 #svg-streets .highway-secondary { stroke-width: 3px; }
 #svg-streets .highway-tertiary { stroke-width: 2px; }
+
+.zoom-16 #svg-streets .highway-primary {stroke-width: 3px;}
+
+.zoom-17 #svg-streets .highway-primary {stroke-width: 2px;}
+
+.zoom-18 #svg-streets .highway-primary {stroke-width: 1px;}
+
+.zoom-17 #svg-streets .highway-secondary {stroke-width: 1px;}
+.zoom-18 #svg-streets .highway-secondary {stroke-width: 1px;}
+
+.zoom-17 #svg-streets .highway-tertiary {stroke-width: 0.8px;}
+.zoom-18 #svg-streets .highway-tertiary {stroke-width: 0.7px;}
