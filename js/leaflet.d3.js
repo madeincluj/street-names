@@ -94,7 +94,7 @@ L.D3geoJSON = L.Class.extend({
     }	
     this._oldTopLeft = topLeft;
     this._oldBottomRight = bottomRight;
-    this._svg.attr('class', 'zoom-' + e.target._zoom);
+    if (e) this._svg.attr('class', 'zoom-' + e.target._zoom);
     
 	},
 
