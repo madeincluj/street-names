@@ -17,6 +17,8 @@ L.D3geoJSON = L.Class.extend({
 
 	onAdd: function(map) {
 		this._map = map;
+    this._first = true;
+    this._initZoomLvl = map._zoom;
 
 		this._svg = d3.select(this._map.getPanes().overlayPane).append('svg');
 		this._svg.attr('pointer-events', 'none');
@@ -57,24 +59,43 @@ L.D3geoJSON = L.Class.extend({
 		this._map.off('viewreset', this.reset, this);
 	},
 
-	reset: function() {
-		var start = new Date();
+	reset: function(e) {
 		if (!this._bounds) {
 			this._bounds = d3.geo.path().projection(null).bounds(this.data);
 		}
-
 		var topLeft = this._map.latLngToLayerPoint([this._bounds[0][1], this._bounds[0][0]]),
 			bottomRight = this._map.latLngToLayerPoint([this._bounds[1][1], this._bounds[1][0]]);
 
 		this._svg
-			.attr('width', bottomRight.x - topLeft.x)
-			.attr('height', topLeft.y - bottomRight.y)
+      .attr('width', bottomRight.x - topLeft.x)
+      .attr('height', topLeft.y - bottomRight.y)
 			.style('left', topLeft.x + 'px')
 			.style('top', bottomRight.y + 'px');
 
-		this._group.attr('transform', 'translate(' + -topLeft.x + ',' + -bottomRight.y + ')');
-		this._feature.attr('d', this.path);
-		console.log((new Date()) - start);
+
+    if (this._first) {
+
+      this._group.attr('transform', 'translate(' + -topLeft.x + ',' + -bottomRight.y + ')');
+      this._feature.attr('d', this.path);
+      this._initTopLeft = topLeft;
+      this._initBottomRight = bottomRight;
+      this._first = false;
+
+    } else {
+
+      var trans = d3.transform(this._group.attr('transform')),
+      oldScale = trans.scale;
+
+      
+
+    trans.scale = [oldScale[0] * ((bottomRight.x - topLeft.x) / (this._oldBottomRight.x - this._oldTopLeft.x)), oldScale[1] * ((topLeft.y - bottomRight.y) / (this._oldTopLeft.y - this._oldBottomRight.y)) ];
+    trans.translate = [-this._initTopLeft.x, -this._initBottomRight.y];
+   this._group.attr('transform', 'scale('+trans.scale[0]+ ','+trans.scale[1]+')translate('+trans.translate[0]  +',' + trans.translate[1] +')');
+    }	
+    this._oldTopLeft = topLeft;
+    this._oldBottomRight = bottomRight;
+    this._svg.attr('class', 'zoom-' + e.target._zoom);
+    
 	},
 
 	addTo: function(map) {
