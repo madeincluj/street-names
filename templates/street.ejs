@@ -2,10 +2,10 @@
 <html>
 	<head>
 		<meta charset='utf-8'/>
-		<title><%= street.name %> &middot; madeincluj</title>
+		<title><%= name %> &middot; madeincluj</title>
 	</head>
 	<body>
-		<h1><%= street.name %></h1>
-		<p><%= street.description ? street.descriptin.ro : '' %></p>
+		<h1><%= name %></h1>
+		<p><%if (description) {%><%= description.ro %><%}%></p>
 	</body>
 </html>
