@@ -13,14 +13,10 @@
 #svg-streets .highway-secondary { stroke-width: 3px; }
 #svg-streets .highway-tertiary { stroke-width: 2px; }
 
-.zoom-16 #svg-streets .highway-primary {stroke-width: 3px;}
-
-.zoom-17 #svg-streets .highway-primary {stroke-width: 2px;}
-
-.zoom-18 #svg-streets .highway-primary {stroke-width: 1px;}
-
-.zoom-17 #svg-streets .highway-secondary {stroke-width: 1px;}
-.zoom-18 #svg-streets .highway-secondary {stroke-width: 1px;}
-
-.zoom-17 #svg-streets .highway-tertiary {stroke-width: 0.8px;}
-.zoom-18 #svg-streets .highway-tertiary {stroke-width: 0.7px;}
+#svg-streets.zoom-16 .highway-primary {stroke-width: 3px;}
+#svg-streets.zoom-17 .highway-primary {stroke-width: 2px;}
+#svg-streets.zoom-18 .highway-primary {stroke-width: 1px;}
+#svg-streets.zoom-17 .highway-secondary {stroke-width: 1px;}
+#svg-streets.zoom-18 .highway-secondary {stroke-width: 1px;}
+#svg-streets.zoom-17 .highway-tertiary {stroke-width: 0.8px;}
+#svg-streets.zoom-18 .highway-tertiary {stroke-width: 0.7px;}

@@ -54,9 +54,9 @@
 				opacity: 0.6,
 				tms: true
 			};
-			// L.tileLayer(myTiles, options).addTo(map);
+			L.tileLayer(myTiles, options).addTo(map);
 
-			d3.json("json/selected-streets.json", function(collection) {
+			d3.json("json/streets.json", function(collection) {
 				var layer = new L.D3geoJSON(collection, {
 					id: 'svg-streets',
 					featureAttributes: {
@@ -64,6 +64,7 @@
 							return 'highway-' + feature.properties.highway;
 						}
 					},
+					pointerEvents: 'visibleStroke'
 				}).addTo(map).on('click', function(e) {
 					var id = e.data.properties.id.replace('way/', '');
 					$.getJSON('json/metadata/' + id + '.json', function(resp) {
