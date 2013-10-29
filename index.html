@@ -54,7 +54,7 @@
 				opacity: 0.6,
 				tms: true
 			};
-			L.tileLayer(myTiles, options).addTo(map);
+			// L.tileLayer(myTiles, options).addTo(map);
 
 			d3.json("json/streets.json", function(collection) {
 				var layer = new L.D3geoJSON(collection, {
@@ -77,6 +77,7 @@
 							.openOn(map);
 					});
 				});
+				console.log(layer._bounds);
 			});
 		};
 	</script>
