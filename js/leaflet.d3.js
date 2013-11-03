@@ -22,6 +22,7 @@ L.D3geoJSON = L.Class.extend({
     this._svg = d3.select(this._map.getPanes().overlayPane).append('svg');
     this._svg.attr('pointer-events', 'none');
     this._group = this._svg.append('g');
+    this._textGroup = this._svg.append('g');
     this._group.attr('class', 'leaflet-zoom-hide ' + (this.options.className || ''));
     if (this.options.id) {
       this._svg.attr('id', this.options.id);
@@ -40,6 +41,20 @@ L.D3geoJSON = L.Class.extend({
         .append('path')
         .on('click', this._clickHandler);
 
+    this._text = this._group.selectAll('text')
+        .data(this.data.features)
+        .enter()
+          .append('text')
+            .append('textPath')
+            .attr('startOffset', '25%')
+            .attr('spacing', 'auto')
+            .attr('method', 'stretch')
+            .attr('xlink:href', function(d) {
+              return '#' + d.properties.id;
+            })
+              .append('tspan')
+                .text(function(d) {return d.properties.name;})
+            .attr('dy', '-1');
     this._map.on('viewreset', this.reset, this);
     this._feature.attr('pointer-events', this.options.pointerEvents || 'visible');
 

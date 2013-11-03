@@ -56,13 +56,16 @@
 			};
 			// L.tileLayer(myTiles, options).addTo(map);
 
-			d3.json("json/streets.json", function(collection) {
+			d3.json("json/selected-streets.json", function(collection) {
 				var layer = new L.D3geoJSON(collection, {
 					id: 'svg-streets',
 					featureAttributes: {
 						'class': function(feature) {
 							return 'highway-' + feature.properties.highway;
-						}
+						},
+            id: function(feature) {
+              return feature.properties.id
+            }
 					},
 					pointerEvents: 'visibleStroke'
 				}).addTo(map).on('click', function(e) {
@@ -77,7 +80,6 @@
 							.openOn(map);
 					});
 				});
-				console.log(layer._bounds);
 			});
 		};
 	</script>

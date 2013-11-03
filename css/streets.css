@@ -20,3 +20,17 @@
 #svg-streets.zoom-18 .highway-secondary {stroke-width: 1px;}
 #svg-streets.zoom-17 .highway-tertiary {stroke-width: 0.8px;}
 #svg-streets.zoom-18 .highway-tertiary {stroke-width: 0.7px;}
+
+
+#svg-streets text {
+  font-size: 7px; 
+  fill:rgba(204, 0, 0, 1);
+}
+
+#svg-streets.zoom-18 text { font-size: 2px; }
+#svg-streets.zoom-17 text { font-size: 3px; }
+#svg-streets.zoom-16 text { font-size: 4px; }
+
+#svg-streets textPath {
+  start-offset: 10%;
+}
