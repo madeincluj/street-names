@@ -1,10 +1,8 @@
 {
   "id": 10508024,
-  "name": {
-    "ro": "Strada Napoca",
-    "hu": null,
-    "description": null
-  },
+  "slug": "napoca",
+  "name": "Strada Napoca",
+  "description": null,
   "historical_names": [
     {
       "ro": null,
