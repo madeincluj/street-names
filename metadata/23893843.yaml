@@ -1,31 +1,31 @@
 id: 23893843
 name: Strada Matei Corvin
 slug: matei-corvin
-description: 
+description:
   hu: A Nagypiac északnyugati sarkából az Óvárba, Mátyás király szülőháza felé vezető szűk utca. Kezdetben az Óvárból kivezető út. A 6. szám alatt áll Mátyás király szülőháza áll. 
-  ro: Inițial a fost strada de acces spre cetatea veche. Astăzi este strada îngustă care pornește din colțul nordvestic al Pieței Unirii spre casa Matei Corvin, situată în incinta cetății vechi, la nr. 6 al acestei străzi. 
+  ro: Inițial a fost strada de acces spre cetatea veche. Astăzi este strada îngustă care pornește din colțul nordvestic al Pieței Unirii spre casa Matei Corvin, situată în incinta cetății vechi, la nr. 6 al acestei străzi.
 historical_names:
-  - 
+  -
     year: 1869
-    ro: Mátyás utca (Strada Matia)
+    ro: Strada Matia
     hu: Mátyás utca
   -
     year: 1893
-    ro: Mátyás király utca (Strada Regele Matia)
+    ro: Strada Regele Matia
     hu: Mátyás király utca
   -
     year: 1923
     ro: Strada Regele Matia
-    hu: Strada Regele Matia (Mátyás király utca)
+    hu:
   -
     year: 1941
-    ro: Mátyás király utca (Strada Regele Matia)
+    ro: Strada Regele Matia
     hu: Mátyás király utca
   -
     year: 1945
     ro: Strada Matei Corvin
-    hu: Mátyás király utca, Strada Matei Corvin
-  - 
+    hu:
+  -
     year: 1964
     ro: Strada Matei Corvin
-    hu: Strada Matei Corvin 
+    hu:

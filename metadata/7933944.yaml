@@ -1,3 +1,48 @@
 id: 7933944
 name: Strada Republicii
 slug: republicii
+description:
+  hu: A Majális-kút körüli tavaszi mulatságok, majálisok adtak nevet az utcának. A Strada Regala nevet az 1919. május 27-i román Ferdinánd király látogatása után kapta, amikor a királyi pár ezen utcában szállt meg, és városi kocsikázásuk során kijárási tilalmat rendeltek el a városlakóknak a konfliktushelyzetek miatt.
+  ro: Și-a primit numele de la festivitațile de 1 Mai și a petrecerilor de primăvara din jurul fântânii 1 Mai. A fost numită Strada Regală în urma vizitei din 27 mai 1919 a regelui Ferdinand, eveniment cu ocazia căreia cuplul regal s-a cazat în aceasta stradă, iar ieșirea pe străzi a localnicilor in această perioadă a fost interzisă cu scopul de a evita eventuale conflicte.
+historical_names:
+  -
+    year: 1836
+    ro: Strada Maialului
+    hu: Majális utca 
+  -
+    year: 1865
+    ro: Strada Házsongárd
+    hu: Házsongárd utca 
+  -
+    year: 1893
+    ro: Strada Cărbunelui
+    hu: Kül-szén utca 
+  -
+    year: 1899
+    ro: Strada Cărbunelui
+    hu: Külső-Szén utca 
+  -
+    year: 1900
+    ro: Strada Maialului
+    hu: Majális utca 
+  -
+    year: 1923
+    ro: Strada Regală
+    hu: Királyi utca
+  - 
+    year: 1941
+    ro: Strada Maialului
+    hu: Majális utca 
+  -
+    year: 1945
+    ro: Strada Maialului, Majális utca până la strada Haller
+    hu: Majális utca, Strada Regala az elejétől a Haller Károly utcáig
+  -
+    year: 1964
+    ro: Strada Republicii sau strada Maialului
+  -
+    year: 1990
+    ro: Strada Gheorghe Bilascu
+  -
+    year: 1999
+    ro: Strada Republicii

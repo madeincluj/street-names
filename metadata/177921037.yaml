@@ -1,49 +1,38 @@
 id: 177921037
 name: Strada Sextil Pușcariu
 slug: sextil-puscariu
-description:
-  hu: |
-    Bocskai István és Mátyás király szülőháza között nyíló utca. 
-    Nevét az Óvárnak az utca derékszögű kanyarjában álló egykori délkeleti szöglettornyáról, 
-    a később börtönné alakított Toronyról kapta, amely valószínűleg a XIII. század első 
-    felében épült fel a régi várfal saroktornyaként. 
-    Amikor a Szent Mihály- templom piactere körül megnövekedett várost a XV. század elejétől fallal kerítették, 
-    védelmi rendeltetése megszűnt. Lehet ekkor kezdték tömlöcként használni a régi szeglettornyot.
-  ro: |
-    Încă din epoca cetății vechi, strada turnului pornea dintre casa Bocskai și casa Matei Corvin. 
-    Numele l-a primit datorită turnului sud-estic situat în cotitura străzii, 
-    care a fost construit în prima parte a secolului al XIII-lea și era parte componentă a zidului vechi al cetății. 
-    Când orașul a început să se dezvolte în jurul bisericii Sfântul Mihail la începuturile secolului al XV-lea, 
-    turnul a fost cuprins de ziduri noi, pierzându-și astfel rolul inițial și devenind temniță.
-
-historical_names: 
+description: 
+  hu: Bocskai István és Mátyás király szülőháza között nyíló utca. Nevét az Óvárnak az utca derékszögű kanyarjában álló egykori délkeleti szöglettornyáról, a később börtönné alakított Toronyról kapta, amely valószínűleg a XIII. század első felében épült fel a régi várfal saroktornyaként. Amikor a Szent Mihály- templom piactere körül megnövekedett várost a XV. század elejétől fallal kerítették, védelmi rendeltetése megszűnt. Lehet ekkor kezdték tömlöcként használni a régi szeglettornyot.
+  ro: Încă din epoca cetății vechi, strada turnului pornea dintre casa Bocskai și casa Matei Corvin. Numele l-a primit datorită turnului sud-estic situat în cotitura străzii, care a fost construit în prima parte a secolului al XIII.-lea și era parte componentă a zidului vechi al cetății. Când orașul a început să se dezvolte în jurul bisericii Sfântul Mihail la începuturile secolului al XV.-lea, turnul a fost cuprins de ziduri noi, pierzându-și astfel rolul inițial și devenind temniță.
+historical_names:
   -
     year: 1852
-    ro: Torony utca (Strada turnului)
-    hu:
-  - 
+    ro: Strada Turnului
+    hu: Torony utca
+  -
     year: 1899
-    ro: Bocskay utca (Strada Bocskay)
-  - 
+    ro: Strada Bocskay
+    hu: Bocskay utca
+  -
     year: 1923
     ro: Strada Ion Radu
     hu:
-  - 
+  -
     year: 1941
-    ro: Bocskai utca (Strada Bocskay)
-
-  - 
+    ro: Strada Bocskay
+    hu: Bocskai utca
+  -
     year: 1945
-    ro: Strada Ion Radu
-
-  - 
+    ro: Bocskai utca, Strada Ion Radu
+    hu:
+  -
     year: 1948
-    ro: Strada Bernát Andor
-
-  - 
+    ro: 
+    hu: Strada Bernát Andor
+  -
     year: 1964
     ro: Strada Toplița
-
+    hu:
   - 
     year: 1999
     ro: Strada Sextil Pușcariu

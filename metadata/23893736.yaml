@@ -1,4 +1,43 @@
 id: 23893736
 name: Strada Universității
 slug: universitatii
-
+description:
+  hu:
+  ro:
+historical_names:
+  -
+    year: 1453
+    ro:
+    hu: Zeben utca
+  -
+    year: 1497
+    ro:
+    hu: Torda utca
+  -
+    year: 1850
+    ro:
+    hu: Belső- Torda utca
+  -
+    year: 1899
+    ro:
+    hu: Egyetem utca
+  -
+    year: 1923
+    ro: Strada Universității
+    hu:
+  -
+    year: 1941
+    ro:
+    hu: Egyetem utca
+  -
+    year: 1945
+    ro: Egyetem utca, Strada Universității
+    hu: 
+  -
+    year: 1948
+    ro: Strada Puskin utca
+    hu:
+  -
+    year: 1964
+    ro: Strada Universității
+    hu:

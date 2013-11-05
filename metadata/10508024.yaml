@@ -1,13 +1,38 @@
 id: 10508024
 slug: napoca
 name: Strada Napoca
+name: Strada Napoca
 description:
+  hu: Nevét arról kaphatta, hogy a városbeliek ezen az utcán hordták be a szénát a Trefort, a Mikó, a Kőkert , a Holdvilág utca környéki kaszálokról. Illetve a Szent György téren (Piata Pacii)  előtte szénapiac volt.
+  ro: Pe această stradă transportau locuitoii clujului vechi fânul colectat pe luncile din jurul străzilor Napoca, Clinicilor, Hașdeu, Prof. Gh. Marinescu respectiv Piața Păcii, care găzduia târgul de fân.
 historical_names:
   -
-    ro:
-    hu:
-    description:
+    year: 1453
+    ro: Strada Fânului
+    hu: Széna utca
   -
-    ro:
-    hu:
-    description:
+    year: 1574
+    ro: Strada Cărbunelui
+    hu: Szén utca 
+  -
+    year: 1685
+    ro: Strada Fânului
+    hu: Széna utca
+  -
+    year: 1696
+    ro: Strada Cărbunelui
+    hu: Szén utca
+  -
+    year: 1894
+    ro: Strada Jókai
+    hu: Jókai út
+  -
+    year: 1945
+    ro: Strada Jókai utca
+    hu: Strada Jókai utca
+  -
+    year: 1964
+    ro: Strada Napoca
+    hu: 
+media:
+  historical-photography: [24]
