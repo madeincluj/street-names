@@ -1,5 +1,36 @@
 {
   "id": 7976448,
   "name": "Strada Cuza Vodă",
-  "slug": "cuza-voda"
+  "slug": "cuza-voda",
+  "description": {
+    "hu": "A XIX. század elején kiterjedt kert, a postamester kertje volt itt, innét az utca neve. A lovas posta korában a Postaréttel együttesen a postamester földje volt azért, hogy a lovaknak takarmányt termesszen.\n",
+    "ro": "La începutul secolului al XIX.-lea aici se situa grădina stimabilului diriginte al poștei, de aici provine primul nume al străzii. Pe vremea când poștașii transportau corespondența pe cai, grădina avea funcționalitatea de a oferi hrană animalelor.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1869,
+      "hu": null,
+      "ro": "Postakert utca (Strada Grădina Poștei)"
+    },
+    {
+      "year": 1923,
+      "hu": null,
+      "ro": "Strada Clemenceanu"
+    },
+    {
+      "year": 1941,
+      "hu": null,
+      "ro": "Postakert utca (Strada Grădina Poștei)"
+    },
+    {
+      "year": 1945,
+      "hu": null,
+      "ro": "Postakert utca, Strada Clemenceau"
+    },
+    {
+      "year": 1964,
+      "hu": null,
+      "ro": "Strada Cuza Vodă"
+    }
+  ]
 }

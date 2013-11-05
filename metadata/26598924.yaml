@@ -1,3 +1,33 @@
 id: 26598924
 name: Strada Ploiești
 slug: ploiesti
+description:
+  hu: Kolozsvár leghosszabb utcája volt.
+  ro: A fost cea mai lungă stradă a Clujului.
+historical_names:
+  -
+    year: 1852
+    hu:
+    ro: Hosszú utca (Strada Lungă) 
+  - 
+    year: 1923
+    hu: 
+    ro: Strada Londrei 
+  - 
+    year: 1937
+    hu:
+    ro: Strada Toma G. Masaryk 
+  - 
+    year: 1941
+    hu: 
+    ro: Hosszú utca
+  - 
+    year: 1945
+    hu:
+    ro: Hosszú utca, Strada Masaryk
+  - 
+    year: 1958 (cca.)
+    ro: Strada Julius Fucik 
+  - 
+    year: 1964
+    ro: Strada Ploiești

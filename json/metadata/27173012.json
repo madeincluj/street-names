@@ -1,5 +1,36 @@
 {
   "id": 27173012,
   "name": "Strada Frédéric Joliot-Curie",
-  "slug": "frederic-joliot-curie"
+  "slug": "frederic-joliot-curie",
+  "description": {
+    "hu": "Nevét az Unitárius Kollégium építésekor a helyhatóság adta. Berde keresztneve nem Mózes, hanem Mózsa volt. Úgy tűnik, a névadók, a névadók ezt a Mózes becéző változatának tekintették, holott a székelyek körében a Mózsa a megszokott.\n",
+    "ro": "Strada și-a primit primul nume în timpul construirii Colegului Unitarian.  Omul politic și sponsorul acestor construcții însă se numea defapt Berde Mózsa, dar acest nume a fost considerat unul de alint și schimbat. Strada poartă astăzi numele  chimistului francez, laureat a lPremiului Nobel pentru chimie în anul 1935.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1900,
+      "hu": null,
+      "ro": "Berde Mózes utca"
+    },
+    {
+      "year": 1923,
+      "hu": null,
+      "ro": "Strada Berde"
+    },
+    {
+      "year": 1941,
+      "hu": null,
+      "ro": "Berde Mózes utca"
+    },
+    {
+      "year": 1945,
+      "hu": null,
+      "ro": "Berde mózes utca, Strada Berde Mózes"
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Frédéric Juliot-Curie",
+      "hu": null
+    }
+  ]
 }

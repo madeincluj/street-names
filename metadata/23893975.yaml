@@ -1,3 +1,37 @@
 id: 23893975
 name: Strada Horea
 slug: horea
+description:
+  hu: |
+    Kezdettől Hidelve legjelentősebb utcája volt, amely később a vasútállomásig vezető hosszú utca lett. Az utca forgalma az 1870-es vasútállomás avatása után nőtt meg. A forgalom megkönnyítése érdekében az utca elején a közlekedést akadályozó szűk, sikátorszerű Zsidó utca lebontásával és a vashíd felépítésével főutcává alakították. Ezután rövid idő után teljesen átépítették, és elvesztette a mezőgazdálkodó-állattartó hóstáti lakosság által kialakított arculatát.
+  ro: |
+    A fost strada principală a zonei din periferia orașului, care după 1870 a devenit foarte utilizată, fiind strada care ducea spre gară. Pentru a rezolva problemele ce îngreunau traficul, ulița Zsidó/ Evreilor a fost demolată și a fost construit un pod de fier. Mai târziu zona a fost total sistematizată, pierzându-și aspectul de zonă periferică de agricultură a orașului, locuită de Hoștățeni.
+historical_names:
+  -
+    year: \?
+    hu:
+    ro: Platea Maior 
+  - 
+    year: 1565
+    hu:
+    ro: Nagy utca (Strada Mare) 
+  - 
+    year: 1899 
+    hu:
+    ro: Ferencz József út (Drumul Ferencz József) 
+  - 
+    year: 1923
+    hu:
+    ro: Strada Regele Ferdinand 
+  - 
+    year: 1941
+    hu: 
+    ro: Horthy út
+  - 
+    year: 1945
+    hu: 
+    ro: Horthy út, Calea Horea
+  - 
+    year: 1964
+    hu: 
+    ro: Strada Horea 

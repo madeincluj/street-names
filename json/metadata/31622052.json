@@ -1,5 +1,41 @@
 {
   "id": 31622052,
   "name": "Strada Nicolae Bălcescu",
-  "slug": "nicolae-balcescu"
+  "slug": "nicolae-balcescu",
+  "description": {
+    "hu": "Valószínűleg az utca elején, baloldalt, a Puszta utca jobb oldaláig terjedő Wesselényi- kertről kapta a nevét.\n",
+    "ro": "Strada a fost numită Wesselényi, pentru că se afla în vecinătatea grădinilor care aparținea familiei de nobili cu același nume.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1852,
+      "hu": null,
+      "ro": "Wesselényi utca (Strada Wesselényi)"
+    },
+    {
+      "year": 1899,
+      "hu": null,
+      "ro": "Esterházy utca (Strada Esterházy)"
+    },
+    {
+      "year": 1923,
+      "hu": null,
+      "ro": "Strada Nicolae Bălcescu"
+    },
+    {
+      "year": 1941,
+      "hu": null,
+      "ro": "Esterházy utca (Strada Esterházy)"
+    },
+    {
+      "year": 1945,
+      "hu": null,
+      "ro": "Esztreházy utca, Strada Nicolae Bălcescu"
+    },
+    {
+      "year": 1964,
+      "hu": null,
+      "ro": "Strada Nicolae Bălcescu"
+    }
+  ]
 }

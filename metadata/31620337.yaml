@@ -1,3 +1,37 @@
 id: 31620337
 name: Strada Iașilor
 slug: iasilor
+description:
+  hu: |
+    A Szamos partján vezető utca nevét a Kolozsváron Nagyszamosnak nevezett Szamos folyóról kapta.
+  ro: |
+    Strada construită în paralel cu Someșul a primit acest nume pentru că râul era numit Someșul Mare de către Clujeni.
+historical_names:
+  -
+    year: 1869
+    hu:
+    ro: Nagy Szamos utca (Strada Someșului Mare) 
+  - 
+    year: 1917
+    hu:
+    ro: Szamos utca (Strada Someșului) 
+  - 
+    year: 1923
+    hu:
+    ro: Strada Someșul Mare 
+  - 
+    year: 1933
+    hu:
+    ro: Strada Iașilor 
+  - 
+    year: 1941
+    hu:
+    ro: Szamos utca (Strada Someșului) 
+  - 
+    year: 1945
+    hu:
+    ro: Szamos utca, Strada Iașilor
+  - 
+    year: 1964
+    hu:
+    ro: Strada Iașilor 

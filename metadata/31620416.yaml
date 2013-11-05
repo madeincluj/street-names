@@ -1,3 +1,37 @@
 id: 31620416
 name: Strada Croitorilor
 slug: croitorilor
+description:
+  hu: |
+    A Kétvízköznek ez a része a város hóstáti gazdálkodó lakosságának a településhelye volt. Csupán a XIX. század végén, a város növekedésével szorultak kinnebb a hóstáti gazdákodók. A XIX. század második felében még sok városi polgárnak itt voltak a majorjai.Majorok alatt a kétvzíközi gazdaságot értették. Ez a terület a városfalon kívül volt, hóstátban, udvarral, istállóval, kerttel rendelkező házak alkották.
+  ro: |
+    Această zonă a orașului a aparținut locuitorilor Hostăzeni care cu dezvoltarea orașului la sfârșitul secolului al XIX.-lea agricultorii s-au stabilit la periferiile orașului, fermele lor rămânând în continuare în vecinătatea străzii Major (Fermă). Această stradă se afla în afara zidului cetății, ceea ce însemna că grădiniline, curțile și casele erau foarte spațioase.
+historical_names:
+  -
+    year: 1888
+    hu:
+    ro: Major utca (Strada Fermei) 
+  - 
+    year: 1914
+    hu:
+    ro: Mikes Kelemen utca (Strada Mikes Kelemen) 
+  - 
+    year: 1923
+    hu:
+    ro: Strada Papiu Ilarian
+  - 
+    year: 1933
+    hu:
+    ro: Strada Tudor Vladimirescu
+  - 
+    year: 1941
+    hu:
+    ro: Mikes utca (Strada Mikes) 
+  - 
+    year: 1945
+    hu:
+    ro: Mikes utca, Strada Mikes Kelemen
+  - 
+    year: 1964
+    hu:
+    ro: Strada Croitorilor

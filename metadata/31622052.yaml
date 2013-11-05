@@ -1,3 +1,33 @@
 id: 31622052
 name: Strada Nicolae Bălcescu
 slug: nicolae-balcescu
+description:
+  hu: |
+    Valószínűleg az utca elején, baloldalt, a Puszta utca jobb oldaláig terjedő Wesselényi- kertről kapta a nevét.
+  ro: |
+    Strada a fost numită Wesselényi, pentru că se afla în vecinătatea grădinilor care aparținea familiei de nobili cu același nume.
+historical_names:
+  -
+    year: 1852
+    hu:
+    ro: Wesselényi utca (Strada Wesselényi) 
+  - 
+    year: 1899
+    hu:
+    ro: Esterházy utca (Strada Esterházy) 
+  - 
+    year: 1923
+    hu:
+    ro: Strada Nicolae Bălcescu 
+  - 
+    year: 1941
+    hu:
+    ro: Esterházy utca (Strada Esterházy) 
+  - 
+    year: 1945
+    hu: 
+    ro: Esztreházy utca, Strada Nicolae Bălcescu
+  - 
+    year: 1964
+    hu:
+    ro: Strada Nicolae Bălcescu
