@@ -1,5 +1,46 @@
 {
   "id": 43707295,
   "name": "Strada Andrei Șaguna",
-  "slug": "andrei-saguna"
+  "slug": "andrei-saguna",
+  "description": {
+    "hu": "A XIX. Század közepén jelentős számú tímár lakott itt. A vízigényes foglalkozásnak kedvezett a Kisszamos (Malomárok) partja által kínált hely. Az egyedüli utca, amely nem a Belső (Szappan) utca meghosszabbításaként épült, hanem a várfalon kívül, azzal párhuzamosan. A fal és a Kisszamos (Malomárok) közötti keskeny sáv cask egy sor ház felépítésének adott helyet, innen  ered a Timár sor megnevezés.\n",
+    "ro": "La începutul secolului al XIX-lea această stradă era în mare parte locuită de dubălari, care și-au ales această stradă datorită funcționalității Canalului Morii. Este singura stradă, care cu toate că purta numele în nume adjectival ‘exterior’, nu se afla în extensia Străzii Săpunului din interiorul zidului cetății, ci în paralel cu această stradă. Spațiul îngust dintre Canalul Morii și zidul cetății a permis construirea unui singur rând de case pe această stradă, de aici și numele de Rândul Dubălarilor.\n"
+  },
+  "historical_names": [
+    {
+      "year": "1852-1857",
+      "ro": "Timár utca (Strada Dubălarilor)",
+      "hu": "Timár utca"
+    },
+    {
+      "year": 1869,
+      "ro": "Külső Szappan utca (Strada Săpunului Exterioară)",
+      "hu": "Külső Szappan utca"
+    },
+    {
+      "year": 1903,
+      "ro": "Timár sor (Rândul Dubălarilor)",
+      "hu": "Timár sor"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Dubălarilor",
+      "hu": "Timár utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Strada Dubălarilor, Timár utca",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Dubălarilor",
+      "hu": "Timár utca"
+    },
+    {
+      "year": 1990,
+      "ro": "Strada Andrei Șaguna",
+      "hu": null
+    }
+  ]
 }

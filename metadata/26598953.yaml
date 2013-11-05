@@ -1,3 +1,37 @@
 id: 26598953
 name: Strada Argeș
 slug: arges
+description:
+  hu: |
+    A XIX. század elején kezdett kialakulni. Nevét a Kisszamos folyását követő utcaként kapta.
+  ro: |
+    Strada s-a dezvoltat la începutul secolului al XIX.-lea și s-a numit Strada Someșul Mic, pentru că se situa în paralel cu Canalul Morii, cunoscut sun acest nume. 
+historical_names:
+  -
+    year: 1869
+    ro: Kis Szamos utca (Strada Someșul Mic)
+    hu: Kis Szamos utca
+  -
+    year: 1903
+    ro: Szamos utca (Strada Someș)
+    hu: Szamos utca
+  -
+    year: 1914
+    hu: Apáczai utca
+    ro: Strada Apáczai
+  -
+    year: 1916
+    hu: Apáczai Csere János utca
+    ro: Strada Apáczai Csere János
+  -
+    year: 1923
+    ro: Strada Călugărițelor
+    hu: Apácák utcája
+  -
+    year: 1941
+    ro: Strada Apáczai Csere János
+    hu: Apáczai Csere János utca
+  -
+    year: 1964
+    ro: Strada Argeș
+    hu:

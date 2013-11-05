@@ -1,3 +1,33 @@
 id: 43707065
 name: Strada Cotită
 slug: cotita
+description:
+  hu: |
+    A Görbe nevet azért kapta, mert eredetileg az utca nem ott kezdődött ahol ma, hanem a Kurta szappan (Dávid Ferenc) utcától, majd a második ház után derékszögben jobbra kanyarodott.
+  ro: |
+    Strada a primit numele de ‘Cotită’ pentru că pornea din strada Dávid Ferenc și după a doua casă se curba spre dreapta, formând un unghi, cot, de 90 de grade.
+historical_names:
+  -
+    year: 1852-1857
+    ro:
+    hu: Görbe Szappan utca
+  -
+    year: 1889
+    ro: Foduló utca (Strada Cotită)
+    hu: Foduló utca
+  -
+    year: 1923
+    ro: Strada Cotită
+    hu: Kanyar utca
+  -
+    year: 1941
+    ro: Forduló utca (Strada Cotită)
+    hu: Forduló utca
+  - 
+    year: 1945
+    ro: Strada Cotită, Forduló utca
+    hu:
+  - 
+    year: 1964
+    ro: Strada Cotită
+    hu:
