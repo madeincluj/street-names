@@ -1,5 +1,61 @@
 {
   "id": 13345555,
   "name": "Bulevardul 21 Decembrie 1989",
-  "slug": "21-decembrie-1989"
+  "slug": "21-decembrie-1989",
+  "description": {
+    "hu": "A Nagypiac északkeleti sarkából nagyjából keletre nyíló a Magyarkapuig, majd Szentpéterig   vezető utca. A XVII. századtól kezdve a várfalon belüli részét Belső-, a városfalon kívüli részét   Külső-Magyar utcának nevezték. 1372-ben tesznek róla először említést. Neve egyesek szerint azzal magyarázható, hogy a XIV. században a városban a szászok utcáitól eltérően, magyar többségű lehetett. Elsősorban a szászok Hosszú utcának hívták.",
+    "ro": "Prima referință despre stradă datează din 1372. Sașii numeau o numeau Strada Lungă, după care în secolul XIV au re-numit-o Strada Ungurilor datorită locuitorri predominant maghiari. Începând cu secolul XVII, porțiunea din interiorul zidului cetății a străzii se numea Strada Ungurilor de jos/centrală, iar porțiunea din afara zidurilor cetății era numită Strada Ungurilor de sus/exterioară. Strada se situa între colțul nord-estic al pieței centrale și Turnul de Poartă din Strada Ungurilor Ungurilor, până la piața Sf. Petru."
+  },
+  "historical_names": [
+    {
+      "year": 1453,
+      "ro": "Platea Longa",
+      "hu": "Hosszú utca"
+    },
+    {
+      "year": 1599,
+      "ro": "PLatea Extra",
+      "hu": "Külső hosszú"
+    },
+    {
+      "year": "1852-1894",
+      "ro": "Strada lungă – Strada Ungurilor centrală",
+      "hu": "Hosszú utca- Bel-, Belső-Magyar utca"
+    },
+    {
+      "year": 1899,
+      "ro": "Strada Kossuth Lajos",
+      "hu": "Kossuth Lajos utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Calea Victoriei",
+      "hu": null
+    },
+    {
+      "year": 1933,
+      "ro": "Calea Mareșal Foch",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Kossuth Lajos - Bulevardul Lenin",
+      "hu": null
+    },
+    {
+      "year": 1990,
+      "ro": "Bul. 22 Decembrie 1989",
+      "hu": null
+    }
+  ],
+  "media": {
+    "historical-photography": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  }
 }

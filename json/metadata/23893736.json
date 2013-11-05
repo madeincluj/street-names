@@ -1,5 +1,56 @@
 {
   "id": 23893736,
   "name": "Strada Universității",
-  "slug": "universitatii"
+  "slug": "universitatii",
+  "description": {
+    "hu": null,
+    "ro": null
+  },
+  "historical_names": [
+    {
+      "year": 1453,
+      "ro": null,
+      "hu": "Zeben utca"
+    },
+    {
+      "year": 1497,
+      "ro": null,
+      "hu": "Torda utca"
+    },
+    {
+      "year": 1850,
+      "ro": null,
+      "hu": "Belső- Torda utca"
+    },
+    {
+      "year": 1899,
+      "ro": null,
+      "hu": "Egyetem utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Universității",
+      "hu": null
+    },
+    {
+      "year": 1941,
+      "ro": null,
+      "hu": "Egyetem utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Egyetem utca, Strada Universității",
+      "hu": null
+    },
+    {
+      "year": 1948,
+      "ro": "Strada Puskin utca",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Universității",
+      "hu": null
+    }
+  ]
 }

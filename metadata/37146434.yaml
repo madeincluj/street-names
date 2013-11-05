@@ -2,8 +2,10 @@ id: 37146434
 name: Piața Timotei Cipariu
 slug: timotei-cipariu
 description:
-  hu: A Trencsin tér déli fele. A Fapiac régen a Trencsin teret is magába foglalta, ahol régen fát árultak.
-  ro: Partea de sud a Pieței Trencsin. Pe vremuri Piața Lemnului (Fapiac) cuprindea Piața Trencsin, loc în care se vindeau lemne.
+  hu: |
+    A Trencsin tér déli fele. A Fapiac régen a Trencsin teret is magába foglalta, ahol régen fát árultak.
+  ro: |
+    Partea de sud a Pieței Trencsin. Pe vremuri Piața Lemnului (Fapiac) cuprindea Piața Trencsin, loc în care se vindeau lemne.
 historical_names:
   -
     year: 1865
@@ -33,4 +35,3 @@ historical_names:
     year: 1990
     ro: Piața Cipariu
     hu:
-

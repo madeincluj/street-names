@@ -1,5 +1,46 @@
 {
   "id": 43707055,
   "name": "Strada Brassai Sámuel",
-  "slug": "brassai-samuel"
+  "slug": "brassai-samuel",
+  "description": {
+    "hu": null,
+    "ro": null
+  },
+  "historical_names": [
+    {
+      "year": 1831,
+      "ro": "Strada Săpunului",
+      "hu": "Szappany utca"
+    },
+    {
+      "year": 1845,
+      "ro": "Strada lungă a săpunului",
+      "hu": "Hosszú-Szappany utca"
+    },
+    {
+      "year": 1914,
+      "ro": "Strada Brassai",
+      "hu": "Brassai utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Baron L. Pop",
+      "hu": null
+    },
+    {
+      "year": 1941,
+      "ro": "Strada Brassai",
+      "hu": "Brassai utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Brassai utca / Strada Gutenberg",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Brassai Samuel",
+      "hu": null
+    }
+  ]
 }

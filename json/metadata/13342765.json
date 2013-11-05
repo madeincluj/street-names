@@ -1,5 +1,46 @@
 {
   "id": 13342765,
   "name": "Calea Moților",
-  "slug": "motilor"
+  "slug": "motilor",
+  "description": {
+    "hu": "A Monostor-kapun kívül, Kolozsmonostor felé vezető utca.",
+    "ro": "Este strada spre satul Mănăștur în afara Porții Mănășturului. Satul Mănăștur este parte a Clujului începând cu anul 1895."
+  },
+  "historical_names": [
+    {
+      "year": "1852-1899",
+      "ro": "Strada Mănășturului de sus/exterior",
+      "hu": "Kül-, Külső- Monostor utca"
+    },
+    {
+      "year": 1914,
+      "ro": "Strada Mănășturului",
+      "hu": "Monostori út"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Centrală – Calea Moților",
+      "hu": "Fő utca - Calea Moților"
+    },
+    {
+      "year": 1914,
+      "ro": "Calea Mussolini",
+      "hu": "Mussolini út"
+    },
+    {
+      "year": 1914,
+      "ro": "Calea Regele Ferdinand, Mussolini út",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Calea Moților",
+      "hu": "Mócok útja"
+    }
+  ],
+  "media": {
+    "historical-photography": [
+      4
+    ]
+  }
 }

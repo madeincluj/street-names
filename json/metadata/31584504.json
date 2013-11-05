@@ -1,5 +1,36 @@
 {
   "id": 31584504,
   "name": "Strada Tipografiei",
-  "slug": "tipografiei"
+  "slug": "tipografiei",
+  "description": {
+    "hu": "Nevét a szappanyosoktól, a szappanyfőzktől kapta, akik eleinte nagyobb számban lakhattak a város ebben a részében. Ebben az utcában állt a város északi városfal egyik tornya, a takácsoké, valamint az északkeleti városfal egyik tornya, az Olaszfokos-bástya, amelyet a szappanyos, a kupás, az üstgyártó és a nemezgyártó céh gondozott és védelmezett. Utóbbit 1817-ben bontották le.",
+    "ro": "Numele străzii provine de la săpunari, specialiști în manifactura de săpun, care locuiau în număr mare în această parte a orașului. În această stradă se găsea Turnul Țesătorilor din zidul nordic, respectiv Bastionul cu creneluri italiene, patronat de breasla săpunarilor, căldărarilor, rotarilor și pâslarilor. Bastionul a fost demolat in 1817."
+  },
+  "historical_names": [
+    {
+      "year": 1496,
+      "ro": "Strada Săpunului",
+      "hu": "Szappany utca / Seffgassen"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Xenopol",
+      "hu": null
+    },
+    {
+      "year": 1940,
+      "ro": "Strada Săpunului",
+      "hu": "Szappan utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Strada Brassai, Strada Gutenberg",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Tipografiei",
+      "hu": "Nyomda utca"
+    }
+  ]
 }

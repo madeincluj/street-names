@@ -1,5 +1,36 @@
 {
   "id": 23893728,
   "name": "Strada Inocențiu Micu Klein",
-  "slug": "inocentiu-micu-klein"
+  "slug": "inocentiu-micu-klein",
+  "description": {
+    "hu": "Nevét valószínűleg egy család nevéről kapta, akárcsak a Farkas utca esetében.",
+    "ro": "Denumirea provine probabil din numele unei familii care a locuit aici, ca și în cazul străzii Farkas."
+  },
+  "historical_names": [
+    {
+      "year": 1731,
+      "ro": "Strada Grâului",
+      "hu": "Búza utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Florilor",
+      "hu": "Virág utca"
+    },
+    {
+      "year": 1941,
+      "ro": "Strada Grâului",
+      "hu": "Búza utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Búza utca, Strada Florilor",
+      "hu": null
+    },
+    {
+      "year": 1990,
+      "ro": "Strada Inocențiu Micu Klein",
+      "hu": null
+    }
+  ]
 }

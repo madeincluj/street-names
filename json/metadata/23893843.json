@@ -9,33 +9,33 @@
   "historical_names": [
     {
       "year": 1869,
-      "ro": "Mátyás utca (Strada Matia)",
+      "ro": "Strada Matia",
       "hu": "Mátyás utca"
     },
     {
       "year": 1893,
-      "ro": "Mátyás király utca (Strada Regele Matia)",
+      "ro": "Strada Regele Matia",
       "hu": "Mátyás király utca"
     },
     {
       "year": 1923,
       "ro": "Strada Regele Matia",
-      "hu": "Strada Regele Matia (Mátyás király utca)"
+      "hu": null
     },
     {
       "year": 1941,
-      "ro": "Mátyás király utca (Strada Regele Matia)",
+      "ro": "Strada Regele Matia",
       "hu": "Mátyás király utca"
     },
     {
       "year": 1945,
       "ro": "Strada Matei Corvin",
-      "hu": "Mátyás király utca, Strada Matei Corvin"
+      "hu": null
     },
     {
       "year": 1964,
       "ro": "Strada Matei Corvin",
-      "hu": "Strada Matei Corvin"
+      "hu": null
     }
   ]
 }

@@ -1,5 +1,41 @@
 {
   "id": 26616322,
   "name": "Strada Fortăreței",
-  "slug": "fortaretei"
+  "slug": "fortaretei",
+  "description": {
+    "hu": "Régi nevét a végében álló Búzások vagy Asztalosok tornyáról kapta.",
+    "ro": "Inițial și-a primit numele (Strada grâului) de la Turnul Tâmplarilor situat la capătul acestei străzi, breasșă care se ocupa și cu trnsportarea grâului în oraș."
+  },
+  "historical_names": [
+    {
+      "year": 1869,
+      "ro": "Strada Grâului",
+      "hu": "Kis Búza utca"
+    },
+    {
+      "year": 1899,
+      "ro": "Strada Cetății",
+      "hu": "Vár utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada N. Corcheș",
+      "hu": "N. Corcheș utca"
+    },
+    {
+      "year": 1941,
+      "ro": "Strada Cetății",
+      "hu": "Vár utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Vár utca, Strada Fortăreței",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Fortăreței",
+      "hu": null
+    }
+  ]
 }

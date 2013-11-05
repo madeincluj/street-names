@@ -1,5 +1,51 @@
 {
   "id": 177921854,
   "name": "Strada Octavian Petrovici",
-  "slug": "octavian-petrovici"
+  "slug": "octavian-petrovici",
+  "description": {
+    "hu": "Eredetileg két utca képezte a Kenyér- és a Sörház utca, amely később összefort, és végül 1920-ban a román városvezetés döntése nyomán az Octavian Petrovici nevet kapta. A kenyér utca nevét a XVIII-XIX. században itt levő katonai sütőházról kapta, amelyet a XVIII. században építettek a lebontott Óvári kapu és a mellette levő várfalak felhasználásával, míg a Sörház utca neve a XVIII. század második felében itt épült sörfőzőtől ered.",
+    "ro": "Pe timpul orașului vechi strada a fost inițial compusă din stăzile Kenyér (Strada Pâinei) și Sörház (Strada Berăriei), apoi a fost unită, re-numită de mai multe ori, și în 1920 de conducerea locală a decis numele actual. Numele străzii Kenyér utca (Strada Pâinei, 1852) vine de la brutăria armatei situată aici în secolele XVIII și XIX, care a fost construită folosind materiale din poarta orașului vechi și porțiuni din zidul cetății dărâmate cu ocazia expansiunii orașului. Strada Sörház utca (Srada Berăriei, 1869) și-a primit numele după berăria construită aici în a doua parte a secolului al XIX.-lea."
+  },
+  "historical_names": [
+    {
+      "year": 1852,
+      "ro": "Strada Pâinei",
+      "hu": "Kenyér utca"
+    },
+    {
+      "year": 1869,
+      "ro": "Srada Berăriei",
+      "hu": "Sörház utca"
+    },
+    {
+      "year": 1914,
+      "ro": "Strada Báthory",
+      "hu": "Báthory utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Pâinei",
+      "hu": "Kenyér utca"
+    },
+    {
+      "year": 1942,
+      "ro": "Strada Báthori",
+      "hu": "Báthori utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Strada Báthori utca",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Poștei",
+      "hu": null
+    },
+    {
+      "year": 1999,
+      "ro": "Strada Octavian Petrovici",
+      "hu": null
+    }
+  ]
 }

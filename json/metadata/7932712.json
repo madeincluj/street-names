@@ -1,5 +1,69 @@
 {
   "id": 7932712,
   "name": "Strada Avram Iancu",
-  "slug": "avram-iancu"
+  "slug": "avram-iancu",
+  "description": {
+    "hu": "A városfalon belüli Torda utca falakon kívüli folytatásának tekintett utca. A Belső-Torda utcának a 19. Század közepéig  Torda utca volt a neve, és a Nagypiacról nagyjából a Tordakapuig húzódott. Később Egyetem utcának nevezték. A Külső-Torda utca a XIX. század második felében az itt húzódó várfal lebontása után és a városárok feltöltése után kezdett kialakulni. A feltöltés mértékét mutatja a farkas-utcai házaknak a mai utca szintjénél jóval mélyebben fekvő udvar-, illetve kertszintje.\n",
+    "ro": "Strada Avram Iancu este defapt extensia din exteriorul zidului cetății a vechii străzi numită Strada Turzii, care initial a fost și strada Sibiului. Strada a fost compusă din două părți. Strada Turzii Interioară, care se situa între Piața Centrală și Turnul de POartă din Strada Turzii, care mai târziu a devenit strada Universității. A doua stradă s-a numit Strada Turzii Exterioară și a început să se dezvolte după demolarea vechiului zid al cetății și al șanțului de fortificație situate aici. Urmele schimbărilor se văd și astăzi: nivelul curților și grădinilor din strada Kogălniceanu sunt mult mai joase decât nivelul caselor construite cu front continuu.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1453,
+      "ro": "Strada Sibiului",
+      "hu": "Zeben utca"
+    },
+    {
+      "year": 1667,
+      "ro": "Strada Turzii",
+      "hu": "Torda utca"
+    },
+    {
+      "year": "1850 (a)",
+      "ro": "Strada Turzii Interioară",
+      "hu": "Belső-Torda utca"
+    },
+    {
+      "year": "1834 (b)",
+      "ro": "Strada Turzii Exterioară",
+      "hu": "Külső-Torda utca"
+    },
+    {
+      "year": 1899,
+      "ro": "Strada Universității",
+      "hu": "Egyetem utca"
+    },
+    {
+      "year": "\\?",
+      "ro": "Strada Petőfi"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Universității",
+      "hu": "Egyetem utca"
+    },
+    {
+      "year": 1945,
+      "ro": null,
+      "hu": "Str. Universității – Egyetem utca"
+    },
+    {
+      "year": 1957,
+      "ro": "Strada Puskin",
+      "hu": "Puskin utca"
+    },
+    {
+      "year": 1964,
+      "ro": "Str. Puskin, Str. Universității",
+      "hu": null
+    },
+    {
+      "year": "\\?",
+      "ro": "Strada Petőfi",
+      "hu": "Petőfi utca"
+    },
+    {
+      "year": "\\?",
+      "ro": "Strada Avram Iancu"
+    }
+  ]
 }

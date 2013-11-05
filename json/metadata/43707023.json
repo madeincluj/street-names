@@ -1,5 +1,46 @@
 {
   "id": 43707023,
   "name": "Strada Dávid Ferenc",
-  "slug": "david-ferenc"
+  "slug": "david-ferenc",
+  "description": {
+    "hu": "Első említése a XIX. századból való, az Óváron kívüli város építése során, a XIV. század vége felé, a XV. század elején alakulhatott ki. Kurta nevét a többi Szappany utcától való megkülönböztetésként kapta. Ez volt a legrövidebb Szappany utca. Dávid Ferenc, az unitáriánus egyházalapító nevét 1899-ben kapta, mert az autca elején, baloldalt a régi unitáriánus kollégium, átellenben pedig az 1792 és 1796 között épült unitáriánus templom áll.\n",
+    "ro": "Strada este mentionată pentru prima oară în secolul al XIX-lea, iar construcția acesteia datează de la sfârșitul secolului al XIV-lea pe vremea construirii orașului din jurul zidurilor vechi ale orașului. Numele de Kurta l-a primit pentru a o deosebi de celelalte străzi cu denumirea de Szappany, aceasta fiind cea mai scurta (= ”kurta” - HU) dintre ele. A primit numele Ferenc Dávid, intemeietorul bisericii unitariene, în 1899, pe această stradă se afla vechiul colegiu unitarian, iar vis-a-vis de aceasta biserica unitariană construită între 1792 și 1796.\n"
+  },
+  "historical_names": [
+    {
+      "year": "1852-1857",
+      "ro": "Strada Scurtă a Săpunului",
+      "hu": "Kurta-Szappany utca"
+    },
+    {
+      "year": 1865,
+      "ro": "Strada Săpunului",
+      "hu": "Szappany utca"
+    },
+    {
+      "year": 1894,
+      "ro": "Strada Scurtă a Săpunului",
+      "hu": "Kurta- Szappany utca"
+    },
+    {
+      "year": 1899,
+      "ro": "Strada Dávid Ferencz",
+      "hu": "Dávid Ferencz utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Francisc David",
+      "hu": null
+    },
+    {
+      "year": 1945,
+      "ro": "Strada Dávid Ferenc utca",
+      "hu": null
+    },
+    {
+      "year": "\\?",
+      "ro": "Strada Dávid Ferenc",
+      "hu": null
+    }
+  ]
 }

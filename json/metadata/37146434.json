@@ -1,5 +1,46 @@
 {
   "id": 37146434,
   "name": "Piața Timotei Cipariu",
-  "slug": "timotei-cipariu"
+  "slug": "timotei-cipariu",
+  "description": {
+    "hu": "A Trencsin tér déli fele. A Fapiac régen a Trencsin teret is magába foglalta, ahol régen fát árultak.\n",
+    "ro": "Partea de sud a Pieței Trencsin. Pe vremuri Piața Lemnului (Fapiac) cuprindea Piața Trencsin, loc în care se vindeau lemne.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1865,
+      "ro": "Piața Trancsin/ Piața de lemne",
+      "hu": "Trencsin tér - Fapiac"
+    },
+    {
+      "year": 1899,
+      "ro": "Piața Barăcilor – Piața Hunyadi",
+      "hu": "Nagykaszárnya tér - Hunyadi-tér"
+    },
+    {
+      "year": 1923,
+      "ro": "Piața Ștefan Cel Mare",
+      "hu": null
+    },
+    {
+      "year": 1941,
+      "ro": "Piața Hunyadi",
+      "hu": "Hunyadi-tér"
+    },
+    {
+      "year": 1945,
+      "ro": "Hunyadi-tér/ Piața Ștefan Cel Mare",
+      "hu": null
+    },
+    {
+      "year": 1964,
+      "ro": "Piața Ștefan Cel Mare",
+      "hu": null
+    },
+    {
+      "year": 1990,
+      "ro": "Piața Cipariu",
+      "hu": null
+    }
+  ]
 }
