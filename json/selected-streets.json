@@ -2659,45 +2659,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/23893754",
-        "name": "Strada Ion I. C. Brătianu",
-        "highway": "residential"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              23.5965957,
-              46.769455
-            ],
-            [
-              23.595251,
-              46.7691186
-            ],
-            [
-              23.5942107,
-              46.7689277
-            ],
-            [
-              23.5932207,
-              46.7686725
-            ],
-            [
-              23.591924,
-              46.7682797
-            ],
-            [
-              23.5901409,
-              46.7678916
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/23893810",
         "name": "Bulevardul Eroilor",
         "highway": "secondary"
@@ -2888,29 +2849,6 @@
             [
               23.5873082,
               46.7747489
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/23893983",
-        "name": "Podul Horea",
-        "highway": "primary"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              23.5877472,
-              46.7741298
-            ],
-            [
-              23.5874744,
-              46.7744928
             ]
           ]
         ]
