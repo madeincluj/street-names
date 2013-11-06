@@ -2,8 +2,10 @@ id: 26616052
 name: Strada Baba Novac
 slug: baba-novac
 description:
-  hu: Az 1869 évi térkép szerint nem volt kijárata a Külső-Torda utcára. A XIX. század közepétől a Boszorkány-sor, végétől a a Csillag, a Csörgő és a Rejtek utca is  a Bethlen utca része lett. A Boszorkány-sor a putriszerű, kétes hírű házakről kapta nevét.
-  ro: Potrivit unei hărti din 1869, această stradă nu avea ieșire în strada Külső-Torda/Turzii. Începând cu mijlocul secolului al XIX.-lea, s-a numit zona Boszorkány-sor (Strada sau rândul vrăjutoarelor).Denumirea strazii Boszorkány-sor provine de la casele dubioase de tip bordel din zonă.
+  hu: |
+    Az 1869 évi térkép szerint nem volt kijárata a Külső-Torda utcára. A XIX. század közepétől a Boszorkány-sor, végétől a a Csillag, a Csörgő és a Rejtek utca is  a Bethlen utca része lett. A Boszorkány-sor a putriszerű, kétes hírű házakről kapta nevét.
+  ro: |
+    Potrivit unei hărți din 1869, această stradă nu avea ieșire în strada Külső-Torda/Turzii. Începând cu mijlocul secolului al XIX-lea, s-a numit zona Boszorkány-sor (Rândul Vrăjutoarelor). Denumirea strazii Boszorkány-sor provine de la casele dubioase de tip bordel din zonă.
 historical_names:
   -
     year: 1869

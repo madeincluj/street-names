@@ -1,3 +1,27 @@
 id: 26615442
 name: Strada Aviator Bădescu
 slug: aviator-badescu
+description:
+  hu: |
+    Eleje a Házsongárdi temető keleti szélén, a város legrégebbi zsidó temetőjéig vezető útként a XIX. Század elején alakult ki.  Miután a XIX. Század végén az út bal oldalán, a zsidó temető előtt  katonai raktár épült, az útból utca lett. 
+  ro: |
+    Strada a început să se dezvolte deja la începul secolului al XIX-lea, când începutul acesteia a fost drumul de la marginea cimitirului Házsongárd, care ducea spre cimitirul evreiesc, cel mai vechi cimitir din oraș. După ce la sfârștul aceluiaș secol s-a construit un depozit al armatei în fața cimitirului, acest drum a devenit stradă.
+historical_names:
+  -
+    year: 1929
+    ro: Strada Bădescu 
+  -
+    year: 1933 
+    ro: Căpitan aviator Bădescu / Bădescu Repülős százados 
+  -
+    year: 1941
+    ro: Balassa utca a kaptatón a kanyarig (a. Pe deal până la curba străzii) – Kosztolányi utca a kanyartól a Tordai útig (b. de la curbă până pe Calea Turzii)
+  -
+    year: 1945
+    ro: Strada Balassa utca (a)- Kosztolányi utca (b), Str. Balassa (a) - Str. Bădescu căpitan aviator utca (b)
+  - 
+    year: 1957
+    ro: Str. Balassa utca (a), Str. Căpitan aviator Bădescu (b)
+  -
+    year: 1964
+    ro: Strada Aviator Bădescu

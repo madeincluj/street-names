@@ -1,5 +1,29 @@
 id: 173140879
 name: Strada Clinicilor
 slug: clinicilor
+description:
+  hu: |
+    Mikó Imre grófnak ebben az utcában volt háza , illetve kertje, amely később az 1859-ben alakult Erdélyi Múzeum-Egylet székhelye volt. 
+  ro: |
+    Contele Mikó avea casă și grădină pe această stradă, care în anul 1859 a devenit sediul Societății Muzeului Ardelean. 
+historical_names:
+  -
+    year: 1790
+    ro: Alsó-Szén utca / Strada Fânului de jos
+  - 
+    year: 1899
+    ro: Mikó utca (Strada Mico)
+  - 
+    year: 1923
+    ro: Strada Mico 
+  - 
+    year: 1941
+    ro: Mikó utca (Strada Mico)
+  - 
+    year: 1945
+    ro: Strada Mikó utca
+  -
+    year: 1964
+    ro: Strada Clinicilor
 media:
   historical-photography: 
