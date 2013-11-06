@@ -1,6 +1,9 @@
 id: 7976556
 name: Strada Dacia
 slug: dacia
+description:
+  ro:
+  hu:
 historical_names:
   -
     year: 1869
