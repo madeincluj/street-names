@@ -5,7 +5,7 @@ var streets = JSON.parse(fs.readFileSync('vendor/overpass-api-export.json'));
 var features = _(
 		// select only LineString features
 		streets.features.filter(function(street) {
-			return street.geometry.type === 'LineString';
+			return street.geometry.type === 'LineString' || street.geometry.type === 'Polygon';
 		})
 	)
 
