@@ -1,5 +1,15 @@
 {
   "id": 31623244,
   "name": "Strada Voltaire",
-  "slug": "voltaire"
+  "slug": "voltaire",
+  "description": {
+    "ro": "",
+    "hu": ""
+  },
+  "historical_names": [
+    {
+      "year": null,
+      "ro": null
+    }
+  ]
 }

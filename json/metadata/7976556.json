@@ -1,5 +1,35 @@
 {
   "id": 7976556,
   "name": "Strada Dacia",
-  "slug": "dacia"
+  "slug": "dacia",
+  "description": {
+    "ro": null,
+    "hu": null
+  },
+  "historical_names": [
+    {
+      "year": 1869,
+      "ro": "Hídfő utca (Strada Cap de Pod)"
+    },
+    {
+      "year": 1899,
+      "ro": "Radák utca (Strada Radák)"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Dacia"
+    },
+    {
+      "year": 1941,
+      "ro": "Radák utca (Strada Radák)"
+    },
+    {
+      "year": 1945,
+      "ro": "Radák utca (Strada Radák), Strada Dacia utca"
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Dacia"
+    }
+  ]
 }

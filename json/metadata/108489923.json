@@ -2,6 +2,40 @@
   "id": 108489923,
   "name": "Strada Petru Maior",
   "slug": "petru-maior",
+  "description": {
+    "ro": null,
+    "hu": null
+  },
+  "historical_names": [
+    {
+      "year": "1852-1857",
+      "ro": "Wesselényi utca (Strada Wesselényi)"
+    },
+    {
+      "year": 1865,
+      "ro": "London utca (Strada Londrei)"
+    },
+    {
+      "year": 1904,
+      "ro": "Arany János utca (Strada Arany János)"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Petru Maior"
+    },
+    {
+      "year": 1941,
+      "ro": "Arany János utca (Strada Arany János)"
+    },
+    {
+      "year": 1945,
+      "ro": "Arany János utca, Str. Petru Maior utca"
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Petru Maior"
+    }
+  ],
   "media": {
     "historical-photography": [
       25

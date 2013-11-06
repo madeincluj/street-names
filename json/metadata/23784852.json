@@ -1,5 +1,31 @@
 {
   "id": 23784852,
   "name": "Strada Andrei Mureșanu",
-  "slug": "andrei-muresanu"
+  "slug": "andrei-muresanu",
+  "description": {
+    "hu": "Tisztviselőtelepi utca, amely az 1900-as évek elején kezdett kialakulni.\n",
+    "ro": "A fost o stradă din cartierul locuit în mare parte de funcționari, dezvoltarea ei a început la ănceputul anilor 1900.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1914,
+      "ro": "Attila utca (Strada Attila)"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Andrei Mureșeanu"
+    },
+    {
+      "year": 1941,
+      "ro": "Attila út (Calea Attila)"
+    },
+    {
+      "year": 1945,
+      "ro": "Attila utca (Strada Attila), Strada Andrei Mureșeanu"
+    },
+    {
+      "year": 1964,
+      "ro": "Strada Andrei Mureșeanu"
+    }
+  ]
 }
