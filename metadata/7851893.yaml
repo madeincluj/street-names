@@ -1,3 +1,30 @@
 id: 7851893
 name: Calea Turzii
 slug: calea-turzii
+description:
+  hu: |
+    Nevét az 1848-ig közigazgatásilag a városhoz tartozó Felekre vezető útként kapta. A Felek név germán eredetű, amely a középfelnémet nyelvjárás szerint " egy darab földet" jelent, vagy a holland vlek-kel hozható kapcsolatba, amely "mezővárost, foltot" jelent.
+  ro: |
+    A fost drumul care ducea spre satul Feleac, aflat sub administrația locală a Clujului.  Cuvântul Feleac poate proveni din germanică fiind un regionalism care înseamnă ”o bucată de pământ” sau din olandeza ”vlek”, însemnând ”oraș de câmpie, pată”.
+historical_names:
+  -
+    year: 1571
+    ro: Feleki út / Calea Feleacului 
+  - 
+    year: 1899
+    ro: Tordai út / Calea Turzii 
+  - 
+    year: 1923
+    ro: Calea Feleacului
+  - 
+    year: 1937
+    ro: Calea Episcop Nicolae Ivan
+  - 
+    year: 1941
+    ro: Tordai út (Calea Turzii) 
+  - 
+    year: 1945
+    ro: Tordai út, Calea Turzii
+  - 
+    year: 1964
+    ro: Calea Turzii

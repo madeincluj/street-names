@@ -1,5 +1,39 @@
 {
   "id": 23287428,
   "name": "Bulevardul Nicolae Titulescu",
-  "slug": "nicolae-titulescu"
+  "slug": "nicolae-titulescu",
+  "description": {
+    "hu": "A Patába vezető útként kapta a nevét. A Györgyfalvi és a Paai út találkozása előtt, a későbbi Szondy utca felől folyó cigánypatakon híd, a Piski-híd vezetett át. Bár a híd valamikor az első Világháború táján eltűnt - a Cigánypatakot csatrnába bújtatták -, az idősebbek még az 1940-es években is emlegették. A hídon áthaladva kezdődött a Patai út.\n1856-ban a Pata utca és a Györgyfalvi út sarkán álló házakat lebontották. A tömbházak - amelyek helyükre épültek -  alapjának ásásakor 26 honfoglalás kori sírra bukkantak. A helyszínen dolgozó régészek vezetője elismerte ugyan, hogy honfoglalás koriak, de amint az akkori hivatalos nézet feje tetejére állított elmélete alapján mondta, a XIII. századból valók, mert a magyarok akkor jöttek ide. \n",
+    "ro": "A fost drumul care ducea spre satul Pata. Înaintea de intersecția drumurilor spre Gheorgheni și Paai a fost un pod, peste ”Pârâul Țiganilor”, care se numea Podul Piski.  Cu toate că acest pod a fost demolat în perioada primului război mondial și pârâul a fost canalizat, în anii 1940 bătrânii Clujului încă vorbeau despre podul care ducea pe drumul spre Pata.\nÎn anul 1856 casele ce pe colțul străzii Pata cu strada Gheorgheni au fost demolate. Mai târziu, cu ocazia construirii blocurilor, și săpăturilor s-au descoperit 26 de morminte din oerioada descălecării maghiarilor.\n"
+  },
+  "historical_names": [
+    {
+      "year": 1852,
+      "ro": "Pata utca"
+    },
+    {
+      "year": 1912,
+      "ro": "Garay János utca"
+    },
+    {
+      "year": 1923,
+      "ro": "Strada Pata"
+    },
+    {
+      "year": 1937,
+      "ro": "Strada Stefan Cicio-Pop"
+    },
+    {
+      "year": 1941,
+      "ro": "Pata utca"
+    },
+    {
+      "year": 1945,
+      "ro": "Strada Pata utca"
+    },
+    {
+      "year": 1990,
+      "ro": "Bulevardul Nicolae Titulescu"
+    }
+  ]
 }

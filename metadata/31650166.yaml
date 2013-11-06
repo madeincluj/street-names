@@ -1,3 +1,31 @@
 id: 31650166
 name: Strada Bisericii Ortodoxe
 slug: bisericii-ortodoxe
+description:
+  hu: |
+    A kolozsvári görög kereskedők az itt lakó kevés, elsősorban román görögkeleti lakos egyházzá szervezése céljából 1790 körül a Házsongárd oldalon, akkoriban a város beépített területén kívüli majorok és kertek között, telket vásároltak. Ezen épült fel 1795 körül a város első görögkeleti temploma.
+    Minthogy az utcácska sokáig szűk, sikátorszerű volt, a XIX. század végéig a címszóbeli alakban vagy a Görögök temploma sikátora néven emlegették.
+  ro: |
+    În jurul anului 1790 comercianții greci din Cluj au cumpărat terenuri lână cimitirul Házsongárd, între ferme și grădini, o zonă aflată în afara zidurilor cetății cu scopul de a organiza comunitatea greacă în vederea formării bisericii greco-catolice. Aici s-a construit în jurul anului 1795 prima biserică greco-catolică din oraș. Deoarece această stradă a fost una foarte îngustă până la sfârșitul secolului al XIX-lea, inițial a primit numele de uliță.
+historical_names:
+  -
+    year: 1810
+    ro: Görögök sikátora (Ulița Grecilor) 
+  - 
+    year: 1869
+    ro: Görög templom utca (Strada Bisericii Grecești) 
+  - 
+    year: 1923
+    ro: Strada Petran (1923) 
+  - 
+    year: 1933
+    ro: Strada Bisericii Ortodoxe Române (Román görögkeleti templom)
+  - 
+    year: 1941
+    ro: Görögtemplom utca (Strada Bisericii Grecești) 
+  - 
+    year: 1945
+    ro: Görögtemplom utca, Strada Bisericii Ortodoxe
+  - 
+    year: 1964
+    ro: Strada Bisericii Ortodoxe
