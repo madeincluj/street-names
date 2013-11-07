@@ -2,8 +2,10 @@ id: 46233529
 name: Strada I. C. Brătianu
 slug: ic-bratianu
 description:
-  hu: A belső és külső megnevezés csak szóbeli értelmet nyert, ugyanis nem létezett a Belső-Király utca végén kapu. Kelemen Lajos szerint valaha Szent-Király utca volt, ezt a XVII. századtól adatok is igazolják. 1453-ban az utca nevét Platea Regisnek írták, vagyis király köznevünk "rex" jelentésével kapcsolatos. Akár a királybíróval is lehet kapcsolatos (Königrichter) mégpedig úgy, hogy egy vagy több kiváló királybíró háza az utcában állt.
-  ro: Denumirile de „parte interioară/exterioară” a străzii au avut doar significație nominativa, deoarece la capătul străzii Belső-Király nu exista o poartă conform istoricului Lajos Kelemen. Pe vremuri strada se numea Szent-Király (Sfantul-Rege), fapt documentat din secolul XVII. Numele provine din substantivul comun „rex” . Poate avea legătură și cu judecărotii curții, despre care se presupune că ar fi avut case pe această stradă.
+  hu: |
+    A belső és külső megnevezés csak szóbeli értelmet nyert, ugyanis nem létezett a Belső-Király utca végén kapu. Kelemen Lajos szerint valaha Szent-Király utca volt, ezt a XVII. századtól adatok is igazolják. 1453-ban az utca nevét Platea Regisnek írták, vagyis király köznevünk "rex" jelentésével kapcsolatos. Akár a királybíróval is lehet kapcsolatos (Königrichter) mégpedig úgy, hogy egy vagy több kiváló királybíró háza az utcában állt.
+  ro: |
+    Denumirile de „parte interioară”/„exterioară” ale străzii au avut semnificație pur nominativă, deoarece la capătul străzii Belső-Király nu exista o poartă, conform istoricului Lajos Kelemen. Pe vremuri strada se numea Szent-Király (Sfântul-Rege), fapt documentat din secolul XVII. Numele provine din substantivul comun „rex”. Poate avea legătură și cu judecărotii curții, despre care se presupune că ar fi avut case pe această stradă.
 historical_names:
   -
     year: 1453
@@ -15,7 +17,7 @@ historical_names:
     hu: Belső-Király utca
   -
     year: 1923
-    ro: Strada I.C. Bratianu
+    ro: Strada I.C. Brătianu
     hu: 
   -
     year: 1941
@@ -31,5 +33,5 @@ historical_names:
     hu:
   -
     year: 1990
-    ro: Strada I.C. Bratianu
+    ro: Strada I.C. Brătianu
     hu:
