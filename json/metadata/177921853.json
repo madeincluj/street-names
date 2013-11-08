@@ -1,4 +1,15 @@
 {
   "id": 177921853,
-  "name": "Piața Muzeului"
+  "name": "Piața Muzeului",
+  "slug": "piata-muzeului",
+  "description": {
+    "ro": null,
+    "hu": null
+  },
+  "historical_names": [
+    {
+      "year": null,
+      "ro": null
+    }
+  ]
 }
